@@ -1,0 +1,133 @@
+{
+  "RESULTADOS": {
+    "PARAMETROS": [
+      {
+        "FECHA": "27/11/2018 13:49:25",
+        "EVENTO": 16226221.0,
+        "LOCALIZACION": "Antebrazo I",
+        "IDENTIFICACION": -1660297143.0,
+        "MODO": 1
+      },
+      {
+        "FECHA": "27/11/2018 17:09:13",
+        "EVENTO": 33853309.0,
+        "LOCALIZACION": "Foley",
+        "IDENTIFICACION": -1660009752.0,
+        "MODO": 1
+      },
+      {
+        "FECHA": "27/11/2018 20:07:35",
+        "EVENTO": 16225280.0,
+        "LOCALIZACION": "Femoral D",
+        "IDENTIFICACION": -1659814343.0,
+        "MODO": 1
+      },
+      {
+        "FECHA": "27/11/2018 20:31:02",
+        "EVENTO": 16228187.0,
+        "LOCALIZACION": "Femoral D",
+        "IDENTIFICACION": -1659708743.0,
+        "MODO": 1
+      },
+      {
+        "FECHA": "30/11/2018 14:14:47",
+        "EVENTO": 10136116.0,
+        "LOCALIZACION": "Femoral D",
+        "IDENTIFICACION": -1659708743.0,
+        "MODO": 2
+      },
+      {
+        "FECHA": "27/11/2018 20:31:25",
+        "EVENTO": 16225989.0,
+        "LOCALIZACION": "Otros: FEmoral D",
+        "IDENTIFICACION": -1659707094.0,
+        "MODO": 1
+      },
+      {
+        "FECHA": "30/11/2018 21:28:09",
+        "EVENTO": 10136122.0,
+        "LOCALIZACION": "Otros: FEmoral D",
+        "IDENTIFICACION": -1659707094.0,
+        "MODO": 2
+      },
+      {
+        "FECHA": "27/11/2018 20:31:49",
+        "EVENTO": 16225420.0,
+        "LOCALIZACION": "Femoral D",
+        "IDENTIFICACION": -1659705328.0,
+        "MODO": 1
+      },
+      {
+        "FECHA": "29/11/2018 14:24:18",
+        "EVENTO": 16225280.0,
+        "LOCALIZACION": "Radial I",
+        "IDENTIFICACION": -1657724201.0,
+        "MODO": 1
+      },
+      {
+        "FECHA": "30/11/2018 14:28:24",
+        "EVENTO": 16225348.0,
+        "LOCALIZACION": "Radial I",
+        "IDENTIFICACION": -1657724201.0,
+        "MODO": 2
+      },
+      {
+        "FECHA": "30/11/2018 11:44:22",
+        "EVENTO": 16228187.0,
+        "LOCALIZACION": "Subclavia D",
+        "IDENTIFICACION": -1656517270.0,
+        "MODO": 1
+      },
+      {
+        "FECHA": "30/11/2018 11:45:42",
+        "EVENTO": 34162987.0,
+        "LOCALIZACION": "Con Balón Oral",
+        "IDENTIFICACION": -1656516467.0,
+        "MODO": 1
+      },
+      {
+        "FECHA": "30/11/2018 11:53:33",
+        "EVENTO": 16225280.0,
+        "LOCALIZACION": "Femoral I",
+        "IDENTIFICACION": -1656467375.0,
+        "MODO": 1
+      },
+      {
+        "FECHA": "30/11/2018 11:57:36",
+        "EVENTO": 16225348.0,
+        "LOCALIZACION": "Femoral I",
+        "IDENTIFICACION": -1656467375.0,
+        "MODO": 2
+      },
+      {
+        "FECHA": "30/11/2018 11:57:06",
+        "EVENTO": 16225280.0,
+        "LOCALIZACION": "Radial D",
+        "IDENTIFICACION": -1656458475.0,
+        "MODO": 1
+      },
+      {
+        "FECHA": "30/11/2018 17:26:48",
+        "EVENTO": 33854842.0,
+        "LOCALIZACION": "Nasogástrica",
+        "IDENTIFICACION": -1655780442.0,
+        "MODO": 1
+      },
+      {
+        "FECHA": "30/11/2018 21:00:03",
+        "EVENTO": 16225280.0,
+        "LOCALIZACION": "Humeral D",
+        "IDENTIFICACION": -1655383587.0,
+        "MODO": 1
+      },
+      {
+        "FECHA": "30/11/2018 21:26:32",
+        "EVENTO": 16226221.0,
+        "LOCALIZACION": "Antebrazo D",
+        "IDENTIFICACION": -1655351197.0,
+        "MODO": 1
+      }
+    ],
+    "N": 18.0
+  }
+}

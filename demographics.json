@@ -1,0 +1,144 @@
+{
+  "RECORD_DATA": {
+    "DEMOGRAPHICS": {
+      "ENCOUNTER_INFO": [],
+      "ICU_DAYS": 0.9,
+      "WEIGHT": "",
+      "SIZE": "",
+      "BODY_SURFACE": "",
+      "CEF_PERIMETER": "",
+      "AB_PERIMETER": "",
+      "FECHA_ULTIMO_INGRESO_UCI": "/Date(2018-07-30T12:10:54.000+00:00)/",
+      "BALANCE_HIDRICO": [
+        {
+          "GRUPO": "20181130",
+          "INGRESO": 3582,
+          "EGRESO": 1110
+        },
+        {
+          "GRUPO": "20181131",
+          "INGRESO": 751,
+          "EGRESO": 260
+        }
+      ]
+    },
+    "CODES": [
+      {
+        "SEQUENCE": 0,
+        "CODE": 363.0,
+        "CODE_SET": 0.0,
+        "DISPLAY": "",
+        "DESCRIPTION": "",
+        "MEANING": ""
+      },
+      {
+        "SEQUENCE": 0,
+        "CODE": 27704.0,
+        "CODE_SET": 0.0,
+        "DISPLAY": "",
+        "DESCRIPTION": "",
+        "MEANING": ""
+      },
+      {
+        "SEQUENCE": 0,
+        "CODE": 1115.0,
+        "CODE_SET": 0.0,
+        "DISPLAY": "",
+        "DESCRIPTION": "",
+        "MEANING": ""
+      },
+      {
+        "SEQUENCE": 0,
+        "CODE": 0.0,
+        "CODE_SET": 0.0,
+        "DISPLAY": "",
+        "DESCRIPTION": "",
+        "MEANING": ""
+      },
+      {
+        "SEQUENCE": 0,
+        "CODE": 0.0,
+        "CODE_SET": 0.0,
+        "DISPLAY": "",
+        "DESCRIPTION": "",
+        "MEANING": ""
+      },
+      {
+        "SEQUENCE": 0,
+        "CODE": 0.0,
+        "CODE_SET": 0.0,
+        "DISPLAY": "",
+        "DESCRIPTION": "",
+        "MEANING": ""
+      },
+      {
+        "SEQUENCE": 0,
+        "CODE": 0.0,
+        "CODE_SET": 0.0,
+        "DISPLAY": "",
+        "DESCRIPTION": "",
+        "MEANING": ""
+      },
+      {
+        "SEQUENCE": 0,
+        "CODE": 0.0,
+        "CODE_SET": 0.0,
+        "DISPLAY": "",
+        "DESCRIPTION": "",
+        "MEANING": ""
+      },
+      {
+        "SEQUENCE": 0,
+        "CODE": 0.0,
+        "CODE_SET": 0.0,
+        "DISPLAY": "",
+        "DESCRIPTION": "",
+        "MEANING": ""
+      },
+      {
+        "SEQUENCE": 0,
+        "CODE": 0.0,
+        "CODE_SET": 0.0,
+        "DISPLAY": "",
+        "DESCRIPTION": "",
+        "MEANING": ""
+      }
+    ],
+    "PRSNL": [],
+    "STATUS_DATA": {
+      "STATUS": "F",
+      "SUBEVENTSTATUS": [
+        {
+          "OPERATIONNAME": "PERSON_PRSNL_RELTN       ",
+          "OPERATIONSTATUS": "F",
+          "TARGETOBJECTNAME": "%CCL-E-35-MP_GET_PATIENT_",
+          "TARGETOBJECTVALUE": "GetPatientDemographics"
+        },
+        {
+          "OPERATIONNAME": "PERSON_PRSNL_RELTN       ",
+          "OPERATIONSTATUS": "F",
+          "TARGETOBJECTNAME": "%CCL-E-35-MP_GET_PATIENT_",
+          "TARGETOBJECTVALUE": "GetPatientDemographics"
+        },
+        {
+          "OPERATIONNAME": "PERSON_PRSNL_RELTN       ",
+          "OPERATIONSTATUS": "F",
+          "TARGETOBJECTNAME": "%CCL-E-260-MP_GET_PATIENT",
+          "TARGETOBJECTVALUE": "GetPatientDemographics"
+        },
+        {
+          "OPERATIONNAME": "PERSON_PRSNL_RELTN       ",
+          "OPERATIONSTATUS": "F",
+          "TARGETOBJECTNAME": "%CCL-E-35-MP_GET_PATIENT_",
+          "TARGETOBJECTVALUE": "GetPatientDemographics"
+        },
+        {
+          "OPERATIONNAME": "PERSON_PRSNL_RELTN       ",
+          "OPERATIONSTATUS": "F",
+          "TARGETOBJECTNAME": "%CCL-E-260-MP_GET_PATIENT",
+          "TARGETOBJECTVALUE": "GetPatientDemographics"
+        }
+      ]
+    }
+  }
+}
