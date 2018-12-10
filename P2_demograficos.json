@@ -1,0 +1,55 @@
+{
+    "RECORD_DATA": {
+        "DEMOGRAPHICS": {
+            "PATIENT_INFO": {
+                "PERSON_ID": 2.0,
+                "SEX_CD": 363.0,
+                "BIRTH_DT_TM": "1950-12-24T23:00:00Z",
+                "PATIENT_NAME": {
+                    "NAME_FIRST": "NOMBRE",
+                    "NAME_MIDDLE": "APELLIDO2",
+                    "NAME_LAST": "APELLIDO1",
+                    "NAME_FULL": "APELLIDO1 APELLIDO2, NOMBRE"
+                },
+                "ALIAS": [],
+                "PATIENT_PROVIDER": []
+            },
+            "ENCOUNTER_INFO": [],
+            "ICU_DAYS": 3.4,
+            "WEIGHT": "",
+            "SIZE": "",
+            "BODY_SURFACE": "",
+            "CEF_PERIMETER": "",
+            "AB_PERIMETER": "",
+            "FECHA_ULTIMO_INGRESO_UCI": "/Date(2018-12-07T11:06:42.000+00:00)/",
+            "BALANCE_HIDRICO": [
+                {
+                    "GRUPO": "201812010",
+                    "INGRESO": 2132,
+                    "EGRESO": 2150
+                },
+                {
+                    "GRUPO": "20181207",
+                    "INGRESO": 3689,
+                    "EGRESO": 785
+                },
+                {
+                    "GRUPO": "20181208",
+                    "INGRESO": 4175,
+                    "EGRESO": 2210
+                },
+                {
+                    "GRUPO": "20181209",
+                    "INGRESO": 3320,
+                    "EGRESO": 4100
+                }
+            ]
+        },
+        "CODES": [],
+        "PRSNL": [],
+        "STATUS_DATA": {
+            "STATUS": "S",
+            "SUBEVENTSTATUS": []
+        }
+    }
+}

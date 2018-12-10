@@ -1,0 +1,170 @@
+{
+    "RECORD_DATA": {
+        "DEMOGRAPHICS": {
+            "PATIENT_INFO": {
+                "PERSON_ID": 1.0,
+                "SEX_CD": 363.0,
+                "BIRTH_DT_TM": "1946-12-12T23:00:00Z",
+                "PATIENT_NAME": {
+                    "NAME_FIRST": "NOMBRE",
+                    "NAME_MIDDLE": "APELLIDO2",
+                    "NAME_LAST": "APELLIDO1",
+                    "NAME_FULL": "APELLIDO1 APELLIDO2, NOMBRE"
+                },
+                "ALIAS": [],
+                "PATIENT_PROVIDER": []
+            },
+            "ENCOUNTER_INFO": [],
+            "ICU_DAYS": 25.8,
+            "WEIGHT": "",
+            "SIZE": "",
+            "BODY_SURFACE": "",
+            "CEF_PERIMETER": "",
+            "AB_PERIMETER": "",
+            "FECHA_ULTIMO_INGRESO_UCI": "/Date(2018-11-14T23:51:51.000+00:00)/",
+            "BALANCE_HIDRICO": [
+                {
+                    "GRUPO": "20181114",
+                    "INGRESO": 6291,
+                    "EGRESO": 30
+                },
+                {
+                    "GRUPO": "20181115",
+                    "INGRESO": 2710,
+                    "EGRESO": 1450
+                },
+                {
+                    "GRUPO": "20181116",
+                    "INGRESO": 1667,
+                    "EGRESO": 1580
+                },
+                {
+                    "GRUPO": "20181117",
+                    "INGRESO": 1423,
+                    "EGRESO": 1530
+                },
+                {
+                    "GRUPO": "20181118",
+                    "INGRESO": 2163,
+                    "EGRESO": 1287
+                },
+                {
+                    "GRUPO": "20181119",
+                    "INGRESO": 1528,
+                    "EGRESO": 4605
+                },
+                {
+                    "GRUPO": "20181120",
+                    "INGRESO": 1726,
+                    "EGRESO": 0
+                },
+                {
+                    "GRUPO": "20181121",
+                    "INGRESO": 2265,
+                    "EGRESO": 3906
+                },
+                {
+                    "GRUPO": "20181122",
+                    "INGRESO": 2302,
+                    "EGRESO": 3206
+                },
+                {
+                    "GRUPO": "20181123",
+                    "INGRESO": 2477,
+                    "EGRESO": 2421
+                },
+                {
+                    "GRUPO": "20181124",
+                    "INGRESO": 1954,
+                    "EGRESO": 2526
+                },
+                {
+                    "GRUPO": "20181125",
+                    "INGRESO": 1465,
+                    "EGRESO": 2077
+                },
+                {
+                    "GRUPO": "20181126",
+                    "INGRESO": 1439,
+                    "EGRESO": 2564
+                },
+                {
+                    "GRUPO": "20181127",
+                    "INGRESO": 2160,
+                    "EGRESO": 2467
+                },
+                {
+                    "GRUPO": "20181128",
+                    "INGRESO": 1798,
+                    "EGRESO": 2939
+                },
+                {
+                    "GRUPO": "20181129",
+                    "INGRESO": 1818,
+                    "EGRESO": 1950
+                },
+                {
+                    "GRUPO": "20181130",
+                    "INGRESO": 2056,
+                    "EGRESO": 2300
+                },
+                {
+                    "GRUPO": "20181201",
+                    "INGRESO": 2436,
+                    "EGRESO": 2305
+                },
+                {
+                    "GRUPO": "201812010",
+                    "INGRESO": 2220,
+                    "EGRESO": 320
+                },
+                {
+                    "GRUPO": "20181202",
+                    "INGRESO": 3029,
+                    "EGRESO": 50
+                },
+                {
+                    "GRUPO": "20181203",
+                    "INGRESO": 2785,
+                    "EGRESO": 1100
+                },
+                {
+                    "GRUPO": "20181204",
+                    "INGRESO": 3622,
+                    "EGRESO": 800
+                },
+                {
+                    "GRUPO": "20181205",
+                    "INGRESO": 2035,
+                    "EGRESO": 2523
+                },
+                {
+                    "GRUPO": "20181206",
+                    "INGRESO": 1808,
+                    "EGRESO": 2533
+                },
+                {
+                    "GRUPO": "20181207",
+                    "INGRESO": 1967,
+                    "EGRESO": 2213
+                },
+                {
+                    "GRUPO": "20181208",
+                    "INGRESO": 1811,
+                    "EGRESO": 0
+                },
+                {
+                    "GRUPO": "20181209",
+                    "INGRESO": 1857,
+                    "EGRESO": 105
+                }
+            ]
+        },
+        "CODES": [],
+        "PRSNL": [],
+        "STATUS_DATA": {
+            "STATUS": "S",
+            "SUBEVENTSTATUS": []
+        }
+    }
+}
