@@ -1,0 +1,260 @@
+{
+    "RECORD_DATA": {
+        "IN_QUAL_CNT": 5,
+        "IN_QUAL": [
+            {
+                "DISPLAY": "Información de perfusiones",
+                "EVENT_CD": 67202.0,
+                "ACCUM_IND": 1,
+                "DAY_QUAL": [
+                    {
+                        "TOTAL": "08,000000",
+                        "UOM": "ml",
+                        "IO_DT": "12/08/2018 08:59",
+                        "IO_DT_EVAL": "/Date(2018-12-08T07:59:59.000+00:00)/"
+                    },
+                    {
+                        "TOTAL": "09,000000",
+                        "UOM": "ml",
+                        "IO_DT": "12/09/2018 08:59",
+                        "IO_DT_EVAL": "/Date(2018-12-09T07:59:59.000+00:00)/"
+                    },
+                    {
+                        "TOTAL": "10,000000",
+                        "UOM": "ml",
+                        "IO_DT": "12/10/2018 08:59",
+                        "IO_DT_EVAL": "/Date(2018-12-10T07:59:59.000+00:00)/"
+                    },
+                    {
+                        "TOTAL": "10,000000",
+                        "UOM": "ml",
+                        "IO_DT": "12/10/2018 08:59",
+                        "IO_DT_EVAL": "/Date(2018-12-10T07:59:59.000+00:00)/"
+                    }
+                ]
+            },
+            {
+                "DISPLAY": "Volumen medicación (ml)",
+                "EVENT_CD": 8915433.0,
+                "ACCUM_IND": 1,
+                "DAY_QUAL": [
+                    {
+                        "TOTAL": "110",
+                        "UOM": "DND",
+                        "IO_DT": "12/08/2018 09:59",
+                        "IO_DT_EVAL": "/Date(2018-12-08T08:59:59.000+00:00)/"
+                    },
+                    {
+                        "TOTAL": "70",
+                        "UOM": "DND",
+                        "IO_DT": "12/08/2018 09:59",
+                        "IO_DT_EVAL": "/Date(2018-12-08T08:59:59.000+00:00)/"
+                    },
+                    {
+                        "TOTAL": "70",
+                        "UOM": "DND",
+                        "IO_DT": "12/08/2018 15:59",
+                        "IO_DT_EVAL": "/Date(2018-12-08T14:59:59.000+00:00)/"
+                    },
+                    {
+                        "TOTAL": "39",
+                        "UOM": "DND",
+                        "IO_DT": "12/08/2018 20:59",
+                        "IO_DT_EVAL": "/Date(2018-12-08T19:59:59.000+00:00)/"
+                    },
+                    {
+                        "TOTAL": "31",
+                        "UOM": "DND",
+                        "IO_DT": "12/08/2018 21:59",
+                        "IO_DT_EVAL": "/Date(2018-12-08T20:59:59.000+00:00)/"
+                    },
+                    {
+                        "TOTAL": "70",
+                        "UOM": "DND",
+                        "IO_DT": "12/09/2018 03:59",
+                        "IO_DT_EVAL": "/Date(2018-12-09T02:59:59.000+00:00)/"
+                    }
+                ]
+            },
+            {
+                "DISPLAY": "FLUIDOTERAPIA VI BALANCE",
+                "EVENT_CD": 10326215.0,
+                "ACCUM_IND": 1,
+                "DAY_QUAL": [
+                    {
+                        "TOTAL": "100",
+                        "UOM": "ml",
+                        "IO_DT": "12/08/2018 09:00",
+                        "IO_DT_EVAL": "/Date(2018-12-08T08:00:00.000+00:00)/"
+                    },
+                    {
+                        "TOTAL": "350",
+                        "UOM": "ml",
+                        "IO_DT": "12/09/2018 11:00",
+                        "IO_DT_EVAL": "/Date(2018-12-09T11:00:00.000+00:00)/"
+                    },
+                    {
+                        "TOTAL": "500",
+                        "UOM": "ml",
+                        "IO_DT": "12/10/2018 14:00",
+                        "IO_DT_EVAL": "/Date(2018-12-10T13:00:00.000+00:00)/"
+                    }
+                ]
+            },
+            {
+                "DISPLAY": "Agua por Sonda Enteral",
+                "EVENT_CD": 10326233.0,
+                "ACCUM_IND": 1,
+                "DAY_QUAL": [
+                    {
+                        "TOTAL": "50",
+                        "UOM": "ml",
+                        "IO_DT": "12/10/2018 12:00",
+                        "IO_DT_EVAL": "/Date(2018-12-10T11:00:00.000+00:00)/"
+                    },
+                    {
+                        "TOTAL": "20",
+                        "UOM": "ml",
+                        "IO_DT": "12/10/2018 13:00",
+                        "IO_DT_EVAL": "/Date(2018-12-10T12:00:00.000+00:00)/"
+                    },
+                    {
+                        "TOTAL": "50",
+                        "UOM": "ml",
+                        "IO_DT": "12/10/2018 18:00",
+                        "IO_DT_EVAL": "/Date(2018-12-10T17:00:00.000+00:00)/"
+                    }
+                ]
+            },
+            {
+                "DISPLAY": "Hemoderivados",
+                "EVENT_CD": 10326245.0,
+                "ACCUM_IND": 1,
+                "DAY_QUAL": [
+                    {
+                        "TOTAL": "241",
+                        "UOM": "ml",
+                        "IO_DT": "12/10/2018 14:16",
+                        "IO_DT_EVAL": "/Date(2018-12-10T13:16:00.000+00:00)/"
+                    }
+                ]
+            }
+        ],
+        "OUT_QUAL_CNT": 3,
+        "OUT_QUAL": [
+            {
+                "DISPLAY": "Diuresis Sonda Vesical",
+                "EVENT_CD": 10326263.0,
+                "DYN_LAB": 0.0,
+                "ACCUM_IND": 1,
+                "DAY_QUAL": [
+                    {
+                        "TOTAL": "0",
+                        "UOM": "ml",
+                        "IO_DT": "12/08/2018 08:00",
+                        "IO_DT_EVAL": "/Date(2018-12-08T07:00:00.000+00:00)/"
+                    },
+                    {
+                        "TOTAL": "0",
+                        "UOM": "ml",
+                        "IO_DT": "12/08/2018 09:00",
+                        "IO_DT_EVAL": "/Date(2018-12-08T08:00:00.000+00:00)/"
+                    },
+                    {
+                        "TOTAL": "0",
+                        "UOM": "ml",
+                        "IO_DT": "12/09/2018 18:00",
+                        "IO_DT_EVAL": "/Date(2018-12-09T17:00:00.000+00:00)/"
+                    },
+                    {
+                        "TOTAL": "0",
+                        "UOM": "ml",
+                        "IO_DT": "12/09/2018 22:00",
+                        "IO_DT_EVAL": "/Date(2018-12-09T21:00:00.000+00:00)/"
+                    },
+                    {
+                        "TOTAL": "0",
+                        "UOM": "ml",
+                        "IO_DT": "12/09/2018 23:00",
+                        "IO_DT_EVAL": "/Date(2018-12-09T22:00:00.000+00:00)/"
+                    },
+                    {
+                        "TOTAL": "0",
+                        "UOM": "ml",
+                        "IO_DT": "12/10/2018 19:00",
+                        "IO_DT_EVAL": "/Date(2018-12-10T18:00:00.000+00:00)/"
+                    },
+                    {
+                        "TOTAL": "0",
+                        "UOM": "ml",
+                        "IO_DT": "12/10/2018 20:00",
+                        "IO_DT_EVAL": "/Date(2018-12-10T19:00:00.000+00:00)/"
+                    }
+                ]
+            },
+            {
+                "DISPLAY": "Volúmen de deposiciones",
+                "EVENT_CD": 10326321.0,
+                "DYN_LAB": 0.0,
+                "ACCUM_IND": 1,
+                "DAY_QUAL": [
+                    {
+                        "TOTAL": "200",
+                        "UOM": "ml",
+                        "IO_DT": "12/08/2018 18:00",
+                        "IO_DT_EVAL": "/Date(2018-12-08T17:00:00.000+00:00)/"
+                    },
+                    {
+                        "TOTAL": "100",
+                        "UOM": "ml",
+                        "IO_DT": "12/09/2018 18:00",
+                        "IO_DT_EVAL": "/Date(2018-12-09T17:00:00.000+00:00)/"
+                    },
+                    {
+                        "TOTAL": "300",
+                        "UOM": "ml",
+                        "IO_DT": "12/10/2018 18:00",
+                        "IO_DT_EVAL": "/Date(2018-12-10T17:00:00.000+00:00)/"
+                    }
+                ]
+            },
+            {
+                "DISPLAY": "Contenido Gástrico Volumen",
+                "EVENT_CD": 10326349.0,
+                "DYN_LAB": 0.0,
+                "ACCUM_IND": 1,
+                "DAY_QUAL": [
+                    {
+                        "TOTAL": "10",
+                        "UOM": "ml",
+                        "IO_DT": "12/08/2018 12:00",
+                        "IO_DT_EVAL": "/Date(2018-12-08T11:00:00.000+00:00)/"
+                    },
+                    {
+                        "TOTAL": "15",
+                        "UOM": "ml",
+                        "IO_DT": "12/09/2018 12:00",
+                        "IO_DT_EVAL": "/Date(2018-12-09T11:00:00.000+00:00)/"
+                    },
+                    {
+                        "TOTAL": "20",
+                        "UOM": "ml",
+                        "IO_DT": "12/10/2018 12:00",
+                        "IO_DT_EVAL": "/Date(2018-12-10T11:00:00.000+00:00)/"
+                    }
+                ]
+            }
+        ],
+        "STATUS_DATA": {
+            "STATUS": "S",
+            "SUBEVENTSTATUS": [
+                {
+                    "OPERATIONNAME": "",
+                    "OPERATIONSTATUS": "",
+                    "TARGETOBJECTNAME": "",
+                    "TARGETOBJECTVALUE": ""
+                }
+            ]
+        }
+    }
+}
