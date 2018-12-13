@@ -1,8 +1,7 @@
 {
-    "RECORD_DATA": {
-        "QUAL_CNT": 74,
-        "QUAL": [
-            {
+    "QUAL_CNT": 74,
+    "QUAL": [
+        {
             "ORDER_ID": 1050441615,
             "MEDNAME": "Agua por sonda",
             "ORDERED_AS": "Agua SNG<b> [ml]</b>",
@@ -19,7 +18,7 @@
             "VOLUME_DOSE": "100",
             "VOLUME_UNIT": "ml",
             "FREQ": "c/8h (libre)",
-            "DURATION": "0 days 00 hours",
+            "DURATION": "0 days 01 hours",
             "RATE": "",
             "RATE_UNIT": "",
             "ROUTE": "SNG",
@@ -383,7 +382,7 @@
             "VOLUME_DOSE": "1",
             "VOLUME_UNIT": "jer",
             "FREQ": "c/24h (libre)",
-            "DURATION": "0 days 08 hours",
+            "DURATION": "0 days 06 hours",
             "RATE": "6,3",
             "RATE_UNIT": "mL/h",
             "ROUTE": "SC",
@@ -425,16 +424,6 @@
             "DISPENSE_CATEGORY": "_Carro Dosis Unitaria",
             "ADMQUAL": [
                 {
-                        "ADMINDT": "10/12/2018 09:00",
-                        "ADMINDTEVAL": "/Date(2018-12-10T08:00:00.000+00:00)/",
-                        "ADMINDOSE": 60.0,
-                        "ADMINUNIT": "mg",
-                        "EVTTAG": "60 mg",
-                        "MISSED": 0,
-                        "RATE": 0.0,
-                        "RATE_UNIT": ""
-                    },
-                {
                     "ADMINDT": "13/12/2018 09:00",
                     "ADMINDTEVAL": "/Date(2018-12-13T08:00:00.000+00:00)/",
                     "ADMINDOSE": 60,
@@ -464,7 +453,7 @@
             "VOLUME_DOSE": "0,5",
             "VOLUME_UNIT": "ml",
             "FREQ": "LXV (c/24h)",
-            "DURATION": "27 days 03 hours",
+            "DURATION": "27 days 05 hours",
             "RATE": "6,3",
             "RATE_UNIT": "mL/h",
             "ROUTE": "SC",
@@ -802,7 +791,7 @@
             "VOLUME_DOSE": "100",
             "VOLUME_UNIT": "ml",
             "FREQ": "",
-            "DURATION": "1 days 02 hours",
+            "DURATION": "1 days 04 hours",
             "RATE": "2",
             "RATE_UNIT": "mL/h",
             "ROUTE": "IV Perf Continua",
@@ -962,29 +951,59 @@
                 {
                     "ADMINDT": "13/12/2018 13:59",
                     "ADMINDTEVAL": "/Date(2018-12-13T12:59:00.000+00:00)/",
-                    "ADMINDOSE": 1,
-                    "ADMINUNIT": "ml",
-                    "EVTTAG": "1 ml",
-                    "MISSED": 0,
-                    "RATE": 2,
-                    "RATE_UNIT": "mL/h"
-                },
-                {
-                    "ADMINDT": "13/12/2018 13:59",
-                    "ADMINDTEVAL": "/Date(2018-12-13T12:59:59.000+00:00)/",
-                    "ADMINDOSE": 1,
+                    "ADMINDOSE": 0,
                     "ADMINUNIT": "UI",
-                    "EVTTAG": "1 UI",
+                    "EVTTAG": "0 UI",
                     "MISSED": 0,
                     "RATE": 0,
                     "RATE_UNIT": ""
                 },
                 {
                     "ADMINDT": "13/12/2018 13:59",
-                    "ADMINDTEVAL": "/Date(2018-12-13T12:59:59.000+00:00)/",
-                    "ADMINDOSE": 1,
+                    "ADMINDTEVAL": "/Date(2018-12-13T12:59:00.000+00:00)/",
+                    "ADMINDOSE": 0,
                     "ADMINUNIT": "ml",
-                    "EVTTAG": "1 ml",
+                    "EVTTAG": "0 ml",
+                    "MISSED": 0,
+                    "RATE": 0,
+                    "RATE_UNIT": ""
+                },
+                {
+                    "ADMINDT": "13/12/2018 13:59",
+                    "ADMINDTEVAL": "/Date(2018-12-13T12:59:00.000+00:00)/",
+                    "ADMINDOSE": 0,
+                    "ADMINUNIT": "ml",
+                    "EVTTAG": "0 ml",
+                    "MISSED": 0,
+                    "RATE": 2,
+                    "RATE_UNIT": "mL/h"
+                },
+                {
+                    "ADMINDT": "13/12/2018 14:59",
+                    "ADMINDTEVAL": "/Date(2018-12-13T13:59:00.000+00:00)/",
+                    "ADMINDOSE": 0,
+                    "ADMINUNIT": "ml",
+                    "EVTTAG": "0 ml",
+                    "MISSED": 0,
+                    "RATE": 2,
+                    "RATE_UNIT": "mL/h"
+                },
+                {
+                    "ADMINDT": "13/12/2018 14:59",
+                    "ADMINDTEVAL": "/Date(2018-12-13T13:59:00.000+00:00)/",
+                    "ADMINDOSE": 0,
+                    "ADMINUNIT": "UI",
+                    "EVTTAG": "Zero UI",
+                    "MISSED": 0,
+                    "RATE": 0,
+                    "RATE_UNIT": ""
+                },
+                {
+                    "ADMINDT": "13/12/2018 14:59",
+                    "ADMINDTEVAL": "/Date(2018-12-13T13:59:00.000+00:00)/",
+                    "ADMINDOSE": 0,
+                    "ADMINUNIT": "ml",
+                    "EVTTAG": "Zero ml",
                     "MISSED": 0,
                     "RATE": 0,
                     "RATE_UNIT": ""
@@ -1035,7 +1054,7 @@
             "VOLUME_DOSE": "100",
             "VOLUME_UNIT": "ml",
             "FREQ": "",
-            "DURATION": "1 days 00 hours",
+            "DURATION": "1 days 02 hours",
             "RATE": "1,31",
             "RATE_UNIT": "mL/h",
             "ROUTE": "IV Perf Continua",
@@ -1221,6 +1240,66 @@
                     "MISSED": 0,
                     "RATE": 0,
                     "RATE_UNIT": ""
+                },
+                {
+                    "ADMINDT": "13/12/2018 14:59",
+                    "ADMINDTEVAL": "/Date(2018-12-13T13:59:00.000+00:00)/",
+                    "ADMINDOSE": 3,
+                    "ADMINUNIT": "ml",
+                    "EVTTAG": "3 ml",
+                    "MISSED": 0,
+                    "RATE": 1.31,
+                    "RATE_UNIT": "mL/h"
+                },
+                {
+                    "ADMINDT": "13/12/2018 14:59",
+                    "ADMINDTEVAL": "/Date(2018-12-13T13:59:59.000+00:00)/",
+                    "ADMINDOSE": 3,
+                    "ADMINUNIT": "ml",
+                    "EVTTAG": "3 ml",
+                    "MISSED": 0,
+                    "RATE": 0,
+                    "RATE_UNIT": ""
+                },
+                {
+                    "ADMINDT": "13/12/2018 14:59",
+                    "ADMINDTEVAL": "/Date(2018-12-13T13:59:59.000+00:00)/",
+                    "ADMINDOSE": 0.48,
+                    "ADMINUNIT": "mg",
+                    "EVTTAG": "0.48 mg",
+                    "MISSED": 0,
+                    "RATE": 0,
+                    "RATE_UNIT": ""
+                },
+                {
+                    "ADMINDT": "13/12/2018 15:59",
+                    "ADMINDTEVAL": "/Date(2018-12-13T14:59:00.000+00:00)/",
+                    "ADMINDOSE": 3,
+                    "ADMINUNIT": "ml",
+                    "EVTTAG": "3 ml",
+                    "MISSED": 0,
+                    "RATE": 1.31,
+                    "RATE_UNIT": "mL/h"
+                },
+                {
+                    "ADMINDT": "13/12/2018 15:59",
+                    "ADMINDTEVAL": "/Date(2018-12-13T14:59:59.000+00:00)/",
+                    "ADMINDOSE": 3,
+                    "ADMINUNIT": "ml",
+                    "EVTTAG": "3 ml",
+                    "MISSED": 0,
+                    "RATE": 0,
+                    "RATE_UNIT": ""
+                },
+                {
+                    "ADMINDT": "13/12/2018 15:59",
+                    "ADMINDTEVAL": "/Date(2018-12-13T14:59:59.000+00:00)/",
+                    "ADMINDOSE": 0.48,
+                    "ADMINUNIT": "mg",
+                    "EVTTAG": "0.48 mg",
+                    "MISSED": 0,
+                    "RATE": 0,
+                    "RATE_UNIT": ""
                 }
             ],
             "TSKQUAL": []
@@ -1372,7 +1451,7 @@
             "VOLUME_DOSE": "1.477",
             "VOLUME_UNIT": "ml",
             "FREQ": "",
-            "DURATION": "12 days 01 hours",
+            "DURATION": "12 days 03 hours",
             "RATE": "21",
             "RATE_UNIT": "mL/h",
             "ROUTE": "IV Perf Continua",
@@ -1552,6 +1631,66 @@
                 {
                     "ADMINDT": "13/12/2018 13:59",
                     "ADMINDTEVAL": "/Date(2018-12-13T12:59:59.000+00:00)/",
+                    "ADMINDOSE": 21,
+                    "ADMINUNIT": "ml",
+                    "EVTTAG": "21 ml",
+                    "MISSED": 0,
+                    "RATE": 0,
+                    "RATE_UNIT": ""
+                },
+                {
+                    "ADMINDT": "13/12/2018 14:59",
+                    "ADMINDTEVAL": "/Date(2018-12-13T13:59:00.000+00:00)/",
+                    "ADMINDOSE": 21,
+                    "ADMINUNIT": "ml",
+                    "EVTTAG": "21 ml",
+                    "MISSED": 0,
+                    "RATE": 61,
+                    "RATE_UNIT": "mL/h"
+                },
+                {
+                    "ADMINDT": "13/12/2018 14:59",
+                    "ADMINDTEVAL": "/Date(2018-12-13T13:59:59.000+00:00)/",
+                    "ADMINDOSE": 0.014218,
+                    "ADMINUNIT": "unidad",
+                    "EVTTAG": "0.014218 unidad",
+                    "MISSED": 0,
+                    "RATE": 0,
+                    "RATE_UNIT": ""
+                },
+                {
+                    "ADMINDT": "13/12/2018 14:59",
+                    "ADMINDTEVAL": "/Date(2018-12-13T13:59:59.000+00:00)/",
+                    "ADMINDOSE": 21,
+                    "ADMINUNIT": "ml",
+                    "EVTTAG": "21 ml",
+                    "MISSED": 0,
+                    "RATE": 0,
+                    "RATE_UNIT": ""
+                },
+                {
+                    "ADMINDT": "13/12/2018 15:59",
+                    "ADMINDTEVAL": "/Date(2018-12-13T14:59:00.000+00:00)/",
+                    "ADMINDOSE": 21,
+                    "ADMINUNIT": "ml",
+                    "EVTTAG": "21 ml",
+                    "MISSED": 0,
+                    "RATE": 61,
+                    "RATE_UNIT": "mL/h"
+                },
+                {
+                    "ADMINDT": "13/12/2018 15:59",
+                    "ADMINDTEVAL": "/Date(2018-12-13T14:59:59.000+00:00)/",
+                    "ADMINDOSE": 0.014218,
+                    "ADMINUNIT": "unidad",
+                    "EVTTAG": "0.014218 unidad",
+                    "MISSED": 0,
+                    "RATE": 0,
+                    "RATE_UNIT": ""
+                },
+                {
+                    "ADMINDT": "13/12/2018 15:59",
+                    "ADMINDTEVAL": "/Date(2018-12-13T14:59:59.000+00:00)/",
                     "ADMINDOSE": 21,
                     "ADMINUNIT": "ml",
                     "EVTTAG": "21 ml",
@@ -1865,7 +2004,7 @@
             "VOLUME_DOSE": "10",
             "VOLUME_UNIT": "ml",
             "FREQ": "c/24h",
-            "DURATION": "28 days 03 hours",
+            "DURATION": "28 days 05 hours",
             "RATE": "400",
             "RATE_UNIT": "mL/h",
             "ROUTE": "IV Perf Intermitente",
@@ -2094,7 +2233,7 @@
             "VOLUME_DOSE": "10",
             "VOLUME_UNIT": "ml",
             "FREQ": "c/6h",
-            "DURATION": "2 days 17 hours",
+            "DURATION": "2 days 19 hours",
             "RATE": "16,67",
             "RATE_UNIT": "mL/h",
             "ROUTE": "SNG",
@@ -2131,7 +2270,7 @@
             "VOLUME_DOSE": "10",
             "VOLUME_UNIT": "gt(s)",
             "FREQ": "De",
-            "DURATION": "0 days 20 hours",
+            "DURATION": "0 days 18 hours",
             "RATE": "150",
             "RATE_UNIT": "mL/h",
             "ROUTE": "SNG",
@@ -2365,7 +2504,7 @@
             "VOLUME_DOSE": "1.000",
             "VOLUME_UNIT": "ml",
             "FREQ": "",
-            "DURATION": "0 days 11 hours",
+            "DURATION": "0 days 13 hours",
             "RATE": "41,67",
             "RATE_UNIT": "mL/h",
             "ROUTE": "IV Perf Continua",
@@ -2485,6 +2624,46 @@
                 {
                     "ADMINDT": "13/12/2018 13:59",
                     "ADMINDTEVAL": "/Date(2018-12-13T12:59:59.000+00:00)/",
+                    "ADMINDOSE": 42,
+                    "ADMINUNIT": "ml",
+                    "EVTTAG": "42 ml",
+                    "MISSED": 0,
+                    "RATE": 0,
+                    "RATE_UNIT": ""
+                },
+                {
+                    "ADMINDT": "13/12/2018 14:59",
+                    "ADMINDTEVAL": "/Date(2018-12-13T13:59:00.000+00:00)/",
+                    "ADMINDOSE": 42,
+                    "ADMINUNIT": "ml",
+                    "EVTTAG": "42 ml",
+                    "MISSED": 0,
+                    "RATE": 41.67,
+                    "RATE_UNIT": "mL/h"
+                },
+                {
+                    "ADMINDT": "13/12/2018 14:59",
+                    "ADMINDTEVAL": "/Date(2018-12-13T13:59:59.000+00:00)/",
+                    "ADMINDOSE": 42,
+                    "ADMINUNIT": "ml",
+                    "EVTTAG": "42 ml",
+                    "MISSED": 0,
+                    "RATE": 0,
+                    "RATE_UNIT": ""
+                },
+                {
+                    "ADMINDT": "13/12/2018 15:59",
+                    "ADMINDTEVAL": "/Date(2018-12-13T14:59:00.000+00:00)/",
+                    "ADMINDOSE": 42,
+                    "ADMINUNIT": "ml",
+                    "EVTTAG": "42 ml",
+                    "MISSED": 0,
+                    "RATE": 41.67,
+                    "RATE_UNIT": "mL/h"
+                },
+                {
+                    "ADMINDT": "13/12/2018 15:59",
+                    "ADMINDTEVAL": "/Date(2018-12-13T14:59:59.000+00:00)/",
                     "ADMINDOSE": 42,
                     "ADMINUNIT": "ml",
                     "EVTTAG": "42 ml",
@@ -2642,7 +2821,7 @@
             "VOLUME_DOSE": "100",
             "VOLUME_UNIT": "ml",
             "FREQ": "c/8h",
-            "DURATION": "22 days 19 hours",
+            "DURATION": "22 days 21 hours",
             "RATE": "400",
             "RATE_UNIT": "mL/h",
             "ROUTE": "IV Perf Intermitente",
@@ -2688,17 +2867,16 @@
             "ADMQUAL": [],
             "TSKQUAL": []
         }
-        ],
-        "STATUS_DATA": {
-            "STATUS": "S",
-            "SUBEVENTSTATUS": [
-                {
-                    "OPERATIONNAME": "",
-                    "OPERATIONSTATUS": "",
-                    "TARGETOBJECTNAME": "",
-                    "TARGETOBJECTVALUE": ""
-                }
-            ]
-        }
+    ],
+    "STATUS_DATA": {
+        "STATUS": "S",
+        "SUBEVENTSTATUS": [
+            {
+                "OPERATIONNAME": "",
+                "OPERATIONSTATUS": "",
+                "TARGETOBJECTNAME": "",
+                "TARGETOBJECTVALUE": ""
+            }
+        ]
     }
 }

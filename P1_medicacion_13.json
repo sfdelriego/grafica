@@ -1,12 +1,12 @@
 {
     "RECORD_DATA": {
-        "QUAL_CNT": 167,
+        "QUAL_CNT": 170,
         "QUAL": [
             {
-                "ORDER_ID": 1000720025.0,
+                "ORDER_ID": 1000720025,
                 "MEDNAME": "Calcio cloruro 10% IV + Fisiológico 0,9% 50 mL",
                 "ORDERED_AS": "Cloruro cálcico IV Perf Intermitente<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "08-10-2018 14:42",
                 "STARTDTEVAL": "/Date(2018-10-08T12:42:00.000+00:00)/",
@@ -29,10 +29,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1002300361.0,
+                "ORDER_ID": 1002300361,
                 "MEDNAME": "Calcio cloruro 10% IV + Fisiológico 0,9% 50 mL",
                 "ORDERED_AS": "Cloruro cálcico IV Perf Intermitente<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "10-10-2018 11:16",
                 "STARTDTEVAL": "/Date(2018-10-10T09:16:00.000+00:00)/",
@@ -55,10 +55,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1046048698.0,
+                "ORDER_ID": 1046048698,
                 "MEDNAME": "Glucosalino 1/3 isotónico 500 mL Suero 500 ml",
                 "ORDERED_AS": "Glucosalino isotónico (3,6%/0,3%) IV Perf Continua<b> [ml]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "07-12-2018 12:28",
                 "STARTDTEVAL": "/Date(2018-12-07T11:28:00.000+00:00)/",
@@ -81,10 +81,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1046366088.0,
+                "ORDER_ID": 1046366088,
                 "MEDNAME": "Manitol 20% Bolo IV",
                 "ORDERED_AS": "Manitol IV Perf Intermitente<b> [ml]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "08-12-2018 00:24",
                 "STARTDTEVAL": "/Date(2018-12-07T23:24:00.000+00:00)/",
@@ -107,10 +107,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1035948260.0,
+                "ORDER_ID": 1035948260,
                 "MEDNAME": "Ringer lactado 500 mL Suero 500 ml",
                 "ORDERED_AS": "Ringer lactato IV Perf Continua<b> [ml]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "23-11-2018 15:33",
                 "STARTDTEVAL": "/Date(2018-11-23T14:33:00.000+00:00)/",
@@ -133,10 +133,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1000599092.0,
+                "ORDER_ID": 1000599092,
                 "MEDNAME": "Acetilcisteína FLUMIL 300 mg Amp",
                 "ORDERED_AS": "Acetilcisteína IV Directa Lenta<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "08-10-2018 17:00",
                 "STARTDTEVAL": "/Date(2018-10-08T15:00:00.000+00:00)/",
@@ -159,10 +159,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 999704093.0,
+                "ORDER_ID": 999704093,
                 "MEDNAME": "Acido acetilsalicílico ADIRO 100 mg Comp",
                 "ORDERED_AS": "Acetilsalicílico ácido SNG<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "07-10-2018 09:00",
                 "STARTDTEVAL": "/Date(2018-10-07T07:00:00.000+00:00)/",
@@ -185,10 +185,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1028637221.0,
+                "ORDER_ID": 1028637221,
                 "MEDNAME": "Acido acetilsalicílico ADIRO 100 mg Comp",
                 "ORDERED_AS": "Acetilsalicílico ácido Oral<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "15-11-2018 09:00",
                 "STARTDTEVAL": "/Date(2018-11-15T08:00:00.000+00:00)/",
@@ -211,10 +211,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1028637834.0,
+                "ORDER_ID": 1028637834,
                 "MEDNAME": "Atorvastatina 40 mg Comp",
                 "ORDERED_AS": "Atorvastatina Oral<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "14-11-2018 20:00",
                 "STARTDTEVAL": "/Date(2018-11-14T19:00:00.000+00:00)/",
@@ -237,10 +237,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1008356662.0,
+                "ORDER_ID": 1008356662,
                 "MEDNAME": "Bisoprolol EMCONCOR 2,5 mg Comp",
                 "ORDERED_AS": "Bisoprolol SNG<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "18-10-2018 20:00",
                 "STARTDTEVAL": "/Date(2018-10-18T18:00:00.000+00:00)/",
@@ -263,10 +263,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1046687805.0,
+                "ORDER_ID": 1046687805,
                 "MEDNAME": "Budesonida PULMICORT (0,5 mg/mL) 1 mg/2 mL Susp Nebul",
                 "ORDERED_AS": "Budesónida NEB<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "08-12-2018 16:57",
                 "STARTDTEVAL": "/Date(2018-12-08T15:57:00.000+00:00)/",
@@ -279,7 +279,7 @@
                 "VOLUME_DOSE": "2",
                 "VOLUME_UNIT": "ml",
                 "FREQ": "c/12h",
-                "DURATION": "4 days 19 hours",
+                "DURATION": "4 days 21 hours",
                 "RATE": "100",
                 "RATE_UNIT": "mL/h",
                 "ROUTE": "NEB",
@@ -304,10 +304,10 @@
                 ]
             },
             {
-                "ORDER_ID": 1008357192.0,
+                "ORDER_ID": 1008357192,
                 "MEDNAME": "Captopril 50 mg Comp",
                 "ORDERED_AS": "Captopril SNG<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "18-10-2018 17:00",
                 "STARTDTEVAL": "/Date(2018-10-18T15:00:00.000+00:00)/",
@@ -330,10 +330,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1045896506.0,
+                "ORDER_ID": 1045896506,
                 "MEDNAME": "cefAZOLina",
                 "ORDERED_AS": "cefAZOLina IV Bolo<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "07-12-2018 10:44",
                 "STARTDTEVAL": "/Date(2018-12-07T09:44:00.000+00:00)/",
@@ -356,10 +356,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1046592888.0,
+                "ORDER_ID": 1046592888,
                 "MEDNAME": "cefAZOLina + Cloruro sódico 0,9% 100 ml",
                 "ORDERED_AS": "cefAZOLina IV Perf Intermitente<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "08-12-2018 15:00",
                 "STARTDTEVAL": "/Date(2018-12-08T14:00:00.000+00:00)/",
@@ -382,10 +382,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1001054766.0,
+                "ORDER_ID": 1001054766,
                 "MEDNAME": "Cloruro cálcico",
                 "ORDERED_AS": "Cloruro cálcico IV Bolo<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "09-10-2018 06:00",
                 "STARTDTEVAL": "/Date(2018-10-09T04:00:00.000+00:00)/",
@@ -408,10 +408,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1009330810.0,
+                "ORDER_ID": 1009330810,
                 "MEDNAME": "Colistina 1 MUI 80 mg Inhalado",
                 "ORDERED_AS": "Colistina INH<b> [MUI]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "19-10-2018 17:00",
                 "STARTDTEVAL": "/Date(2018-10-19T15:00:00.000+00:00)/",
@@ -434,10 +434,58 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1013006091.0,
+                "ORDER_ID": 1050532112,
+                "MEDNAME": "Colistina 1 MUI 80 mg Inhalado",
+                "ORDERED_AS": "Colistina INH<b> [MUI]</b>",
+                "NORM_RATE": 0,
+                "NORM_RATE_UNIT": "",
+                "STARTDT": "13-12-2018 14:00",
+                "STARTDTEVAL": "/Date(2018-12-13T13:00:00.000+00:00)/",
+                "STOPDT": "",
+                "STOPDTEVAL": "/Date(0000-00-00T00:00:00.000+00:00)/",
+                "STATUS": "Indicado",
+                "DOSE": "1 MUI",
+                "STRENGTH_DOSE": "1",
+                "STRENGTH_UNIT": "MUI",
+                "VOLUME_DOSE": "",
+                "VOLUME_UNIT": "",
+                "FREQ": "c/8h",
+                "DURATION": "0 days 00 hours",
+                "RATE": "200",
+                "RATE_UNIT": "mL/h",
+                "ROUTE": "INH",
+                "CATEGORY": "NR",
+                "DISPENSE_CATEGORY": "_Carro Dosis Unitaria",
+                "ADMQUAL": [],
+                "TSKQUAL": [
+                    {
+                        "TASKDT": "13/12/2018 14:00",
+                        "TASKDTEVAL": "/Date(2018-12-13T13:00:00.000+00:00)/",
+                        "TASKSTAT": "Pendiente",
+                        "TASKCDF": "PENDING",
+                        "TASKREASON": ""
+                    },
+                    {
+                        "TASKDT": "13/12/2018 22:00",
+                        "TASKDTEVAL": "/Date(2018-12-13T21:00:00.000+00:00)/",
+                        "TASKSTAT": "Pendiente",
+                        "TASKCDF": "PENDING",
+                        "TASKREASON": ""
+                    },
+                    {
+                        "TASKDT": "14/12/2018 06:00",
+                        "TASKDTEVAL": "/Date(2018-12-14T05:00:00.000+00:00)/",
+                        "TASKSTAT": "Pendiente",
+                        "TASKCDF": "PENDING",
+                        "TASKREASON": ""
+                    }
+                ]
+            },
+            {
+                "ORDER_ID": 1013006091,
                 "MEDNAME": "Desmopresina MINURIN 4 mcg 1 mL Amp",
                 "ORDERED_AS": "Desmopresina IV Directa Lenta<b> [mcg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "24-10-2018 15:10",
                 "STARTDTEVAL": "/Date(2018-10-24T13:10:00.000+00:00)/",
@@ -451,7 +499,7 @@
                 "VOLUME_UNIT": "ml",
                 "FREQ": "Dosis única",
                 "DURATION": "1 days 22 hours",
-                "RATE": "200",
+                "RATE": "100",
                 "RATE_UNIT": "mL/h",
                 "ROUTE": "IV Directa Lenta",
                 "CATEGORY": "NR",
@@ -460,10 +508,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1032041891.0,
+                "ORDER_ID": 1032041891,
                 "MEDNAME": "Dexametasona 1 mg Comp",
                 "ORDERED_AS": "Dexametasona Oral<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "19-11-2018 13:00",
                 "STARTDTEVAL": "/Date(2018-11-19T12:00:00.000+00:00)/",
@@ -477,7 +525,7 @@
                 "VOLUME_UNIT": "comp",
                 "FREQ": "DeCoCe",
                 "DURATION": "19 days 03 hours",
-                "RATE": "200",
+                "RATE": "100",
                 "RATE_UNIT": "mL/h",
                 "ROUTE": "Oral",
                 "CATEGORY": "Sin orden de visualización pre-establecido",
@@ -486,10 +534,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1001041919.0,
+                "ORDER_ID": 1001041919,
                 "MEDNAME": "Dexametasona 4 mg 1 mL Amp",
                 "ORDERED_AS": "Dexametasona IV Directa Lenta<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "09-10-2018 11:00",
                 "STARTDTEVAL": "/Date(2018-10-09T09:00:00.000+00:00)/",
@@ -503,7 +551,7 @@
                 "VOLUME_UNIT": "ml",
                 "FREQ": "c/8h (libre)",
                 "DURATION": "38 days 03 hours",
-                "RATE": "200",
+                "RATE": "100",
                 "RATE_UNIT": "mL/h",
                 "ROUTE": "IV Directa Lenta",
                 "CATEGORY": "Sin orden de visualización pre-establecido",
@@ -512,10 +560,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1010608832.0,
+                "ORDER_ID": 1010608832,
                 "MEDNAME": "Dexametasona",
                 "ORDERED_AS": "Dexametasona IV Bolo<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "22-10-2018 12:25",
                 "STARTDTEVAL": "/Date(2018-10-22T10:25:00.000+00:00)/",
@@ -529,7 +577,7 @@
                 "VOLUME_UNIT": "ml",
                 "FREQ": "Dosis única",
                 "DURATION": "0 days 00 hours",
-                "RATE": "200",
+                "RATE": "100",
                 "RATE_UNIT": "mL/h",
                 "ROUTE": "IV Bolo",
                 "CATEGORY": "Sin orden de visualización pre-establecido",
@@ -538,10 +586,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1030551347.0,
+                "ORDER_ID": 1030551347,
                 "MEDNAME": "Dexametasona 4 mg Comp",
                 "ORDERED_AS": "Dexametasona Oral<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "16-11-2018 20:00",
                 "STARTDTEVAL": "/Date(2018-11-16T19:00:00.000+00:00)/",
@@ -555,7 +603,7 @@
                 "VOLUME_UNIT": "comp",
                 "FREQ": "DeCoCe",
                 "DURATION": "2 days 14 hours",
-                "RATE": "200",
+                "RATE": "100",
                 "RATE_UNIT": "mL/h",
                 "ROUTE": "Oral",
                 "CATEGORY": "Sin orden de visualización pre-establecido",
@@ -564,10 +612,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1028657249.0,
+                "ORDER_ID": 1028657249,
                 "MEDNAME": "Enalapril 10 mg Comp",
                 "ORDERED_AS": "Enalapril Oral<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "15-11-2018 09:00",
                 "STARTDTEVAL": "/Date(2018-11-15T08:00:00.000+00:00)/",
@@ -581,7 +629,7 @@
                 "VOLUME_UNIT": "comp",
                 "FREQ": "De",
                 "DURATION": "2 days 05 hours",
-                "RATE": "200",
+                "RATE": "100",
                 "RATE_UNIT": "mL/h",
                 "ROUTE": "Oral",
                 "CATEGORY": "Sin orden de visualización pre-establecido",
@@ -590,10 +638,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 999704057.0,
+                "ORDER_ID": 999704057,
                 "MEDNAME": "Enoxaparina CLEXANE 40 mg (4.000 UI) Jer Prec",
                 "ORDERED_AS": "Enoxaparina SC<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "07-10-2018 21:00",
                 "STARTDTEVAL": "/Date(2018-10-07T19:00:00.000+00:00)/",
@@ -607,7 +655,7 @@
                 "VOLUME_UNIT": "jer",
                 "FREQ": "c/24h",
                 "DURATION": "0 days 16 hours",
-                "RATE": "200",
+                "RATE": "100",
                 "RATE_UNIT": "mL/h",
                 "ROUTE": "SC",
                 "CATEGORY": "Sin orden de visualización pre-establecido",
@@ -616,10 +664,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 999696722.0,
+                "ORDER_ID": 999696722,
                 "MEDNAME": "Enoxaparina CLEXANE 60 mg (6.000 UI) Jer Prec",
                 "ORDERED_AS": "Enoxaparina SC<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "07-10-2018 21:00",
                 "STARTDTEVAL": "/Date(2018-10-07T19:00:00.000+00:00)/",
@@ -633,7 +681,7 @@
                 "VOLUME_UNIT": "jer",
                 "FREQ": "c/24h",
                 "DURATION": "45 days 15 hours",
-                "RATE": "200",
+                "RATE": "100",
                 "RATE_UNIT": "mL/h",
                 "ROUTE": "SC",
                 "CATEGORY": "Sin orden de visualización pre-establecido",
@@ -642,10 +690,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1035072072.0,
+                "ORDER_ID": 1035072072,
                 "MEDNAME": "Enoxaparina 60 mg (6.000 UI) Jer Prec",
                 "ORDERED_AS": "Enoxaparina SC<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "22-11-2018 21:00",
                 "STARTDTEVAL": "/Date(2018-11-22T20:00:00.000+00:00)/",
@@ -659,7 +707,7 @@
                 "VOLUME_UNIT": "jer",
                 "FREQ": "c/12h",
                 "DURATION": "14 days 15 hours",
-                "RATE": "200",
+                "RATE": "100",
                 "RATE_UNIT": "mL/h",
                 "ROUTE": "SC",
                 "CATEGORY": "Sin orden de visualización pre-establecido",
@@ -668,10 +716,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1034954161.0,
+                "ORDER_ID": 1034954161,
                 "MEDNAME": "Enoxaparina 80 mg (8.000 UI) Jer Prec",
                 "ORDERED_AS": "Enoxaparina SC<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "22-11-2018 21:00",
                 "STARTDTEVAL": "/Date(2018-11-22T20:00:00.000+00:00)/",
@@ -685,7 +733,7 @@
                 "VOLUME_UNIT": "jer",
                 "FREQ": "c/12h",
                 "DURATION": "0 days 06 hours",
-                "RATE": "200",
+                "RATE": "100",
                 "RATE_UNIT": "mL/h",
                 "ROUTE": "SC",
                 "CATEGORY": "Sin orden de visualización pre-establecido",
@@ -694,10 +742,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1045896504.0,
+                "ORDER_ID": 1045896504,
                 "MEDNAME": "FENILEFrina",
                 "ORDERED_AS": "FENILEFrina IV Bolo<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "07-12-2018 10:05",
                 "STARTDTEVAL": "/Date(2018-12-07T09:05:00.000+00:00)/",
@@ -711,7 +759,7 @@
                 "VOLUME_UNIT": "ml",
                 "FREQ": "Dosis única",
                 "DURATION": "0 days 00 hours",
-                "RATE": "200",
+                "RATE": "100",
                 "RATE_UNIT": "mL/h",
                 "ROUTE": "IV Bolo",
                 "CATEGORY": "Sin orden de visualización pre-establecido",
@@ -720,10 +768,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 999696775.0,
+                "ORDER_ID": 999696775,
                 "MEDNAME": "Vitamina K KONAKION 10 mg 1 mL Amp",
                 "ORDERED_AS": "Fitomenadiona IV Directa Lenta<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "07-10-2018 09:00",
                 "STARTDTEVAL": "/Date(2018-10-07T07:00:00.000+00:00)/",
@@ -740,16 +788,16 @@
                 "RATE": "20,83",
                 "RATE_UNIT": "mL/h",
                 "ROUTE": "IV Directa Lenta",
-                "CATEGORY": "R",
+                "CATEGORY": "NR",
                 "DISPENSE_CATEGORY": "_Carro Dosis Unitaria",
                 "ADMQUAL": [],
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1046051707.0,
+                "ORDER_ID": 1046051707,
                 "MEDNAME": "Vitamina K KONAKION 10 mg 1 mL Amp",
                 "ORDERED_AS": "Fitomenadiona IV Directa Lenta<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "07-12-2018 21:00",
                 "STARTDTEVAL": "/Date(2018-12-07T20:00:00.000+00:00)/",
@@ -766,16 +814,16 @@
                 "RATE": "20,83",
                 "RATE_UNIT": "mL/h",
                 "ROUTE": "IV Directa Lenta",
-                "CATEGORY": "NR",
+                "CATEGORY": "R",
                 "DISPENSE_CATEGORY": "_Carro Dosis Unitaria",
                 "ADMQUAL": [],
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1037646022.0,
+                "ORDER_ID": 1037646022,
                 "MEDNAME": "Fólico ácido ACFOL 5 mg Comp",
                 "ORDERED_AS": "Fólico ácido SNG<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "27-11-2018 08:40",
                 "STARTDTEVAL": "/Date(2018-11-27T07:40:00.000+00:00)/",
@@ -798,21 +846,21 @@
                     {
                         "ADMINDT": "13/12/2018 08:40",
                         "ADMINDTEVAL": "/Date(2018-12-13T07:40:00.000+00:00)/",
-                        "ADMINDOSE": 5.0,
+                        "ADMINDOSE": 5,
                         "ADMINUNIT": "mg",
                         "EVTTAG": "5 mg",
                         "MISSED": 0,
-                        "RATE": 0.0,
+                        "RATE": 0,
                         "RATE_UNIT": ""
                     }
                 ],
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1009795650.0,
+                "ORDER_ID": 1009795650,
                 "MEDNAME": "ENEMA CASEN 250 mL Enema Rectal",
                 "ORDERED_AS": "Fosfato sódico/Bifosfato sódico Rectal<b> [ml]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "20-10-2018 13:41",
                 "STARTDTEVAL": "/Date(2018-10-20T11:41:00.000+00:00)/",
@@ -835,10 +883,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1011939397.0,
+                "ORDER_ID": 1011939397,
                 "MEDNAME": "ENEMA CASEN 250 mL Enema Rectal",
                 "ORDERED_AS": "Fosfato sódico/Bifosfato sódico Rectal<b> [ml]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "23-10-2018 13:06",
                 "STARTDTEVAL": "/Date(2018-10-23T11:06:00.000+00:00)/",
@@ -861,10 +909,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1015109334.0,
+                "ORDER_ID": 1015109334,
                 "MEDNAME": "ENEMA CASEN 250 mL Enema Rectal",
                 "ORDERED_AS": "Fosfato sódico/Bifosfato sódico Rectal<b> [ml]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "27-10-2018 11:10",
                 "STARTDTEVAL": "/Date(2018-10-27T09:10:00.000+00:00)/",
@@ -887,10 +935,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1015571053.0,
+                "ORDER_ID": 1015571053,
                 "MEDNAME": "ENEMA CASEN 250 mL Enema Rectal",
                 "ORDERED_AS": "Fosfato sódico/Bifosfato sódico Rectal<b> [ml]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "28-10-2018 09:24",
                 "STARTDTEVAL": "/Date(2018-10-28T08:24:00.000+00:00)/",
@@ -913,10 +961,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1019760143.0,
+                "ORDER_ID": 1019760143,
                 "MEDNAME": "ENEMA CASEN 250 mL Enema Rectal",
                 "ORDERED_AS": "Fosfato sódico/Bifosfato sódico Rectal<b> [ml]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "02-11-2018 23:07",
                 "STARTDTEVAL": "/Date(2018-11-02T22:07:00.000+00:00)/",
@@ -939,10 +987,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1019760495.0,
+                "ORDER_ID": 1019760495,
                 "MEDNAME": "ENEMA CASEN 250 mL Enema Rectal",
                 "ORDERED_AS": "Fosfato sódico/Bifosfato sódico Rectal<b> [ml]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "03-11-2018 08:30",
                 "STARTDTEVAL": "/Date(2018-11-03T07:30:00.000+00:00)/",
@@ -965,10 +1013,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1025962485.0,
+                "ORDER_ID": 1025962485,
                 "MEDNAME": "ENEMA CASEN 250 mL Enema Rectal",
                 "ORDERED_AS": "Fosfato sódico/Bifosfato sódico Rectal<b> [ml]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "11-11-2018 12:33",
                 "STARTDTEVAL": "/Date(2018-11-11T11:33:00.000+00:00)/",
@@ -991,10 +1039,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1030536460.0,
+                "ORDER_ID": 1030536460,
                 "MEDNAME": "ENEMA CASEN 250 mL Enema Rectal",
                 "ORDERED_AS": "Fosfato sódico/Bifosfato sódico Rectal<b> [ml]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "16-11-2018 21:00",
                 "STARTDTEVAL": "/Date(2018-11-16T20:00:00.000+00:00)/",
@@ -1017,10 +1065,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1032042623.0,
+                "ORDER_ID": 1032042623,
                 "MEDNAME": "ENEMA CASEN 250 mL Enema Rectal",
                 "ORDERED_AS": "Fosfato sódico/Bifosfato sódico Rectal<b> [ml]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "19-11-2018 21:00",
                 "STARTDTEVAL": "/Date(2018-11-19T20:00:00.000+00:00)/",
@@ -1043,10 +1091,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1038667714.0,
+                "ORDER_ID": 1038667714,
                 "MEDNAME": "ENEMA CASEN 250 mL Enema Rectal",
                 "ORDERED_AS": "Fosfato sódico/Bifosfato sódico Rectal<b> [ml]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "27-11-2018 21:00",
                 "STARTDTEVAL": "/Date(2018-11-27T20:00:00.000+00:00)/",
@@ -1069,10 +1117,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1001042035.0,
+                "ORDER_ID": 1001042035,
                 "MEDNAME": "Furosemida 20 mg 2 mL Amp",
                 "ORDERED_AS": "Furosemida IV Directa Lenta<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "09-10-2018 02:14",
                 "STARTDTEVAL": "/Date(2018-10-09T00:14:00.000+00:00)/",
@@ -1095,10 +1143,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1002263675.0,
+                "ORDER_ID": 1002263675,
                 "MEDNAME": "Furosemida 20 mg 2 mL Amp",
                 "ORDERED_AS": "Furosemida IV Directa Lenta<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "10-10-2018 11:00",
                 "STARTDTEVAL": "/Date(2018-10-10T09:00:00.000+00:00)/",
@@ -1121,10 +1169,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1002264861.0,
+                "ORDER_ID": 1002264861,
                 "MEDNAME": "Furosemida 20 mg 2 mL Amp",
                 "ORDERED_AS": "Furosemida IV Directa Lenta<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "10-10-2018 10:52",
                 "STARTDTEVAL": "/Date(2018-10-10T08:52:00.000+00:00)/",
@@ -1147,10 +1195,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1046568886.0,
+                "ORDER_ID": 1046568886,
                 "MEDNAME": "Furosemida 20 mg 2 mL Amp",
                 "ORDERED_AS": "Furosemida IV Directa Lenta<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "08-12-2018 17:00",
                 "STARTDTEVAL": "/Date(2018-12-08T16:00:00.000+00:00)/",
@@ -1173,37 +1221,41 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1047001643.0,
+                "ORDER_ID": 1047001643,
                 "MEDNAME": "Furosemida 20 mg 2 mL Amp",
                 "ORDERED_AS": "Furosemida IV Directa Lenta<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "09-12-2018 13:00",
                 "STARTDTEVAL": "/Date(2018-12-09T12:00:00.000+00:00)/",
                 "STOPDT": "",
                 "STOPDTEVAL": "/Date(0000-00-00T00:00:00.000+00:00)/",
                 "STATUS": "Indicado",
-                "DOSE": "10 mg=1 ml",
-                "STRENGTH_DOSE": "10",
+                "DOSE": "20 mg=2 ml",
+                "STRENGTH_DOSE": "20",
                 "STRENGTH_UNIT": "mg",
-                "VOLUME_DOSE": "1",
+                "VOLUME_DOSE": "2",
                 "VOLUME_UNIT": "ml",
-                "FREQ": "c/6h (libre)",
-                "DURATION": "3 days 23 hours",
+                "FREQ": "c/8h (libre)",
+                "DURATION": "4 days 01 hours",
                 "RATE": "83,33",
                 "RATE_UNIT": "mL/h",
                 "ROUTE": "IV Directa Lenta",
                 "CATEGORY": "Sin orden de visualización pre-establecido",
                 "DISPENSE_CATEGORY": "_Carro Dosis Unitaria",
-                "ADMQUAL": [],
-                "TSKQUAL": [
+                "ADMQUAL": [
                     {
-                        "TASKDT": "13/12/2018 13:00",
-                        "TASKDTEVAL": "/Date(2018-12-13T12:00:00.000+00:00)/",
-                        "TASKSTAT": "Pendiente",
-                        "TASKCDF": "PENDING",
-                        "TASKREASON": ""
-                    },
+                        "ADMINDT": "13/12/2018 13:00",
+                        "ADMINDTEVAL": "/Date(2018-12-13T12:00:00.000+00:00)/",
+                        "ADMINDOSE": 10,
+                        "ADMINUNIT": "mg",
+                        "EVTTAG": "10 mg",
+                        "MISSED": 0,
+                        "RATE": 1,
+                        "RATE_UNIT": "ml"
+                    }
+                ],
+                "TSKQUAL": [
                     {
                         "TASKDT": "13/12/2018 19:00",
                         "TASKDTEVAL": "/Date(2018-12-13T18:00:00.000+00:00)/",
@@ -1212,15 +1264,8 @@
                         "TASKREASON": ""
                     },
                     {
-                        "TASKDT": "14/12/2018 01:00",
-                        "TASKDTEVAL": "/Date(2018-12-14T00:00:00.000+00:00)/",
-                        "TASKSTAT": "Pendiente",
-                        "TASKCDF": "PENDING",
-                        "TASKREASON": ""
-                    },
-                    {
-                        "TASKDT": "14/12/2018 07:00",
-                        "TASKDTEVAL": "/Date(2018-12-14T06:00:00.000+00:00)/",
+                        "TASKDT": "14/12/2018 03:00",
+                        "TASKDTEVAL": "/Date(2018-12-14T02:00:00.000+00:00)/",
                         "TASKSTAT": "Pendiente",
                         "TASKCDF": "PENDING",
                         "TASKREASON": ""
@@ -1228,10 +1273,10 @@
                 ]
             },
             {
-                "ORDER_ID": 1008404510.0,
+                "ORDER_ID": 1008404510,
                 "MEDNAME": "Ipratropio ATROVENT  500 mcg 2 mL Amp Nebul",
                 "ORDERED_AS": "Ipratropio NEB<b> [mcg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "18-10-2018 19:00",
                 "STARTDTEVAL": "/Date(2018-10-18T17:00:00.000+00:00)/",
@@ -1254,10 +1299,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1039648775.0,
+                "ORDER_ID": 1039648775,
                 "MEDNAME": "Ipratropio ATROVENT  500 mcg 2 mL Amp Nebul",
                 "ORDERED_AS": "Ipratropio NEB<b> [mcg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "28-11-2018 19:00",
                 "STARTDTEVAL": "/Date(2018-11-28T18:00:00.000+00:00)/",
@@ -1280,10 +1325,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1046686752.0,
+                "ORDER_ID": 1046686752,
                 "MEDNAME": "Ipratropio ATROVENT  500 mcg 2 mL Amp Nebul",
                 "ORDERED_AS": "Ipratropio NEB<b> [mcg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "08-12-2018 17:00",
                 "STARTDTEVAL": "/Date(2018-12-08T16:00:00.000+00:00)/",
@@ -1306,10 +1351,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1046687804.0,
+                "ORDER_ID": 1046687804,
                 "MEDNAME": "Ipratropio ATROVENT  500 mcg 2 mL Amp Nebul",
                 "ORDERED_AS": "Ipratropio NEB<b> [mcg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "08-12-2018 16:57",
                 "STARTDTEVAL": "/Date(2018-12-08T15:57:00.000+00:00)/",
@@ -1321,8 +1366,8 @@
                 "STRENGTH_UNIT": "mcg",
                 "VOLUME_DOSE": "2",
                 "VOLUME_UNIT": "ml",
-                "FREQ": "c/6h",
-                "DURATION": "4 days 19 hours",
+                "FREQ": "c/8h (libre)",
+                "DURATION": "4 days 21 hours",
                 "RATE": "5",
                 "RATE_UNIT": "mL/h",
                 "ROUTE": "NEB",
@@ -1332,32 +1377,25 @@
                     {
                         "ADMINDT": "13/12/2018 12:00",
                         "ADMINDTEVAL": "/Date(2018-12-13T11:00:00.000+00:00)/",
-                        "ADMINDOSE": 500.0,
+                        "ADMINDOSE": 500,
                         "ADMINUNIT": "mcg",
                         "EVTTAG": "500 mcg",
                         "MISSED": 0,
-                        "RATE": 2.0,
+                        "RATE": 2,
                         "RATE_UNIT": "ml"
                     }
                 ],
                 "TSKQUAL": [
                     {
-                        "TASKDT": "13/12/2018 18:00",
-                        "TASKDTEVAL": "/Date(2018-12-13T17:00:00.000+00:00)/",
+                        "TASKDT": "13/12/2018 20:00",
+                        "TASKDTEVAL": "/Date(2018-12-13T19:00:00.000+00:00)/",
                         "TASKSTAT": "Pendiente",
                         "TASKCDF": "PENDING",
                         "TASKREASON": ""
                     },
                     {
-                        "TASKDT": "14/12/2018 00:00",
-                        "TASKDTEVAL": "/Date(2018-12-13T23:00:00.000+00:00)/",
-                        "TASKSTAT": "Pendiente",
-                        "TASKCDF": "PENDING",
-                        "TASKREASON": ""
-                    },
-                    {
-                        "TASKDT": "14/12/2018 06:00",
-                        "TASKDTEVAL": "/Date(2018-12-14T05:00:00.000+00:00)/",
+                        "TASKDT": "14/12/2018 04:00",
+                        "TASKDTEVAL": "/Date(2018-12-14T03:00:00.000+00:00)/",
                         "TASKSTAT": "Pendiente",
                         "TASKCDF": "PENDING",
                         "TASKREASON": ""
@@ -1365,10 +1403,10 @@
                 ]
             },
             {
-                "ORDER_ID": 1040527166.0,
+                "ORDER_ID": 1040527166,
                 "MEDNAME": "Lactobacilus reuteri CASENBIOTIC Comp Mastic",
                 "ORDERED_AS": "Lactobacilus reuteri Oral<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "30-11-2018 09:00",
                 "STARTDTEVAL": "/Date(2018-11-30T08:00:00.000+00:00)/",
@@ -1391,10 +1429,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1015109500.0,
+                "ORDER_ID": 1015109500,
                 "MEDNAME": "Lactulosa DUPHALAC 10 g/15 mL Sol",
                 "ORDERED_AS": "Lactulosa SNG<b> [g]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "27-10-2018 17:00",
                 "STARTDTEVAL": "/Date(2018-10-27T15:00:00.000+00:00)/",
@@ -1417,10 +1455,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1026577779.0,
+                "ORDER_ID": 1026577779,
                 "MEDNAME": "Lactulosa DUPHALAC 15 mL Sobre",
                 "ORDERED_AS": "Lactulosa Oral<b> [g]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "12-11-2018 13:00",
                 "STARTDTEVAL": "/Date(2018-11-12T12:00:00.000+00:00)/",
@@ -1443,23 +1481,23 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1048544834.0,
+                "ORDER_ID": 1048544834,
                 "MEDNAME": "Lactulosa DUPHALAC 15 mL Sobre",
                 "ORDERED_AS": "Lactulosa SNG<b> [g]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "11-12-2018 12:00",
                 "STARTDTEVAL": "/Date(2018-12-11T11:00:00.000+00:00)/",
-                "STOPDT": "",
-                "STOPDTEVAL": "/Date(0000-00-00T00:00:00.000+00:00)/",
-                "STATUS": "Indicado",
+                "STOPDT": "13-12-2018 13:10",
+                "STOPDTEVAL": "/Date(2018-12-13T12:10:00.000+00:00)/",
+                "STATUS": "Interrumpido",
                 "DOSE": "10 g=15 ml",
                 "STRENGTH_DOSE": "10",
                 "STRENGTH_UNIT": "g",
                 "VOLUME_DOSE": "15",
                 "VOLUME_UNIT": "ml",
                 "FREQ": "c/12h (libre)",
-                "DURATION": "2 days 00 hours",
+                "DURATION": "2 days 01 hours",
                 "RATE": "5",
                 "RATE_UNIT": "mL/h",
                 "ROUTE": "SNG",
@@ -1469,29 +1507,21 @@
                     {
                         "ADMINDT": "13/12/2018 12:00",
                         "ADMINDTEVAL": "/Date(2018-12-13T11:00:00.000+00:00)/",
-                        "ADMINDOSE": 10.0,
+                        "ADMINDOSE": 10,
                         "ADMINUNIT": "g",
                         "EVTTAG": "10 g",
                         "MISSED": 0,
-                        "RATE": 15.0,
+                        "RATE": 15,
                         "RATE_UNIT": "ml"
                     }
                 ],
-                "TSKQUAL": [
-                    {
-                        "TASKDT": "14/12/2018 00:00",
-                        "TASKDTEVAL": "/Date(2018-12-13T23:00:00.000+00:00)/",
-                        "TASKSTAT": "Pendiente",
-                        "TASKCDF": "PENDING",
-                        "TASKREASON": ""
-                    }
-                ]
+                "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1011005605.0,
+                "ORDER_ID": 1011005605,
                 "MEDNAME": "Lidocaína",
                 "ORDERED_AS": "Lidocaína IV Bolo<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "22-10-2018 12:25",
                 "STARTDTEVAL": "/Date(2018-10-22T10:25:00.000+00:00)/",
@@ -1514,10 +1544,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1036823022.0,
+                "ORDER_ID": 1036823022,
                 "MEDNAME": "Lorazepam ORFIDAL 1 mg Comp",
                 "ORDERED_AS": "Lorazepam Oral<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "25-11-2018 12:30",
                 "STARTDTEVAL": "/Date(2018-11-25T11:30:00.000+00:00)/",
@@ -1540,10 +1570,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1004839600.0,
+                "ORDER_ID": 1004839600,
                 "MEDNAME": "Losartán COZAAR 50 mg Comp",
                 "ORDERED_AS": "Losartán SNG<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "15-10-2018 09:00",
                 "STARTDTEVAL": "/Date(2018-10-15T07:00:00.000+00:00)/",
@@ -1566,10 +1596,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1008354491.0,
+                "ORDER_ID": 1008354491,
                 "MEDNAME": "niFEdipino ADALAT 10 mg Caps",
                 "ORDERED_AS": "niFEdipino Oral<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "18-10-2018 12:51",
                 "STARTDTEVAL": "/Date(2018-10-18T10:51:00.000+00:00)/",
@@ -1583,7 +1613,7 @@
                 "VOLUME_UNIT": "caps",
                 "FREQ": "DeCoCe",
                 "DURATION": "8 days 01 hours",
-                "RATE": "75",
+                "RATE": "83,33",
                 "RATE_UNIT": "mL/h",
                 "ROUTE": "Oral",
                 "CATEGORY": "Sin orden de visualización pre-establecido",
@@ -1592,10 +1622,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1030552717.0,
+                "ORDER_ID": 1030552717,
                 "MEDNAME": "Omeprazol 20 mg Caps",
                 "ORDERED_AS": "Omeprazol Oral<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "17-11-2018 09:00",
                 "STARTDTEVAL": "/Date(2018-11-17T08:00:00.000+00:00)/",
@@ -1618,10 +1648,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1049414287.0,
+                "ORDER_ID": 1049414287,
                 "MEDNAME": "Omeprazol 20 mg Caps",
                 "ORDERED_AS": "Omeprazol SNG<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "13-12-2018 09:00",
                 "STARTDTEVAL": "/Date(2018-12-13T08:00:00.000+00:00)/",
@@ -1634,7 +1664,7 @@
                 "VOLUME_DOSE": "1",
                 "VOLUME_UNIT": "caps",
                 "FREQ": "De",
-                "DURATION": "0 days 03 hours",
+                "DURATION": "0 days 05 hours",
                 "RATE": "6,38",
                 "RATE_UNIT": "mL/h",
                 "ROUTE": "SNG",
@@ -1644,21 +1674,21 @@
                     {
                         "ADMINDT": "13/12/2018 09:00",
                         "ADMINDTEVAL": "/Date(2018-12-13T08:00:00.000+00:00)/",
-                        "ADMINDOSE": 20.0,
+                        "ADMINDOSE": 20,
                         "ADMINUNIT": "mg",
                         "EVTTAG": "20 mg",
                         "MISSED": 0,
-                        "RATE": 0.0,
+                        "RATE": 0,
                         "RATE_UNIT": ""
                     }
                 ],
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1030370787.0,
+                "ORDER_ID": 1030370787,
                 "MEDNAME": "Paracetamol 1 g Sobre",
                 "ORDERED_AS": "Paracetamol Oral<b> [g]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "16-11-2018 11:43",
                 "STARTDTEVAL": "/Date(2018-11-16T10:43:00.000+00:00)/",
@@ -1681,10 +1711,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1030548158.0,
+                "ORDER_ID": 1030548158,
                 "MEDNAME": "Paracetamol 1 g Sobre",
                 "ORDERED_AS": "Paracetamol Oral<b> [g]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "16-11-2018 17:00",
                 "STARTDTEVAL": "/Date(2018-11-16T16:00:00.000+00:00)/",
@@ -1707,10 +1737,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1010608828.0,
+                "ORDER_ID": 1010608828,
                 "MEDNAME": "Propofol",
                 "ORDERED_AS": "Propofol IV Bolo<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "22-10-2018 11:09",
                 "STARTDTEVAL": "/Date(2018-10-22T09:09:00.000+00:00)/",
@@ -1733,10 +1763,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1045896502.0,
+                "ORDER_ID": 1045896502,
                 "MEDNAME": "Propofol",
                 "ORDERED_AS": "Propofol IV Bolo<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "07-12-2018 10:00",
                 "STARTDTEVAL": "/Date(2018-12-07T09:00:00.000+00:00)/",
@@ -1759,10 +1789,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1046592885.0,
+                "ORDER_ID": 1046592885,
                 "MEDNAME": "Propofol",
                 "ORDERED_AS": "Propofol IV Bolo<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "08-12-2018 14:28",
                 "STARTDTEVAL": "/Date(2018-12-08T13:28:00.000+00:00)/",
@@ -1785,10 +1815,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1045863580.0,
+                "ORDER_ID": 1045863580,
                 "MEDNAME": "Protamina 50 mg 5 mL Vial",
                 "ORDERED_AS": "Protamina IV Directa Lenta<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "07-12-2018 09:32",
                 "STARTDTEVAL": "/Date(2018-12-07T08:32:00.000+00:00)/",
@@ -1811,10 +1841,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1001054760.0,
+                "ORDER_ID": 1001054760,
                 "MEDNAME": "Rocuronio",
                 "ORDERED_AS": "Rocuronio IV Bolo<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "09-10-2018 04:47",
                 "STARTDTEVAL": "/Date(2018-10-09T02:47:00.000+00:00)/",
@@ -1837,10 +1867,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1001054761.0,
+                "ORDER_ID": 1001054761,
                 "MEDNAME": "Rocuronio",
                 "ORDERED_AS": "Rocuronio IV Bolo<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "09-10-2018 06:51",
                 "STARTDTEVAL": "/Date(2018-10-09T04:51:00.000+00:00)/",
@@ -1863,10 +1893,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1001054762.0,
+                "ORDER_ID": 1001054762,
                 "MEDNAME": "Rocuronio",
                 "ORDERED_AS": "Rocuronio IV Bolo<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "09-10-2018 06:22",
                 "STARTDTEVAL": "/Date(2018-10-09T04:22:00.000+00:00)/",
@@ -1889,10 +1919,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1010608829.0,
+                "ORDER_ID": 1010608829,
                 "MEDNAME": "Rocuronio",
                 "ORDERED_AS": "Rocuronio IV Bolo<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "22-10-2018 11:09",
                 "STARTDTEVAL": "/Date(2018-10-22T09:09:00.000+00:00)/",
@@ -1915,10 +1945,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1045896503.0,
+                "ORDER_ID": 1045896503,
                 "MEDNAME": "Rocuronio",
                 "ORDERED_AS": "Rocuronio IV Bolo<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "07-12-2018 10:00",
                 "STARTDTEVAL": "/Date(2018-12-07T09:00:00.000+00:00)/",
@@ -1941,10 +1971,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1046592886.0,
+                "ORDER_ID": 1046592886,
                 "MEDNAME": "Rocuronio",
                 "ORDERED_AS": "Rocuronio IV Bolo<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "08-12-2018 14:28",
                 "STARTDTEVAL": "/Date(2018-12-08T13:28:00.000+00:00)/",
@@ -1967,10 +1997,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1008404509.0,
+                "ORDER_ID": 1008404509,
                 "MEDNAME": "Salbutamol SALBUAIR 2,5 mg/2,5 mL Amp NEBULIZACIÓN",
                 "ORDERED_AS": "Salbutamol NEB<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "18-10-2018 19:00",
                 "STARTDTEVAL": "/Date(2018-10-18T17:00:00.000+00:00)/",
@@ -1993,10 +2023,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1039648774.0,
+                "ORDER_ID": 1039648774,
                 "MEDNAME": "Salbutamol SALBUAIR 2,5 mg/2,5 mL Amp NEBULIZACIÓN",
                 "ORDERED_AS": "Salbutamol NEB<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "28-11-2018 19:00",
                 "STARTDTEVAL": "/Date(2018-11-28T18:00:00.000+00:00)/",
@@ -2019,10 +2049,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1046686751.0,
+                "ORDER_ID": 1046686751,
                 "MEDNAME": "Salbutamol SALBUAIR 2,5 mg/2,5 mL Amp NEBULIZACIÓN",
                 "ORDERED_AS": "Salbutamol NEB<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "08-12-2018 17:00",
                 "STARTDTEVAL": "/Date(2018-12-08T16:00:00.000+00:00)/",
@@ -2045,10 +2075,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1046687803.0,
+                "ORDER_ID": 1046687803,
                 "MEDNAME": "Salbutamol SALBUAIR 2,5 mg/2,5 mL Amp NEBULIZACIÓN",
                 "ORDERED_AS": "Salbutamol NEB<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "08-12-2018 16:57",
                 "STARTDTEVAL": "/Date(2018-12-08T15:57:00.000+00:00)/",
@@ -2060,8 +2090,8 @@
                 "STRENGTH_UNIT": "mg",
                 "VOLUME_DOSE": "5",
                 "VOLUME_UNIT": "ml",
-                "FREQ": "c/6h",
-                "DURATION": "4 days 19 hours",
+                "FREQ": "c/8h (libre)",
+                "DURATION": "4 days 21 hours",
                 "RATE": "20,83",
                 "RATE_UNIT": "mL/h",
                 "ROUTE": "NEB",
@@ -2071,32 +2101,25 @@
                     {
                         "ADMINDT": "13/12/2018 12:00",
                         "ADMINDTEVAL": "/Date(2018-12-13T11:00:00.000+00:00)/",
-                        "ADMINDOSE": 5.0,
+                        "ADMINDOSE": 5,
                         "ADMINUNIT": "mg",
                         "EVTTAG": "5 mg",
                         "MISSED": 0,
-                        "RATE": 5.0,
+                        "RATE": 5,
                         "RATE_UNIT": "ml"
                     }
                 ],
                 "TSKQUAL": [
                     {
-                        "TASKDT": "13/12/2018 18:00",
-                        "TASKDTEVAL": "/Date(2018-12-13T17:00:00.000+00:00)/",
+                        "TASKDT": "13/12/2018 20:00",
+                        "TASKDTEVAL": "/Date(2018-12-13T19:00:00.000+00:00)/",
                         "TASKSTAT": "Pendiente",
                         "TASKCDF": "PENDING",
                         "TASKREASON": ""
                     },
                     {
-                        "TASKDT": "14/12/2018 00:00",
-                        "TASKDTEVAL": "/Date(2018-12-13T23:00:00.000+00:00)/",
-                        "TASKSTAT": "Pendiente",
-                        "TASKCDF": "PENDING",
-                        "TASKREASON": ""
-                    },
-                    {
-                        "TASKDT": "14/12/2018 06:00",
-                        "TASKDTEVAL": "/Date(2018-12-14T05:00:00.000+00:00)/",
+                        "TASKDT": "14/12/2018 04:00",
+                        "TASKDTEVAL": "/Date(2018-12-14T03:00:00.000+00:00)/",
                         "TASKSTAT": "Pendiente",
                         "TASKCDF": "PENDING",
                         "TASKREASON": ""
@@ -2104,10 +2127,10 @@
                 ]
             },
             {
-                "ORDER_ID": 1038667032.0,
+                "ORDER_ID": 1038667032,
                 "MEDNAME": "Senósidos X-PREP 10 mg/5 mL Sol Oral",
                 "ORDERED_AS": "Senósidos A y B Oral<b> [ml]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "27-11-2018 14:06",
                 "STARTDTEVAL": "/Date(2018-11-27T13:06:00.000+00:00)/",
@@ -2130,10 +2153,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1011005606.0,
+                "ORDER_ID": 1011005606,
                 "MEDNAME": "Sugammadex",
                 "ORDERED_AS": "Sugammadex IV Bolo<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "22-10-2018 13:00",
                 "STARTDTEVAL": "/Date(2018-10-22T11:00:00.000+00:00)/",
@@ -2156,10 +2179,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1010608833.0,
+                "ORDER_ID": 1010608833,
                 "MEDNAME": "Sulfato de magnesio",
                 "ORDERED_AS": "Sulfato de magnesio IV Bolo<b> [g]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "22-10-2018 12:25",
                 "STARTDTEVAL": "/Date(2018-10-22T10:25:00.000+00:00)/",
@@ -2182,10 +2205,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1010608830.0,
+                "ORDER_ID": 1010608830,
                 "MEDNAME": "Tramadol",
                 "ORDERED_AS": "Tramadol IV Bolo<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "22-10-2018 12:45",
                 "STARTDTEVAL": "/Date(2018-10-22T10:45:00.000+00:00)/",
@@ -2208,10 +2231,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1030550751.0,
+                "ORDER_ID": 1030550751,
                 "MEDNAME": "Tramadol ADOLONTA 50 mg Caps",
                 "ORDERED_AS": "Tramadol Oral<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "16-11-2018 14:27",
                 "STARTDTEVAL": "/Date(2018-11-16T13:27:00.000+00:00)/",
@@ -2234,10 +2257,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1030371704.0,
+                "ORDER_ID": 1030371704,
                 "MEDNAME": "Tramadol ADOLONTA RETARD 100 mg Comp Retard",
                 "ORDERED_AS": "Tramadol Oral<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "16-11-2018 11:44",
                 "STARTDTEVAL": "/Date(2018-11-16T10:44:00.000+00:00)/",
@@ -2260,10 +2283,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 999697586.0,
+                "ORDER_ID": 999697586,
                 "MEDNAME": "Urapidilo 50 mg 10 mL Bolo IV",
                 "ORDERED_AS": "Urapidilo IV Bolo<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "07-10-2018 02:53",
                 "STARTDTEVAL": "/Date(2018-10-07T00:53:00.000+00:00)/",
@@ -2286,10 +2309,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1045896505.0,
+                "ORDER_ID": 1045896505,
                 "MEDNAME": "Vancomicina",
                 "ORDERED_AS": "Vancomicina IV Bolo<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "07-12-2018 10:44",
                 "STARTDTEVAL": "/Date(2018-12-07T09:44:00.000+00:00)/",
@@ -2312,10 +2335,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1046689794.0,
+                "ORDER_ID": 1046689794,
                 "MEDNAME": "Fentanilo IV 1.500 mcg [50 mcg/h] + Prediluido 30 ml",
                 "ORDERED_AS": "Fentanilo IV Perf Continua<b> [mcg/h]</b>",
-                "NORM_RATE": 50.0,
+                "NORM_RATE": 50,
                 "NORM_RATE_UNIT": "mcg/h",
                 "STARTDT": "08-12-2018 17:02",
                 "STARTDTEVAL": "/Date(2018-12-08T16:02:00.000+00:00)/",
@@ -2338,10 +2361,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1048538041.0,
+                "ORDER_ID": 1048538041,
                 "MEDNAME": "Fentanilo IV 1.500 mcg [50 mcg/h] + Prediluido 30 ml",
                 "ORDERED_AS": "Fentanilo IV Perf Continua<b> [mcg/h]</b>",
-                "NORM_RATE": 50.0,
+                "NORM_RATE": 50,
                 "NORM_RATE_UNIT": "mcg/h",
                 "STARTDT": "11-12-2018 11:05",
                 "STARTDTEVAL": "/Date(2018-12-11T10:05:00.000+00:00)/",
@@ -2354,7 +2377,7 @@
                 "VOLUME_DOSE": "30",
                 "VOLUME_UNIT": "ml",
                 "FREQ": "",
-                "DURATION": "2 days 01 hours",
+                "DURATION": "2 days 03 hours",
                 "RATE": "1",
                 "RATE_UNIT": "mL/h",
                 "ROUTE": "IV Perf Continua",
@@ -2364,137 +2387,227 @@
                     {
                         "ADMINDT": "13/12/2018 08:59",
                         "ADMINDTEVAL": "/Date(2018-12-13T07:59:00.000+00:00)/",
-                        "ADMINDOSE": 1.0,
+                        "ADMINDOSE": 1,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "1 ml",
                         "MISSED": 0,
-                        "RATE": 1.0,
+                        "RATE": 1,
                         "RATE_UNIT": "mL/h"
                     },
                     {
                         "ADMINDT": "13/12/2018 08:59",
                         "ADMINDTEVAL": "/Date(2018-12-13T07:59:59.000+00:00)/",
-                        "ADMINDOSE": 50.0,
+                        "ADMINDOSE": 50,
                         "ADMINUNIT": "mcg",
                         "EVTTAG": "50 mcg",
                         "MISSED": 0,
-                        "RATE": 0.0,
+                        "RATE": 0,
                         "RATE_UNIT": ""
                     },
                     {
                         "ADMINDT": "13/12/2018 08:59",
                         "ADMINDTEVAL": "/Date(2018-12-13T07:59:59.000+00:00)/",
-                        "ADMINDOSE": 1.0,
+                        "ADMINDOSE": 1,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "1 ml",
                         "MISSED": 0,
-                        "RATE": 0.0,
+                        "RATE": 0,
                         "RATE_UNIT": ""
                     },
                     {
                         "ADMINDT": "13/12/2018 09:59",
                         "ADMINDTEVAL": "/Date(2018-12-13T08:59:00.000+00:00)/",
-                        "ADMINDOSE": 1.0,
+                        "ADMINDOSE": 1,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "1 ml",
                         "MISSED": 0,
-                        "RATE": 1.0,
+                        "RATE": 1,
                         "RATE_UNIT": "mL/h"
                     },
                     {
                         "ADMINDT": "13/12/2018 09:59",
                         "ADMINDTEVAL": "/Date(2018-12-13T08:59:59.000+00:00)/",
-                        "ADMINDOSE": 50.0,
+                        "ADMINDOSE": 50,
                         "ADMINUNIT": "mcg",
                         "EVTTAG": "50 mcg",
                         "MISSED": 0,
-                        "RATE": 0.0,
+                        "RATE": 0,
                         "RATE_UNIT": ""
                     },
                     {
                         "ADMINDT": "13/12/2018 09:59",
                         "ADMINDTEVAL": "/Date(2018-12-13T08:59:59.000+00:00)/",
-                        "ADMINDOSE": 1.0,
+                        "ADMINDOSE": 1,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "1 ml",
                         "MISSED": 0,
-                        "RATE": 0.0,
+                        "RATE": 0,
                         "RATE_UNIT": ""
                     },
                     {
                         "ADMINDT": "13/12/2018 10:59",
                         "ADMINDTEVAL": "/Date(2018-12-13T09:59:00.000+00:00)/",
-                        "ADMINDOSE": 1.0,
+                        "ADMINDOSE": 1,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "1 ml",
                         "MISSED": 0,
-                        "RATE": 1.0,
+                        "RATE": 1,
                         "RATE_UNIT": "mL/h"
                     },
                     {
                         "ADMINDT": "13/12/2018 10:59",
                         "ADMINDTEVAL": "/Date(2018-12-13T09:59:59.000+00:00)/",
-                        "ADMINDOSE": 50.0,
+                        "ADMINDOSE": 50,
                         "ADMINUNIT": "mcg",
                         "EVTTAG": "50 mcg",
                         "MISSED": 0,
-                        "RATE": 0.0,
+                        "RATE": 0,
                         "RATE_UNIT": ""
                     },
                     {
                         "ADMINDT": "13/12/2018 10:59",
                         "ADMINDTEVAL": "/Date(2018-12-13T09:59:59.000+00:00)/",
-                        "ADMINDOSE": 1.0,
+                        "ADMINDOSE": 1,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "1 ml",
                         "MISSED": 0,
-                        "RATE": 0.0,
+                        "RATE": 0,
                         "RATE_UNIT": ""
                     },
                     {
                         "ADMINDT": "13/12/2018 11:59",
                         "ADMINDTEVAL": "/Date(2018-12-13T10:59:00.000+00:00)/",
-                        "ADMINDOSE": 1.0,
+                        "ADMINDOSE": 1,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "1 ml",
                         "MISSED": 0,
-                        "RATE": 1.0,
+                        "RATE": 1,
                         "RATE_UNIT": "mL/h"
                     },
                     {
                         "ADMINDT": "13/12/2018 11:59",
                         "ADMINDTEVAL": "/Date(2018-12-13T10:59:59.000+00:00)/",
-                        "ADMINDOSE": 50.0,
+                        "ADMINDOSE": 50,
                         "ADMINUNIT": "mcg",
                         "EVTTAG": "50 mcg",
                         "MISSED": 0,
-                        "RATE": 0.0,
+                        "RATE": 0,
                         "RATE_UNIT": ""
                     },
                     {
                         "ADMINDT": "13/12/2018 11:59",
                         "ADMINDTEVAL": "/Date(2018-12-13T10:59:59.000+00:00)/",
-                        "ADMINDOSE": 1.0,
+                        "ADMINDOSE": 1,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "1 ml",
                         "MISSED": 0,
-                        "RATE": 0.0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "13/12/2018 12:59",
+                        "ADMINDTEVAL": "/Date(2018-12-13T11:59:00.000+00:00)/",
+                        "ADMINDOSE": 1,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "1 ml",
+                        "MISSED": 0,
+                        "RATE": 1,
+                        "RATE_UNIT": "mL/h"
+                    },
+                    {
+                        "ADMINDT": "13/12/2018 12:59",
+                        "ADMINDTEVAL": "/Date(2018-12-13T11:59:59.000+00:00)/",
+                        "ADMINDOSE": 50,
+                        "ADMINUNIT": "mcg",
+                        "EVTTAG": "50 mcg",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "13/12/2018 12:59",
+                        "ADMINDTEVAL": "/Date(2018-12-13T11:59:59.000+00:00)/",
+                        "ADMINDOSE": 1,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "1 ml",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "13/12/2018 13:59",
+                        "ADMINDTEVAL": "/Date(2018-12-13T12:59:00.000+00:00)/",
+                        "ADMINDOSE": 1,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "1 ml",
+                        "MISSED": 0,
+                        "RATE": 1,
+                        "RATE_UNIT": "mL/h"
+                    },
+                    {
+                        "ADMINDT": "13/12/2018 13:59",
+                        "ADMINDTEVAL": "/Date(2018-12-13T12:59:59.000+00:00)/",
+                        "ADMINDOSE": 50,
+                        "ADMINUNIT": "mcg",
+                        "EVTTAG": "50 mcg",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "13/12/2018 13:59",
+                        "ADMINDTEVAL": "/Date(2018-12-13T12:59:59.000+00:00)/",
+                        "ADMINDOSE": 1,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "1 ml",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "13/12/2018 14:59",
+                        "ADMINDTEVAL": "/Date(2018-12-13T13:59:00.000+00:00)/",
+                        "ADMINDOSE": 1,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "1 ml",
+                        "MISSED": 0,
+                        "RATE": 1,
+                        "RATE_UNIT": "mL/h"
+                    },
+                    {
+                        "ADMINDT": "13/12/2018 14:59",
+                        "ADMINDTEVAL": "/Date(2018-12-13T13:59:59.000+00:00)/",
+                        "ADMINDOSE": 50,
+                        "ADMINUNIT": "mcg",
+                        "EVTTAG": "50 mcg",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "13/12/2018 14:59",
+                        "ADMINDTEVAL": "/Date(2018-12-13T13:59:59.000+00:00)/",
+                        "ADMINDOSE": 1,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "1 ml",
+                        "MISSED": 0,
+                        "RATE": 0,
                         "RATE_UNIT": ""
                     }
                 ],
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1046049015.0,
+                "ORDER_ID": 1046049015,
                 "MEDNAME": "Fisiológico 0,9% 500 mL Suero 500 ml + NaCl 20% IV 68 mEq + Potasio_ClK_ 40 mEq",
                 "ORDERED_AS": "Cloruro sódico IV Perf Continua<b> [mEq]</b> + Potasio cloruro IV Perf Continua<b> [mEq]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "07-12-2018 12:28",
                 "STARTDTEVAL": "/Date(2018-12-07T11:28:00.000+00:00)/",
-                "STOPDT": "",
-                "STOPDTEVAL": "/Date(0000-00-00T00:00:00.000+00:00)/",
-                "STATUS": "Indicado",
+                "STOPDT": "13-12-2018 13:09",
+                "STOPDTEVAL": "/Date(2018-12-13T12:09:00.000+00:00)/",
+                "STATUS": "Interrumpido",
                 "DOSE": "40 mEq",
                 "STRENGTH_DOSE": "",
                 "STRENGTH_UNIT": "mEq",
@@ -2507,14 +2620,295 @@
                 "ROUTE": "IV Perf Continua",
                 "CATEGORY": "Sin orden de visualización pre-establecido",
                 "DISPENSE_CATEGORY": "Carro Mezcla IV Cont",
-                "ADMQUAL": [],
+                "ADMQUAL": [
+                    {
+                        "ADMINDT": "13/12/2018 08:59",
+                        "ADMINDTEVAL": "/Date(2018-12-13T07:59:00.000+00:00)/",
+                        "ADMINDOSE": 21,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "21 ml",
+                        "MISSED": 0,
+                        "RATE": 21,
+                        "RATE_UNIT": "mL/h"
+                    },
+                    {
+                        "ADMINDT": "13/12/2018 08:59",
+                        "ADMINDTEVAL": "/Date(2018-12-13T07:59:59.000+00:00)/",
+                        "ADMINDOSE": 21,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "21 ml",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "13/12/2018 08:59",
+                        "ADMINDTEVAL": "/Date(2018-12-13T07:59:59.000+00:00)/",
+                        "ADMINDOSE": 1.68,
+                        "ADMINUNIT": "mEq",
+                        "EVTTAG": "1.68 mEq",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "13/12/2018 08:59",
+                        "ADMINDTEVAL": "/Date(2018-12-13T07:59:59.000+00:00)/",
+                        "ADMINDOSE": 2.856,
+                        "ADMINUNIT": "mEq",
+                        "EVTTAG": "2.856 mEq",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "13/12/2018 09:59",
+                        "ADMINDTEVAL": "/Date(2018-12-13T08:59:00.000+00:00)/",
+                        "ADMINDOSE": 21,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "21 ml",
+                        "MISSED": 0,
+                        "RATE": 21,
+                        "RATE_UNIT": "mL/h"
+                    },
+                    {
+                        "ADMINDT": "13/12/2018 09:59",
+                        "ADMINDTEVAL": "/Date(2018-12-13T08:59:59.000+00:00)/",
+                        "ADMINDOSE": 21,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "21 ml",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "13/12/2018 09:59",
+                        "ADMINDTEVAL": "/Date(2018-12-13T08:59:59.000+00:00)/",
+                        "ADMINDOSE": 1.68,
+                        "ADMINUNIT": "mEq",
+                        "EVTTAG": "1.68 mEq",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "13/12/2018 09:59",
+                        "ADMINDTEVAL": "/Date(2018-12-13T08:59:59.000+00:00)/",
+                        "ADMINDOSE": 2.856,
+                        "ADMINUNIT": "mEq",
+                        "EVTTAG": "2.856 mEq",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "13/12/2018 10:59",
+                        "ADMINDTEVAL": "/Date(2018-12-13T09:59:00.000+00:00)/",
+                        "ADMINDOSE": 21,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "21 ml",
+                        "MISSED": 0,
+                        "RATE": 21,
+                        "RATE_UNIT": "mL/h"
+                    },
+                    {
+                        "ADMINDT": "13/12/2018 10:59",
+                        "ADMINDTEVAL": "/Date(2018-12-13T09:59:59.000+00:00)/",
+                        "ADMINDOSE": 21,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "21 ml",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "13/12/2018 10:59",
+                        "ADMINDTEVAL": "/Date(2018-12-13T09:59:59.000+00:00)/",
+                        "ADMINDOSE": 1.68,
+                        "ADMINUNIT": "mEq",
+                        "EVTTAG": "1.68 mEq",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "13/12/2018 10:59",
+                        "ADMINDTEVAL": "/Date(2018-12-13T09:59:59.000+00:00)/",
+                        "ADMINDOSE": 2.856,
+                        "ADMINUNIT": "mEq",
+                        "EVTTAG": "2.856 mEq",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "13/12/2018 11:59",
+                        "ADMINDTEVAL": "/Date(2018-12-13T10:59:00.000+00:00)/",
+                        "ADMINDOSE": 21,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "21 ml",
+                        "MISSED": 0,
+                        "RATE": 21,
+                        "RATE_UNIT": "mL/h"
+                    },
+                    {
+                        "ADMINDT": "13/12/2018 11:59",
+                        "ADMINDTEVAL": "/Date(2018-12-13T10:59:59.000+00:00)/",
+                        "ADMINDOSE": 21,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "21 ml",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "13/12/2018 11:59",
+                        "ADMINDTEVAL": "/Date(2018-12-13T10:59:59.000+00:00)/",
+                        "ADMINDOSE": 1.68,
+                        "ADMINUNIT": "mEq",
+                        "EVTTAG": "1.68 mEq",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "13/12/2018 11:59",
+                        "ADMINDTEVAL": "/Date(2018-12-13T10:59:59.000+00:00)/",
+                        "ADMINDOSE": 2.856,
+                        "ADMINUNIT": "mEq",
+                        "EVTTAG": "2.856 mEq",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "13/12/2018 12:59",
+                        "ADMINDTEVAL": "/Date(2018-12-13T11:59:00.000+00:00)/",
+                        "ADMINDOSE": 21,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "21 ml",
+                        "MISSED": 0,
+                        "RATE": 21,
+                        "RATE_UNIT": "mL/h"
+                    },
+                    {
+                        "ADMINDT": "13/12/2018 12:59",
+                        "ADMINDTEVAL": "/Date(2018-12-13T11:59:59.000+00:00)/",
+                        "ADMINDOSE": 21,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "21 ml",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "13/12/2018 12:59",
+                        "ADMINDTEVAL": "/Date(2018-12-13T11:59:59.000+00:00)/",
+                        "ADMINDOSE": 1.68,
+                        "ADMINUNIT": "mEq",
+                        "EVTTAG": "1.68 mEq",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "13/12/2018 12:59",
+                        "ADMINDTEVAL": "/Date(2018-12-13T11:59:59.000+00:00)/",
+                        "ADMINDOSE": 2.856,
+                        "ADMINUNIT": "mEq",
+                        "EVTTAG": "2.856 mEq",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "13/12/2018 13:59",
+                        "ADMINDTEVAL": "/Date(2018-12-13T12:59:00.000+00:00)/",
+                        "ADMINDOSE": 21,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "21 ml",
+                        "MISSED": 0,
+                        "RATE": 21,
+                        "RATE_UNIT": "mL/h"
+                    },
+                    {
+                        "ADMINDT": "13/12/2018 13:59",
+                        "ADMINDTEVAL": "/Date(2018-12-13T12:59:59.000+00:00)/",
+                        "ADMINDOSE": 21,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "21 ml",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "13/12/2018 13:59",
+                        "ADMINDTEVAL": "/Date(2018-12-13T12:59:59.000+00:00)/",
+                        "ADMINDOSE": 1.68,
+                        "ADMINUNIT": "mEq",
+                        "EVTTAG": "1.68 mEq",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "13/12/2018 13:59",
+                        "ADMINDTEVAL": "/Date(2018-12-13T12:59:59.000+00:00)/",
+                        "ADMINDOSE": 2.856,
+                        "ADMINUNIT": "mEq",
+                        "EVTTAG": "2.856 mEq",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "13/12/2018 14:59",
+                        "ADMINDTEVAL": "/Date(2018-12-13T13:59:00.000+00:00)/",
+                        "ADMINDOSE": 0,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "0 ml",
+                        "MISSED": 0,
+                        "RATE": 21,
+                        "RATE_UNIT": "mL/h"
+                    },
+                    {
+                        "ADMINDT": "13/12/2018 14:59",
+                        "ADMINDTEVAL": "/Date(2018-12-13T13:59:59.000+00:00)/",
+                        "ADMINDOSE": 0,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "Zero ml",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "13/12/2018 14:59",
+                        "ADMINDTEVAL": "/Date(2018-12-13T13:59:59.000+00:00)/",
+                        "ADMINDOSE": 0,
+                        "ADMINUNIT": "mEq",
+                        "EVTTAG": "Zero mEq",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "13/12/2018 14:59",
+                        "ADMINDTEVAL": "/Date(2018-12-13T13:59:59.000+00:00)/",
+                        "ADMINDOSE": 0,
+                        "ADMINUNIT": "mEq",
+                        "EVTTAG": "Zero mEq",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    }
+                ],
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 999696520.0,
+                "ORDER_ID": 999696520,
                 "MEDNAME": "Insulina IV 100 UI [5 UI/h] + Fisiológico 0,9% 100 ml",
                 "ORDERED_AS": "Insulina soluble IV Perf Continua<b> [UI/h]</b>",
-                "NORM_RATE": 5.0,
+                "NORM_RATE": 5,
                 "NORM_RATE_UNIT": "UI/h",
                 "STARTDT": "07-10-2018 02:45",
                 "STARTDTEVAL": "/Date(2018-10-07T00:45:00.000+00:00)/",
@@ -2537,10 +2931,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1003476895.0,
+                "ORDER_ID": 1003476895,
                 "MEDNAME": "Midazolam IV 100 mg [5 mg/h] + Fisiológico 0,9% 100 ml",
                 "ORDERED_AS": "Midazolam IV Perf Continua<b> [mg/h]</b>",
-                "NORM_RATE": 5.0,
+                "NORM_RATE": 5,
                 "NORM_RATE_UNIT": "mg/h",
                 "STARTDT": "11-10-2018 14:44",
                 "STARTDTEVAL": "/Date(2018-10-11T12:44:00.000+00:00)/",
@@ -2563,10 +2957,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 999695952.0,
+                "ORDER_ID": 999695952,
                 "MEDNAME": "Midazolam IV 100 mg [8 mg/h] + Glucosado 5% 100 ml",
                 "ORDERED_AS": "Midazolam IV Perf Continua<b> [mg/h]</b>",
-                "NORM_RATE": 8.0,
+                "NORM_RATE": 8,
                 "NORM_RATE_UNIT": "mg/h",
                 "STARTDT": "07-10-2018 02:42",
                 "STARTDTEVAL": "/Date(2018-10-07T00:42:00.000+00:00)/",
@@ -2589,10 +2983,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1000817628.0,
+                "ORDER_ID": 1000817628,
                 "MEDNAME": "Midazolam IV 100 mg [8 mg/h] + Glucosado 5% 100 ml",
                 "ORDERED_AS": "Midazolam IV Perf Continua<b> [mg/h]</b>",
-                "NORM_RATE": 8.0,
+                "NORM_RATE": 8,
                 "NORM_RATE_UNIT": "mg/h",
                 "STARTDT": "08-10-2018 16:42",
                 "STARTDTEVAL": "/Date(2018-10-08T14:42:00.000+00:00)/",
@@ -2615,10 +3009,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1003477443.0,
+                "ORDER_ID": 1003477443,
                 "MEDNAME": "Morfina IV 100 mg [2 mg/h] + Fisiológico 0,9% 100 ml",
                 "ORDERED_AS": "Morfina IV Perf Continua<b> [mg/h]</b>",
-                "NORM_RATE": 2.0,
+                "NORM_RATE": 2,
                 "NORM_RATE_UNIT": "mg/h",
                 "STARTDT": "11-10-2018 14:45",
                 "STARTDTEVAL": "/Date(2018-10-11T12:45:00.000+00:00)/",
@@ -2641,10 +3035,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 999696069.0,
+                "ORDER_ID": 999696069,
                 "MEDNAME": "Morfina IV 100 mg [5 mg/h] + Glucosado 5% 100 ml",
                 "ORDERED_AS": "Morfina IV Perf Continua<b> [mg/h]</b>",
-                "NORM_RATE": 5.0,
+                "NORM_RATE": 5,
                 "NORM_RATE_UNIT": "mg/h",
                 "STARTDT": "07-10-2018 02:43",
                 "STARTDTEVAL": "/Date(2018-10-07T00:43:00.000+00:00)/",
@@ -2667,10 +3061,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1018207164.0,
+                "ORDER_ID": 1018207164,
                 "MEDNAME": "NE Hproteica Hcalórica Fibra ISOSOURCE PROTEINA FIBRA Enteral_Continua 500 ml",
                 "ORDERED_AS": "NE Hiperprot. Hipercal. Fibra Enteral Continua<b> [ml]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "31-10-2018 13:28",
                 "STARTDTEVAL": "/Date(2018-10-31T12:28:00.000+00:00)/",
@@ -2693,7 +3087,194 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1048681359.0,
+                "ORDER_ID": 1047581840,
+                "MEDNAME": "NE Nproteica Ncalórica Fibra FRESUBIN FIBRA Enteral_Continua 2.000 ml",
+                "ORDERED_AS": "NE Normoprot. Normocal. Fibra Enteral Continua<b> [ml]</b>",
+                "NORM_RATE": 0,
+                "NORM_RATE_UNIT": "",
+                "STARTDT": "10-12-2018 10:37",
+                "STARTDTEVAL": "/Date(2018-12-10T09:37:00.000+00:00)/",
+                "STOPDT": "",
+                "STOPDTEVAL": "/Date(0000-00-00T00:00:00.000+00:00)/",
+                "STATUS": "Indicado",
+                "DOSE": "2.000 ml",
+                "STRENGTH_DOSE": "",
+                "STRENGTH_UNIT": "",
+                "VOLUME_DOSE": "2.000",
+                "VOLUME_UNIT": "ml",
+                "FREQ": "",
+                "DURATION": "3 days 04 hours",
+                "RATE": "83,33",
+                "RATE_UNIT": "mL/h",
+                "ROUTE": "Enteral Continua",
+                "CATEGORY": "Sin orden de visualización pre-establecido",
+                "DISPENSE_CATEGORY": "Carro Mezcla IV Cont",
+                "ADMQUAL": [
+                    {
+                        "ADMINDT": "13/12/2018 08:59",
+                        "ADMINDTEVAL": "/Date(2018-12-13T07:59:00.000+00:00)/",
+                        "ADMINDOSE": 75,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "75 ml",
+                        "MISSED": 0,
+                        "RATE": 75,
+                        "RATE_UNIT": "mL/h"
+                    },
+                    {
+                        "ADMINDT": "13/12/2018 08:59",
+                        "ADMINDTEVAL": "/Date(2018-12-13T07:59:59.000+00:00)/",
+                        "ADMINDOSE": 75,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "75 ml",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "13/12/2018 09:59",
+                        "ADMINDTEVAL": "/Date(2018-12-13T08:59:00.000+00:00)/",
+                        "ADMINDOSE": 75,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "75 ml",
+                        "MISSED": 0,
+                        "RATE": 75,
+                        "RATE_UNIT": "mL/h"
+                    },
+                    {
+                        "ADMINDT": "13/12/2018 09:59",
+                        "ADMINDTEVAL": "/Date(2018-12-13T08:59:59.000+00:00)/",
+                        "ADMINDOSE": 75,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "75 ml",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "13/12/2018 10:59",
+                        "ADMINDTEVAL": "/Date(2018-12-13T09:59:00.000+00:00)/",
+                        "ADMINDOSE": 75,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "75 ml",
+                        "MISSED": 0,
+                        "RATE": 75,
+                        "RATE_UNIT": "mL/h"
+                    },
+                    {
+                        "ADMINDT": "13/12/2018 10:59",
+                        "ADMINDTEVAL": "/Date(2018-12-13T09:59:59.000+00:00)/",
+                        "ADMINDOSE": 75,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "75 ml",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "13/12/2018 11:59",
+                        "ADMINDTEVAL": "/Date(2018-12-13T10:59:00.000+00:00)/",
+                        "ADMINDOSE": 75,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "75 ml",
+                        "MISSED": 0,
+                        "RATE": 75,
+                        "RATE_UNIT": "mL/h"
+                    },
+                    {
+                        "ADMINDT": "13/12/2018 11:59",
+                        "ADMINDTEVAL": "/Date(2018-12-13T10:59:59.000+00:00)/",
+                        "ADMINDOSE": 75,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "75 ml",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "13/12/2018 12:59",
+                        "ADMINDTEVAL": "/Date(2018-12-13T11:59:00.000+00:00)/",
+                        "ADMINDOSE": 75,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "75 ml",
+                        "MISSED": 0,
+                        "RATE": 75,
+                        "RATE_UNIT": "mL/h"
+                    },
+                    {
+                        "ADMINDT": "13/12/2018 12:59",
+                        "ADMINDTEVAL": "/Date(2018-12-13T11:59:59.000+00:00)/",
+                        "ADMINDOSE": 75,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "75 ml",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "13/12/2018 13:59",
+                        "ADMINDTEVAL": "/Date(2018-12-13T12:59:00.000+00:00)/",
+                        "ADMINDOSE": 75,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "75 ml",
+                        "MISSED": 0,
+                        "RATE": 75,
+                        "RATE_UNIT": "mL/h"
+                    },
+                    {
+                        "ADMINDT": "13/12/2018 13:59",
+                        "ADMINDTEVAL": "/Date(2018-12-13T12:59:59.000+00:00)/",
+                        "ADMINDOSE": 75,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "75 ml",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "13/12/2018 14:00",
+                        "ADMINDTEVAL": "/Date(2018-12-13T13:00:00.000+00:00)/",
+                        "ADMINDOSE": 0,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "Iniciar bolsa 2.000 ml",
+                        "MISSED": 0,
+                        "RATE": 75,
+                        "RATE_UNIT": "mL/h"
+                    },
+                    {
+                        "ADMINDT": "13/12/2018 14:00",
+                        "ADMINDTEVAL": "/Date(2018-12-13T13:00:00.000+00:00)/",
+                        "ADMINDOSE": 0,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "Iniciar bolsa 2.000 ml",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "13/12/2018 14:59",
+                        "ADMINDTEVAL": "/Date(2018-12-13T13:59:00.000+00:00)/",
+                        "ADMINDOSE": 83,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "83 ml",
+                        "MISSED": 0,
+                        "RATE": 75,
+                        "RATE_UNIT": "mL/h"
+                    },
+                    {
+                        "ADMINDT": "13/12/2018 14:59",
+                        "ADMINDTEVAL": "/Date(2018-12-13T13:59:59.000+00:00)/",
+                        "ADMINDOSE": 83,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "83 ml",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    }
+                ],
+                "TSKQUAL": []
+            },
+            {
+                "ORDER_ID": 1048681359,
                 "MEDNAME": "NORADREnalina IV 16 mg [0,14 mcg/kg/min] + Glucosado 5% 100 ml",
                 "ORDERED_AS": "NORADREnalina bitartrato IV Perf Continua<b> [mcg/kg/min]</b>",
                 "NORM_RATE": 0.14,
@@ -2709,7 +3290,7 @@
                 "VOLUME_DOSE": "100",
                 "VOLUME_UNIT": "ml",
                 "FREQ": "",
-                "DURATION": "1 days 23 hours",
+                "DURATION": "2 days 01 hours",
                 "RATE": "4,46",
                 "RATE_UNIT": "mL/h",
                 "ROUTE": "IV Perf Continua",
@@ -2719,11 +3300,11 @@
                     {
                         "ADMINDT": "13/12/2018 08:59",
                         "ADMINDTEVAL": "/Date(2018-12-13T07:59:00.000+00:00)/",
-                        "ADMINDOSE": 2.0,
+                        "ADMINDOSE": 2,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "2 ml",
                         "MISSED": 0,
-                        "RATE": 2.0,
+                        "RATE": 2,
                         "RATE_UNIT": "mL/h"
                     },
                     {
@@ -2733,27 +3314,27 @@
                         "ADMINUNIT": "mg",
                         "EVTTAG": "0.32 mg",
                         "MISSED": 0,
-                        "RATE": 0.0,
+                        "RATE": 0,
                         "RATE_UNIT": ""
                     },
                     {
                         "ADMINDT": "13/12/2018 08:59",
                         "ADMINDTEVAL": "/Date(2018-12-13T07:59:59.000+00:00)/",
-                        "ADMINDOSE": 2.0,
+                        "ADMINDOSE": 2,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "2 ml",
                         "MISSED": 0,
-                        "RATE": 0.0,
+                        "RATE": 0,
                         "RATE_UNIT": ""
                     },
                     {
                         "ADMINDT": "13/12/2018 09:59",
                         "ADMINDTEVAL": "/Date(2018-12-13T08:59:00.000+00:00)/",
-                        "ADMINDOSE": 2.0,
+                        "ADMINDOSE": 2,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "2 ml",
                         "MISSED": 0,
-                        "RATE": 2.0,
+                        "RATE": 2,
                         "RATE_UNIT": "mL/h"
                     },
                     {
@@ -2763,27 +3344,27 @@
                         "ADMINUNIT": "mg",
                         "EVTTAG": "0.32 mg",
                         "MISSED": 0,
-                        "RATE": 0.0,
+                        "RATE": 0,
                         "RATE_UNIT": ""
                     },
                     {
                         "ADMINDT": "13/12/2018 09:59",
                         "ADMINDTEVAL": "/Date(2018-12-13T08:59:59.000+00:00)/",
-                        "ADMINDOSE": 2.0,
+                        "ADMINDOSE": 2,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "2 ml",
                         "MISSED": 0,
-                        "RATE": 0.0,
+                        "RATE": 0,
                         "RATE_UNIT": ""
                     },
                     {
                         "ADMINDT": "13/12/2018 10:59",
                         "ADMINDTEVAL": "/Date(2018-12-13T09:59:00.000+00:00)/",
-                        "ADMINDOSE": 2.0,
+                        "ADMINDOSE": 2,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "2 ml",
                         "MISSED": 0,
-                        "RATE": 2.0,
+                        "RATE": 2,
                         "RATE_UNIT": "mL/h"
                     },
                     {
@@ -2793,27 +3374,27 @@
                         "ADMINUNIT": "mg",
                         "EVTTAG": "0.32 mg",
                         "MISSED": 0,
-                        "RATE": 0.0,
+                        "RATE": 0,
                         "RATE_UNIT": ""
                     },
                     {
                         "ADMINDT": "13/12/2018 10:59",
                         "ADMINDTEVAL": "/Date(2018-12-13T09:59:59.000+00:00)/",
-                        "ADMINDOSE": 2.0,
+                        "ADMINDOSE": 2,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "2 ml",
                         "MISSED": 0,
-                        "RATE": 0.0,
+                        "RATE": 0,
                         "RATE_UNIT": ""
                     },
                     {
                         "ADMINDT": "13/12/2018 11:59",
                         "ADMINDTEVAL": "/Date(2018-12-13T10:59:00.000+00:00)/",
-                        "ADMINDOSE": 2.0,
+                        "ADMINDOSE": 2,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "2 ml",
                         "MISSED": 0,
-                        "RATE": 2.0,
+                        "RATE": 2,
                         "RATE_UNIT": "mL/h"
                     },
                     {
@@ -2823,24 +3404,114 @@
                         "ADMINUNIT": "mg",
                         "EVTTAG": "0.32 mg",
                         "MISSED": 0,
-                        "RATE": 0.0,
+                        "RATE": 0,
                         "RATE_UNIT": ""
                     },
                     {
                         "ADMINDT": "13/12/2018 11:59",
                         "ADMINDTEVAL": "/Date(2018-12-13T10:59:59.000+00:00)/",
-                        "ADMINDOSE": 2.0,
+                        "ADMINDOSE": 2,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "2 ml",
                         "MISSED": 0,
-                        "RATE": 0.0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "13/12/2018 12:59",
+                        "ADMINDTEVAL": "/Date(2018-12-13T11:59:00.000+00:00)/",
+                        "ADMINDOSE": 2,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "2 ml",
+                        "MISSED": 0,
+                        "RATE": 2,
+                        "RATE_UNIT": "mL/h"
+                    },
+                    {
+                        "ADMINDT": "13/12/2018 12:59",
+                        "ADMINDTEVAL": "/Date(2018-12-13T11:59:59.000+00:00)/",
+                        "ADMINDOSE": 0.32,
+                        "ADMINUNIT": "mg",
+                        "EVTTAG": "0.32 mg",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "13/12/2018 12:59",
+                        "ADMINDTEVAL": "/Date(2018-12-13T11:59:59.000+00:00)/",
+                        "ADMINDOSE": 2,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "2 ml",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "13/12/2018 13:59",
+                        "ADMINDTEVAL": "/Date(2018-12-13T12:59:00.000+00:00)/",
+                        "ADMINDOSE": 2,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "2 ml",
+                        "MISSED": 0,
+                        "RATE": 2,
+                        "RATE_UNIT": "mL/h"
+                    },
+                    {
+                        "ADMINDT": "13/12/2018 13:59",
+                        "ADMINDTEVAL": "/Date(2018-12-13T12:59:59.000+00:00)/",
+                        "ADMINDOSE": 0.32,
+                        "ADMINUNIT": "mg",
+                        "EVTTAG": "0.32 mg",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "13/12/2018 13:59",
+                        "ADMINDTEVAL": "/Date(2018-12-13T12:59:59.000+00:00)/",
+                        "ADMINDOSE": 2,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "2 ml",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "13/12/2018 14:59",
+                        "ADMINDTEVAL": "/Date(2018-12-13T13:59:00.000+00:00)/",
+                        "ADMINDOSE": 2,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "2 ml",
+                        "MISSED": 0,
+                        "RATE": 2,
+                        "RATE_UNIT": "mL/h"
+                    },
+                    {
+                        "ADMINDT": "13/12/2018 14:59",
+                        "ADMINDTEVAL": "/Date(2018-12-13T13:59:59.000+00:00)/",
+                        "ADMINDOSE": 0.32,
+                        "ADMINUNIT": "mg",
+                        "EVTTAG": "0.32 mg",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "13/12/2018 14:59",
+                        "ADMINDTEVAL": "/Date(2018-12-13T13:59:59.000+00:00)/",
+                        "ADMINDOSE": 2,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "2 ml",
+                        "MISSED": 0,
+                        "RATE": 0,
                         "RATE_UNIT": ""
                     }
                 ],
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 999699351.0,
+                "ORDER_ID": 999699351,
                 "MEDNAME": "NORADREnalina IV 16 mg [0,1 mcg/kg/min] + Glucosado 5% 100 ml",
                 "ORDERED_AS": "NORADREnalina bitartrato IV Perf Continua<b> [mcg/kg/min]</b>",
                 "NORM_RATE": 0.1,
@@ -2866,7 +3537,7 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1001630887.0,
+                "ORDER_ID": 1001630887,
                 "MEDNAME": "NORADREnalina IV 16 mg [0,1 mcg/kg/min] + Glucosado 5% 100 ml",
                 "ORDERED_AS": "NORADREnalina bitartrato IV Perf Continua<b> [mcg/kg/min]</b>",
                 "NORM_RATE": 0.1,
@@ -2892,7 +3563,7 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1046121128.0,
+                "ORDER_ID": 1046121128,
                 "MEDNAME": "NORADREnalina IV 16 mg [0,2 mcg/kg/min] + Glucosado 5% 100 ml",
                 "ORDERED_AS": "NORADREnalina bitartrato IV Perf Continua<b> [mcg/kg/min]</b>",
                 "NORM_RATE": 0.2,
@@ -2918,10 +3589,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1001335401.0,
+                "ORDER_ID": 1001335401,
                 "MEDNAME": "PLASMALYTE 500 mL Suero 500 ml + Potasio_ClK_ 20 mEq",
                 "ORDERED_AS": "Potasio cloruro IV Perf Continua<b> [mEq]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "09-10-2018 10:42",
                 "STARTDTEVAL": "/Date(2018-10-09T08:42:00.000+00:00)/",
@@ -2944,10 +3615,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1046688910.0,
+                "ORDER_ID": 1046688910,
                 "MEDNAME": "Propofol 1% 1000 mg 100 mL Vial 1.000 mg [50 mg/h] + Prediluido 100 ml",
                 "ORDERED_AS": "Propofol IV Perf Continua<b> [mg/h]</b>",
-                "NORM_RATE": 50.0,
+                "NORM_RATE": 50,
                 "NORM_RATE_UNIT": "mg/h",
                 "STARTDT": "08-12-2018 17:01",
                 "STARTDTEVAL": "/Date(2018-12-08T16:01:00.000+00:00)/",
@@ -2970,10 +3641,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 999810501.0,
+                "ORDER_ID": 999810501,
                 "MEDNAME": "Albúmina 20% 10 g 50 mL Vial",
                 "ORDERED_AS": "Albúmina humana IV Perf Intermitente<b> [g]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "07-10-2018 17:00",
                 "STARTDTEVAL": "/Date(2018-10-07T15:00:00.000+00:00)/",
@@ -2996,10 +3667,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1046365444.0,
+                "ORDER_ID": 1046365444,
                 "MEDNAME": "Amiodarona IV + Glucosado 5% 100 ml",
                 "ORDERED_AS": "Amiodarona IV Perf Intermitente<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "08-12-2018 00:24",
                 "STARTDTEVAL": "/Date(2018-12-07T23:24:00.000+00:00)/",
@@ -3022,10 +3693,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 999696617.0,
+                "ORDER_ID": 999696617,
                 "MEDNAME": "Amoxicilina/Clavulánico 1 g/200 mg Vial",
                 "ORDERED_AS": "Amoxicilina/Clavulánico IV Perf Intermitente<b> [g]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "07-10-2018 03:00",
                 "STARTDTEVAL": "/Date(2018-10-07T01:00:00.000+00:00)/",
@@ -3048,10 +3719,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1046050106.0,
+                "ORDER_ID": 1046050106,
                 "MEDNAME": "Amoxicilina/Clavulánico 1 g/200 mg Vial",
                 "ORDERED_AS": "Amoxicilina/Clavulánico IV Perf Intermitente<b> [g]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "07-12-2018 13:00",
                 "STARTDTEVAL": "/Date(2018-12-07T12:00:00.000+00:00)/",
@@ -3074,10 +3745,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1036039181.0,
+                "ORDER_ID": 1036039181,
                 "MEDNAME": "cefEPima IV + Fisiológico 0,9% 50 ml",
                 "ORDERED_AS": "cefEPima IV Perf Intermitente<b> [g]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "23-11-2018 18:00",
                 "STARTDTEVAL": "/Date(2018-11-23T17:00:00.000+00:00)/",
@@ -3100,10 +3771,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1014680418.0,
+                "ORDER_ID": 1014680418,
                 "MEDNAME": "cefOTAXima IV + Fisiológico 0,9% 50 ml",
                 "ORDERED_AS": "cefOTAXima IV Perf Intermitente<b> [g]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "26-10-2018 14:00",
                 "STARTDTEVAL": "/Date(2018-10-26T12:00:00.000+00:00)/",
@@ -3126,10 +3797,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1000461072.0,
+                "ORDER_ID": 1000461072,
                 "MEDNAME": "Calcio cloruro 10% IV + Fisiológico 0,9% 50 ml",
                 "ORDERED_AS": "Cloruro cálcico IV Perf Intermitente<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "08-10-2018 11:02",
                 "STARTDTEVAL": "/Date(2018-10-08T09:02:00.000+00:00)/",
@@ -3152,10 +3823,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1000700979.0,
+                "ORDER_ID": 1000700979,
                 "MEDNAME": "Calcio cloruro 10% IV + Fisiológico 0,9% 50 ml",
                 "ORDERED_AS": "Cloruro cálcico IV Perf Intermitente<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "08-10-2018 14:17",
                 "STARTDTEVAL": "/Date(2018-10-08T12:17:00.000+00:00)/",
@@ -3178,10 +3849,98 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1014743644.0,
+                "ORDER_ID": 1050532481,
+                "MEDNAME": "Colistina IV + Fisiológico 0,9% 50 ml",
+                "ORDERED_AS": "Colistina IV Perf Intermitente<b> [MUI]</b>",
+                "NORM_RATE": 0,
+                "NORM_RATE_UNIT": "",
+                "STARTDT": "13-12-2018 13:22",
+                "STARTDTEVAL": "/Date(2018-12-13T12:22:00.000+00:00)/",
+                "STOPDT": "13-12-2018 13:46",
+                "STOPDTEVAL": "/Date(2018-12-13T12:46:53.000+00:00)/",
+                "STATUS": "Completado",
+                "DOSE": "2 MUI",
+                "STRENGTH_DOSE": "2",
+                "STRENGTH_UNIT": "MUI",
+                "VOLUME_DOSE": "",
+                "VOLUME_UNIT": "",
+                "FREQ": "Dosis única",
+                "DURATION": "0 days 00 hours",
+                "RATE": "100",
+                "RATE_UNIT": "mL/h",
+                "ROUTE": "IV Perf Intermitente",
+                "CATEGORY": "Sin orden de visualización pre-establecido",
+                "DISPENSE_CATEGORY": "Carro Mezcla IV Int",
+                "ADMQUAL": [
+                    {
+                        "ADMINDT": "13/12/2018 14:00",
+                        "ADMINDTEVAL": "/Date(2018-12-13T13:00:00.000+00:00)/",
+                        "ADMINDOSE": 2,
+                        "ADMINUNIT": "MUI",
+                        "EVTTAG": "2 MUI",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "13/12/2018 14:00",
+                        "ADMINDTEVAL": "/Date(2018-12-13T13:00:00.000+00:00)/",
+                        "ADMINDOSE": 50,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "50 ml",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    }
+                ],
+                "TSKQUAL": []
+            },
+            {
+                "ORDER_ID": 1050533830,
+                "MEDNAME": "Colistina IV + Fisiológico 0,9% 50 ml",
+                "ORDERED_AS": "Colistina IV Perf Intermitente<b> [MUI]</b>",
+                "NORM_RATE": 0,
+                "NORM_RATE_UNIT": "",
+                "STARTDT": "13-12-2018 22:00",
+                "STARTDTEVAL": "/Date(2018-12-13T21:00:00.000+00:00)/",
+                "STOPDT": "",
+                "STOPDTEVAL": "/Date(0000-00-00T00:00:00.000+00:00)/",
+                "STATUS": "Indicado",
+                "DOSE": "1 MUI",
+                "STRENGTH_DOSE": "1",
+                "STRENGTH_UNIT": "MUI",
+                "VOLUME_DOSE": "",
+                "VOLUME_UNIT": "",
+                "FREQ": "c/8h (libre)",
+                "DURATION": "0 days 07 hours",
+                "RATE": "100",
+                "RATE_UNIT": "mL/h",
+                "ROUTE": "IV Perf Intermitente",
+                "CATEGORY": "Sin orden de visualización pre-establecido",
+                "DISPENSE_CATEGORY": "Carro Mezcla IV Int",
+                "ADMQUAL": [],
+                "TSKQUAL": [
+                    {
+                        "TASKDT": "13/12/2018 22:00",
+                        "TASKDTEVAL": "/Date(2018-12-13T21:00:00.000+00:00)/",
+                        "TASKSTAT": "Pendiente",
+                        "TASKCDF": "PENDING",
+                        "TASKREASON": ""
+                    },
+                    {
+                        "TASKDT": "14/12/2018 06:00",
+                        "TASKDTEVAL": "/Date(2018-12-14T05:00:00.000+00:00)/",
+                        "TASKSTAT": "Pendiente",
+                        "TASKCDF": "PENDING",
+                        "TASKREASON": ""
+                    }
+                ]
+            },
+            {
+                "ORDER_ID": 1014743644,
                 "MEDNAME": "Fluconazol 400 mg Sol IV",
                 "ORDERED_AS": "Fluconazol IV Perf Intermitente<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "26-10-2018 15:00",
                 "STARTDTEVAL": "/Date(2018-10-26T13:00:00.000+00:00)/",
@@ -3204,10 +3963,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1014743645.0,
+                "ORDER_ID": 1014743645,
                 "MEDNAME": "Fluconazol 400 mg Sol IV",
                 "ORDERED_AS": "Fluconazol IV Perf Intermitente<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "27-10-2018 12:00",
                 "STARTDTEVAL": "/Date(2018-10-27T10:00:00.000+00:00)/",
@@ -3230,10 +3989,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 999810700.0,
+                "ORDER_ID": 999810700,
                 "MEDNAME": "Gelatina GELASPAN 4% Bolo IV",
                 "ORDERED_AS": "Gelatina IV Perf Intermitente<b> [ml]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "07-10-2018 09:30",
                 "STARTDTEVAL": "/Date(2018-10-07T07:30:00.000+00:00)/",
@@ -3256,10 +4015,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 999696923.0,
+                "ORDER_ID": 999696923,
                 "MEDNAME": "Hidrocortisona IV + Fisiológico 0,9% 100 ml",
                 "ORDERED_AS": "Hidrocortisona IV Perf Intermitente<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "07-10-2018 09:00",
                 "STARTDTEVAL": "/Date(2018-10-07T07:00:00.000+00:00)/",
@@ -3282,10 +4041,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1000694662.0,
+                "ORDER_ID": 1000694662,
                 "MEDNAME": "Linezolid ZYVOXID 600 mg 300 mL Sol IV",
                 "ORDERED_AS": "Linezolid IV Perf Intermitente<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "08-10-2018 15:00",
                 "STARTDTEVAL": "/Date(2018-10-08T13:00:00.000+00:00)/",
@@ -3308,10 +4067,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1009764942.0,
+                "ORDER_ID": 1009764942,
                 "MEDNAME": "Linezolid ZYVOXID 600 mg 300 mL Sol IV",
                 "ORDERED_AS": "Linezolid IV Perf Intermitente<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "20-10-2018 13:00",
                 "STARTDTEVAL": "/Date(2018-10-20T11:00:00.000+00:00)/",
@@ -3334,23 +4093,23 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1048475255.0,
+                "ORDER_ID": 1048475255,
                 "MEDNAME": "Linezolid ZYVOXID 600 mg 300 mL Sol IV",
                 "ORDERED_AS": "Linezolid IV Perf Intermitente<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "11-12-2018 11:00",
                 "STARTDTEVAL": "/Date(2018-12-11T10:00:00.000+00:00)/",
-                "STOPDT": "",
-                "STOPDTEVAL": "/Date(0000-00-00T00:00:00.000+00:00)/",
-                "STATUS": "Indicado",
+                "STOPDT": "13-12-2018 13:10",
+                "STOPDTEVAL": "/Date(2018-12-13T12:10:00.000+00:00)/",
+                "STATUS": "Interrumpido",
                 "DOSE": "600 mg=300 ml",
                 "STRENGTH_DOSE": "600",
                 "STRENGTH_UNIT": "mg",
                 "VOLUME_DOSE": "300",
                 "VOLUME_UNIT": "ml",
                 "FREQ": "c/12h (libre)",
-                "DURATION": "2 days 01 hours",
+                "DURATION": "2 days 02 hours",
                 "RATE": "300",
                 "RATE_UNIT": "mL/h",
                 "ROUTE": "IV Perf Intermitente",
@@ -3360,29 +4119,21 @@
                     {
                         "ADMINDT": "13/12/2018 11:00",
                         "ADMINDTEVAL": "/Date(2018-12-13T10:00:00.000+00:00)/",
-                        "ADMINDOSE": 600.0,
+                        "ADMINDOSE": 600,
                         "ADMINUNIT": "mg",
                         "EVTTAG": "600 mg",
                         "MISSED": 0,
-                        "RATE": 300.0,
+                        "RATE": 300,
                         "RATE_UNIT": "ml"
                     }
                 ],
-                "TSKQUAL": [
-                    {
-                        "TASKDT": "13/12/2018 23:00",
-                        "TASKDTEVAL": "/Date(2018-12-13T22:00:00.000+00:00)/",
-                        "TASKSTAT": "Pendiente",
-                        "TASKCDF": "PENDING",
-                        "TASKREASON": ""
-                    }
-                ]
+                "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1046567343.0,
+                "ORDER_ID": 1046567343,
                 "MEDNAME": "Manitol 20% Bolo IV",
                 "ORDERED_AS": "Manitol IV Perf Intermitente<b> [g]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "08-12-2018 13:00",
                 "STARTDTEVAL": "/Date(2018-12-08T12:00:00.000+00:00)/",
@@ -3405,10 +4156,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1000150778.0,
+                "ORDER_ID": 1000150778,
                 "MEDNAME": "Meropenem IV + Fisiológico 0,9% 50 ml",
                 "ORDERED_AS": "Meropenem IV Perf Intermitente<b> [g]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "08-10-2018 06:00",
                 "STARTDTEVAL": "/Date(2018-10-08T04:00:00.000+00:00)/",
@@ -3431,10 +4182,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1008355249.0,
+                "ORDER_ID": 1008355249,
                 "MEDNAME": "Meropenem IV + Fisiológico 0,9% 50 ml",
                 "ORDERED_AS": "Meropenem IV Perf Intermitente<b> [g]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "18-10-2018 13:00",
                 "STARTDTEVAL": "/Date(2018-10-18T11:00:00.000+00:00)/",
@@ -3457,10 +4208,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1031055552.0,
+                "ORDER_ID": 1031055552,
                 "MEDNAME": "Meropenem IV + Fisiológico 0,9% 50 ml",
                 "ORDERED_AS": "Meropenem IV Perf Intermitente<b> [g]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "17-11-2018 15:05",
                 "STARTDTEVAL": "/Date(2018-11-17T14:05:00.000+00:00)/",
@@ -3483,10 +4234,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1048478458.0,
+                "ORDER_ID": 1048478458,
                 "MEDNAME": "Meropenem IV + Fisiológico 0,9% 50 ml",
                 "ORDERED_AS": "Meropenem IV Perf Intermitente<b> [g]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "11-12-2018 11:00",
                 "STARTDTEVAL": "/Date(2018-12-11T10:00:00.000+00:00)/",
@@ -3499,7 +4250,7 @@
                 "VOLUME_DOSE": "",
                 "VOLUME_UNIT": "",
                 "FREQ": "c/8h (libre)",
-                "DURATION": "2 days 01 hours",
+                "DURATION": "2 days 03 hours",
                 "RATE": "16,67",
                 "RATE_UNIT": "mL/h",
                 "ROUTE": "IV Perf Intermitente",
@@ -3509,21 +4260,21 @@
                     {
                         "ADMINDT": "13/12/2018 12:00",
                         "ADMINDTEVAL": "/Date(2018-12-13T11:00:00.000+00:00)/",
-                        "ADMINDOSE": 1.0,
+                        "ADMINDOSE": 1,
                         "ADMINUNIT": "g",
                         "EVTTAG": "1 g",
                         "MISSED": 0,
-                        "RATE": 0.0,
+                        "RATE": 0,
                         "RATE_UNIT": ""
                     },
                     {
                         "ADMINDT": "13/12/2018 12:00",
                         "ADMINDTEVAL": "/Date(2018-12-13T11:00:00.000+00:00)/",
-                        "ADMINDOSE": 50.0,
+                        "ADMINDOSE": 50,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "50 ml",
                         "MISSED": 0,
-                        "RATE": 0.0,
+                        "RATE": 0,
                         "RATE_UNIT": ""
                     }
                 ],
@@ -3545,10 +4296,10 @@
                 ]
             },
             {
-                "ORDER_ID": 1046052270.0,
+                "ORDER_ID": 1046052270,
                 "MEDNAME": "metAMIzol Perf IV + Fisiológico 0,9% 50 ml",
                 "ORDERED_AS": "metAMIzol IV Perf Intermitente<b> [g]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "07-12-2018 20:00",
                 "STARTDTEVAL": "/Date(2018-12-07T19:00:00.000+00:00)/",
@@ -3571,10 +4322,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1047665359.0,
+                "ORDER_ID": 1047665359,
                 "MEDNAME": "metAMIzol Perf IV + Fisiológico 0,9% 50 ml",
                 "ORDERED_AS": "metAMIzol IV Perf Intermitente<b> [g]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "10-12-2018 11:30",
                 "STARTDTEVAL": "/Date(2018-12-10T10:30:00.000+00:00)/",
@@ -3597,23 +4348,23 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1049367121.0,
+                "ORDER_ID": 1049367121,
                 "MEDNAME": "metAMIzol Perf IV + Fisiológico 0,9% 50 ml",
                 "ORDERED_AS": "metAMIzol IV Perf Intermitente<b> [g]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "12-12-2018 10:08",
                 "STARTDTEVAL": "/Date(2018-12-12T09:08:00.000+00:00)/",
-                "STOPDT": "",
-                "STOPDTEVAL": "/Date(0000-00-00T00:00:00.000+00:00)/",
-                "STATUS": "Indicado",
+                "STOPDT": "13-12-2018 13:10",
+                "STOPDTEVAL": "/Date(2018-12-13T12:10:00.000+00:00)/",
+                "STATUS": "Interrumpido",
                 "DOSE": "2 g=5 ml",
                 "STRENGTH_DOSE": "2",
                 "STRENGTH_UNIT": "g",
                 "VOLUME_DOSE": "5",
                 "VOLUME_UNIT": "ml",
                 "FREQ": "c/6h (libre)",
-                "DURATION": "1 days 02 hours",
+                "DURATION": "1 days 03 hours",
                 "RATE": "150",
                 "RATE_UNIT": "mL/h",
                 "ROUTE": "IV Perf Intermitente",
@@ -3623,31 +4374,31 @@
                     {
                         "ADMINDT": "13/12/2018 09:00",
                         "ADMINDTEVAL": "/Date(2018-12-13T08:00:00.000+00:00)/",
-                        "ADMINDOSE": 2.0,
+                        "ADMINDOSE": 2,
                         "ADMINUNIT": "g",
                         "EVTTAG": "2 g",
                         "MISSED": 0,
-                        "RATE": 5.0,
+                        "RATE": 5,
                         "RATE_UNIT": "ml"
                     },
                     {
                         "ADMINDT": "13/12/2018 09:00",
                         "ADMINDTEVAL": "/Date(2018-12-13T08:00:00.000+00:00)/",
-                        "ADMINDOSE": 50.0,
+                        "ADMINDOSE": 50,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "50 ml",
                         "MISSED": 0,
-                        "RATE": 0.0,
+                        "RATE": 0,
                         "RATE_UNIT": ""
                     }
                 ],
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 999696630.0,
+                "ORDER_ID": 999696630,
                 "MEDNAME": "Omeprazol IV + Fisiológico 0,9% 100 ml",
                 "ORDERED_AS": "Omeprazol IV Perf Intermitente<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "07-10-2018 09:00",
                 "STARTDTEVAL": "/Date(2018-10-07T07:00:00.000+00:00)/",
@@ -3670,10 +4421,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1046049555.0,
+                "ORDER_ID": 1046049555,
                 "MEDNAME": "Omeprazol IV + Fisiológico 0,9% 100 ml",
                 "ORDERED_AS": "Omeprazol IV Perf Intermitente<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "08-12-2018 09:00",
                 "STARTDTEVAL": "/Date(2018-12-08T08:00:00.000+00:00)/",
@@ -3696,10 +4447,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1046688302.0,
+                "ORDER_ID": 1046688302,
                 "MEDNAME": "Omeprazol IV + Fisiológico 0,9% 100 ml",
                 "ORDERED_AS": "Omeprazol IV Perf Intermitente<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "08-12-2018 21:00",
                 "STARTDTEVAL": "/Date(2018-12-08T20:00:00.000+00:00)/",
@@ -3722,10 +4473,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1047578361.0,
+                "ORDER_ID": 1047578361,
                 "MEDNAME": "Potasio_ClK + Fisiológico 0,9% 250 ml",
                 "ORDERED_AS": "Potasio cloruro IV Perf Intermitente<b> [mEq]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "10-12-2018 10:35",
                 "STARTDTEVAL": "/Date(2018-12-10T09:35:00.000+00:00)/",
@@ -3748,10 +4499,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1007302871.0,
+                "ORDER_ID": 1007302871,
                 "MEDNAME": "Tramadol Perf IV 100 mg + Metoclopramida Perf IV 10 mg + Fisiológico 0,9% 50 ml",
                 "ORDERED_AS": "Tramadol IV Perf Intermitente<b> [mg]</b> + Metoclopramida IV Perf Intermitente<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "17-10-2018 10:45",
                 "STARTDTEVAL": "/Date(2018-10-17T08:45:00.000+00:00)/",
@@ -3774,10 +4525,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1008759306.0,
+                "ORDER_ID": 1008759306,
                 "MEDNAME": "Tramadol Perf IV 100 mg + Metoclopramida Perf IV 10 mg + Fisiológico 0,9% 50 ml",
                 "ORDERED_AS": "Tramadol IV Perf Intermitente<b> [mg]</b> + Metoclopramida IV Perf Intermitente<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "19-10-2018 00:35",
                 "STARTDTEVAL": "/Date(2018-10-18T22:35:00.000+00:00)/",
@@ -3800,10 +4551,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1017611875.0,
+                "ORDER_ID": 1017611875,
                 "MEDNAME": "Tramadol Perf IV 100 mg + Metoclopramida Perf IV 10 mg + Fisiológico 0,9% 50 ml",
                 "ORDERED_AS": "Tramadol IV Perf Intermitente<b> [mg]</b> + Metoclopramida IV Perf Intermitente<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "30-10-2018 22:59",
                 "STARTDTEVAL": "/Date(2018-10-30T21:59:00.000+00:00)/",
@@ -3826,10 +4577,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1030377739.0,
+                "ORDER_ID": 1030377739,
                 "MEDNAME": "Tramadol Perf IV 100 mg + Metoclopramida Perf IV 10 mg + Fisiológico 0,9% 50 ml",
                 "ORDERED_AS": "Tramadol IV Perf Intermitente<b> [mg]</b> + Metoclopramida IV Perf Intermitente<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "16-11-2018 11:49",
                 "STARTDTEVAL": "/Date(2018-11-16T10:49:00.000+00:00)/",
@@ -3852,10 +4603,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1001054763.0,
+                "ORDER_ID": 1001054763,
                 "MEDNAME": "Fentanilo",
                 "ORDERED_AS": "Fentanilo IV Bolo<b> [mcg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "09-10-2018 06:22",
                 "STARTDTEVAL": "/Date(2018-10-09T04:22:00.000+00:00)/",
@@ -3878,10 +4629,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1001054764.0,
+                "ORDER_ID": 1001054764,
                 "MEDNAME": "Fentanilo",
                 "ORDERED_AS": "Fentanilo IV Bolo<b> [mcg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "09-10-2018 05:20",
                 "STARTDTEVAL": "/Date(2018-10-09T03:20:00.000+00:00)/",
@@ -3904,10 +4655,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1001054765.0,
+                "ORDER_ID": 1001054765,
                 "MEDNAME": "Fentanilo",
                 "ORDERED_AS": "Fentanilo IV Bolo<b> [mcg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "09-10-2018 04:50",
                 "STARTDTEVAL": "/Date(2018-10-09T02:50:00.000+00:00)/",
@@ -3930,10 +4681,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1010608826.0,
+                "ORDER_ID": 1010608826,
                 "MEDNAME": "Fentanilo",
                 "ORDERED_AS": "Fentanilo IV Bolo<b> [mcg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "22-10-2018 11:09",
                 "STARTDTEVAL": "/Date(2018-10-22T09:09:00.000+00:00)/",
@@ -3956,10 +4707,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1013005914.0,
+                "ORDER_ID": 1013005914,
                 "MEDNAME": "Fentanilo FENTANEST 150 mcg 3 mL Amp",
                 "ORDERED_AS": "Fentanilo IV Bolo<b> [mcg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "24-10-2018 15:10",
                 "STARTDTEVAL": "/Date(2018-10-24T13:10:00.000+00:00)/",
@@ -3982,10 +4733,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1045896500.0,
+                "ORDER_ID": 1045896500,
                 "MEDNAME": "Fentanilo",
                 "ORDERED_AS": "Fentanilo IV Bolo<b> [mcg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "07-12-2018 10:00",
                 "STARTDTEVAL": "/Date(2018-12-07T09:00:00.000+00:00)/",
@@ -4008,10 +4759,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1046592887.0,
+                "ORDER_ID": 1046592887,
                 "MEDNAME": "Fentanilo",
                 "ORDERED_AS": "Fentanilo IV Bolo<b> [mcg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "08-12-2018 14:28",
                 "STARTDTEVAL": "/Date(2018-12-08T13:28:00.000+00:00)/",
@@ -4034,10 +4785,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1010410896.0,
+                "ORDER_ID": 1010410896,
                 "MEDNAME": "Morfina 1% 10 mg 1 mL Amp",
                 "ORDERED_AS": "Morfina SC<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "21-10-2018 22:29",
                 "STARTDTEVAL": "/Date(2018-10-21T20:29:00.000+00:00)/",
@@ -4060,10 +4811,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1014096979.0,
+                "ORDER_ID": 1014096979,
                 "MEDNAME": "Morfina 1% 10 mg 1 mL Amp",
                 "ORDERED_AS": "Morfina SC<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "25-10-2018 23:31",
                 "STARTDTEVAL": "/Date(2018-10-25T21:31:00.000+00:00)/",
@@ -4086,10 +4837,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1017611877.0,
+                "ORDER_ID": 1017611877,
                 "MEDNAME": "Morfina 1% 10 mg 1 mL Amp",
                 "ORDERED_AS": "Morfina IV Directa Lenta<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "30-10-2018 22:58",
                 "STARTDTEVAL": "/Date(2018-10-30T21:58:00.000+00:00)/",
@@ -4112,10 +4863,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1040526727.0,
+                "ORDER_ID": 1040526727,
                 "MEDNAME": "Nistatina MYCOSTATIN 100.000 UI/mL Susp Oral",
                 "ORDERED_AS": "Nistatina Enjuagues<b> [UI]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "29-11-2018 15:00",
                 "STARTDTEVAL": "/Date(2018-11-29T14:00:00.000+00:00)/",
@@ -4129,7 +4880,7 @@
                 "VOLUME_UNIT": "ml",
                 "FREQ": "c/8h (libre)",
                 "DURATION": "7 days 16 hours",
-                "RATE": "75",
+                "RATE": "83,33",
                 "RATE_UNIT": "mL/h",
                 "ROUTE": "Enjuagues",
                 "CATEGORY": "Sin orden de visualización pre-establecido",
@@ -4138,10 +4889,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1030538087.0,
+                "ORDER_ID": 1030538087,
                 "MEDNAME": "Suplemento disfagia FRESUBIN THICKENED 200 mL fresa",
                 "ORDERED_AS": "Supl. enteral disfagia Oral<b> [unidad]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "17-11-2018 13:00",
                 "STARTDTEVAL": "/Date(2018-11-17T12:00:00.000+00:00)/",
@@ -4164,10 +4915,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1001054767.0,
+                "ORDER_ID": 1001054767,
                 "MEDNAME": "Cloruro sódico 0,9%",
                 "ORDERED_AS": "Cloruro sódico 0,9% IV Perf Intermitente<b> [ml]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "09-10-2018 06:57",
                 "STARTDTEVAL": "/Date(2018-10-09T04:57:00.000+00:00)/",
@@ -4190,10 +4941,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1046592889.0,
+                "ORDER_ID": 1046592889,
                 "MEDNAME": "Cloruro sódico 0,9%",
                 "ORDERED_AS": "Cloruro sódico 0,9% IV Perf Intermitente<b> [ml]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "08-12-2018 15:08",
                 "STARTDTEVAL": "/Date(2018-12-08T14:08:00.000+00:00)/",
@@ -4216,10 +4967,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1003975647.0,
+                "ORDER_ID": 1003975647,
                 "MEDNAME": "Fisiológico 0,9% 250 mL Suero 250 ml + Tramadol Perf_IV 300 mg + Metoclopramida Perf_IV 20 mg",
                 "ORDERED_AS": "Tramadol IV Perf Continua<b> [mg]</b> + Metoclopramida IV Perf Continua<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "12-10-2018 13:56",
                 "STARTDTEVAL": "/Date(2018-10-12T11:56:00.000+00:00)/",
@@ -4242,10 +4993,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1008378143.0,
+                "ORDER_ID": 1008378143,
                 "MEDNAME": "Fisiológico 0,9% 500 mL Suero 500 ml",
                 "ORDERED_AS": "Cloruro sódico 0,9% IV Perf Continua<b> [ml]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "18-10-2018 13:07",
                 "STARTDTEVAL": "/Date(2018-10-18T11:07:00.000+00:00)/",
@@ -4268,10 +5019,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1031156569.0,
+                "ORDER_ID": 1031156569,
                 "MEDNAME": "Fisiológico 0,9% 500 mL Suero 500 ml",
                 "ORDERED_AS": "Cloruro sódico 0,9% IV Perf Continua<b> [ml]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "17-11-2018 19:07",
                 "STARTDTEVAL": "/Date(2018-11-17T18:07:00.000+00:00)/",
@@ -4294,10 +5045,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1045896508.0,
+                "ORDER_ID": 1045896508,
                 "MEDNAME": "Gelatina",
                 "ORDERED_AS": "Gelatina IV Perf Continua<b> [ml]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "07-12-2018 10:52",
                 "STARTDTEVAL": "/Date(2018-12-07T09:52:00.000+00:00)/",
@@ -4320,10 +5071,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1031156596.0,
+                "ORDER_ID": 1031156596,
                 "MEDNAME": "Glucosado 5% 500 mL Suero 500 ml",
                 "ORDERED_AS": "Glucosa 5% IV Perf Continua<b> [ml]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "17-11-2018 19:08",
                 "STARTDTEVAL": "/Date(2018-11-17T18:08:00.000+00:00)/",
@@ -4346,10 +5097,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1001041588.0,
+                "ORDER_ID": 1001041588,
                 "MEDNAME": "Manitol 20% 500 mL Suero 20 g",
                 "ORDERED_AS": "Manitol Periférica Perfusión IV<b> [g]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "09-10-2018 02:13",
                 "STARTDTEVAL": "/Date(2018-10-09T00:13:00.000+00:00)/",
@@ -4372,10 +5123,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1003461235.0,
+                "ORDER_ID": 1003461235,
                 "MEDNAME": "NE Hproteica Hcalórica OSMOLITE PLUS Enteral_Continua 1.000 ml",
                 "ORDERED_AS": "NE Hiperprot Hipercal Enteral Continua<b> [ml]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "11-10-2018 14:25",
                 "STARTDTEVAL": "/Date(2018-10-11T12:25:00.000+00:00)/",
@@ -4398,117 +5149,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1047581840.0,
-                "MEDNAME": "NE Nproteica Ncalórica Fibra FRESUBIN FIBRA Enteral_Continua 1800 ml",
-                "ORDERED_AS": "NE Normoprot. Normocal. Fibra Enteral Continua<b> [ml]</b>",
-                "NORM_RATE": 0.0,
-                "NORM_RATE_UNIT": "",
-                "STARTDT": "10-12-2018 10:37",
-                "STARTDTEVAL": "/Date(2018-12-10T09:37:00.000+00:00)/",
-                "STOPDT": "",
-                "STOPDTEVAL": "/Date(0000-00-00T00:00:00.000+00:00)/",
-                "STATUS": "Indicado",
-                "DOSE": "1.800 ml",
-                "STRENGTH_DOSE": "",
-                "STRENGTH_UNIT": "",
-                "VOLUME_DOSE": "1.800",
-                "VOLUME_UNIT": "ml",
-                "FREQ": "",
-                "DURATION": "3 days 01 hours",
-                "RATE": "75",
-                "RATE_UNIT": "mL/h",
-                "ROUTE": "Enteral Continua",
-                "CATEGORY": "Sin orden de visualización pre-establecido",
-                "DISPENSE_CATEGORY": "Sueros/NE - Cont",
-                "ADMQUAL": [
-                    {
-                        "ADMINDT": "13/12/2018 08:59",
-                        "ADMINDTEVAL": "/Date(2018-12-13T07:59:00.000+00:00)/",
-                        "ADMINDOSE": 75.0,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "75 ml",
-                        "MISSED": 0,
-                        "RATE": 75.0,
-                        "RATE_UNIT": "mL/h"
-                    },
-                    {
-                        "ADMINDT": "13/12/2018 08:59",
-                        "ADMINDTEVAL": "/Date(2018-12-13T07:59:59.000+00:00)/",
-                        "ADMINDOSE": 75.0,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "75 ml",
-                        "MISSED": 0,
-                        "RATE": 0.0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "13/12/2018 09:59",
-                        "ADMINDTEVAL": "/Date(2018-12-13T08:59:00.000+00:00)/",
-                        "ADMINDOSE": 75.0,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "75 ml",
-                        "MISSED": 0,
-                        "RATE": 75.0,
-                        "RATE_UNIT": "mL/h"
-                    },
-                    {
-                        "ADMINDT": "13/12/2018 09:59",
-                        "ADMINDTEVAL": "/Date(2018-12-13T08:59:59.000+00:00)/",
-                        "ADMINDOSE": 75.0,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "75 ml",
-                        "MISSED": 0,
-                        "RATE": 0.0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "13/12/2018 10:59",
-                        "ADMINDTEVAL": "/Date(2018-12-13T09:59:00.000+00:00)/",
-                        "ADMINDOSE": 75.0,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "75 ml",
-                        "MISSED": 0,
-                        "RATE": 75.0,
-                        "RATE_UNIT": "mL/h"
-                    },
-                    {
-                        "ADMINDT": "13/12/2018 10:59",
-                        "ADMINDTEVAL": "/Date(2018-12-13T09:59:59.000+00:00)/",
-                        "ADMINDOSE": 75.0,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "75 ml",
-                        "MISSED": 0,
-                        "RATE": 0.0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "13/12/2018 11:59",
-                        "ADMINDTEVAL": "/Date(2018-12-13T10:59:00.000+00:00)/",
-                        "ADMINDOSE": 75.0,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "75 ml",
-                        "MISSED": 0,
-                        "RATE": 75.0,
-                        "RATE_UNIT": "mL/h"
-                    },
-                    {
-                        "ADMINDT": "13/12/2018 11:59",
-                        "ADMINDTEVAL": "/Date(2018-12-13T10:59:59.000+00:00)/",
-                        "ADMINDOSE": 75.0,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "75 ml",
-                        "MISSED": 0,
-                        "RATE": 0.0,
-                        "RATE_UNIT": ""
-                    }
-                ],
-                "TSKQUAL": []
-            },
-            {
-                "ORDER_ID": 1031055731.0,
+                "ORDER_ID": 1031055731,
                 "MEDNAME": "Fisiológico 0,9% Bolo IV",
                 "ORDERED_AS": "Cloruro sódico 0,9% IV Perf Intermitente<b> [ml]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "17-11-2018 15:06",
                 "STARTDTEVAL": "/Date(2018-11-17T14:06:00.000+00:00)/",
@@ -4531,10 +5175,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1031156556.0,
+                "ORDER_ID": 1031156556,
                 "MEDNAME": "Fisiológico 0,9% Bolo IV",
                 "ORDERED_AS": "Cloruro sódico 0,9% IV Perf Intermitente<b> [ml]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "17-11-2018 19:07",
                 "STARTDTEVAL": "/Date(2018-11-17T18:07:00.000+00:00)/",
@@ -4557,10 +5201,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1046049130.0,
+                "ORDER_ID": 1046049130,
                 "MEDNAME": "Fisiológico 0,9% Bolo IV",
                 "ORDERED_AS": "Cloruro sódico 0,9% IV Perf Intermitente<b> [ml]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "07-12-2018 12:28",
                 "STARTDTEVAL": "/Date(2018-12-07T11:28:00.000+00:00)/",
@@ -4583,10 +5227,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 999696437.0,
+                "ORDER_ID": 999696437,
                 "MEDNAME": "Suero alterno 1 unidad + Potasio ClK 10 mEq + Glucosado 5% 500 ml",
                 "ORDERED_AS": "Fluidoterapia alterna IV Perf Intermitente<b> [unidad]</b> + Potasio cloruro IV Perf Intermitente<b> [mEq]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "07-10-2018 03:00",
                 "STARTDTEVAL": "/Date(2018-10-07T01:00:00.000+00:00)/",
@@ -4609,10 +5253,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 999696438.0,
+                "ORDER_ID": 999696438,
                 "MEDNAME": "Suero alterno 1 unidad + Potasio ClK 10 mEq + Glucosalino N (5/0,9%) 500 ml",
                 "ORDERED_AS": "Fluidoterapia alterna IV Perf Intermitente<b> [unidad]</b> + Potasio cloruro IV Perf Intermitente<b> [mEq]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "07-10-2018 10:00",
                 "STARTDTEVAL": "/Date(2018-10-07T08:00:00.000+00:00)/",
@@ -4635,10 +5279,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1000772165.0,
+                "ORDER_ID": 1000772165,
                 "MEDNAME": "Paracetamol 1 g 100 mL Sol IV",
                 "ORDERED_AS": "Paracetamol IV Perf Intermitente<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "08-10-2018 16:14",
                 "STARTDTEVAL": "/Date(2018-10-08T14:14:00.000+00:00)/",
@@ -4661,10 +5305,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1017611868.0,
+                "ORDER_ID": 1017611868,
                 "MEDNAME": "Paracetamol 1 g 100 mL Sol IV",
                 "ORDERED_AS": "Paracetamol IV Perf Intermitente<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "31-10-2018 01:00",
                 "STARTDTEVAL": "/Date(2018-10-31T00:00:00.000+00:00)/",
@@ -4687,10 +5331,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1030377529.0,
+                "ORDER_ID": 1030377529,
                 "MEDNAME": "Paracetamol 1 g 100 mL Sol IV",
                 "ORDERED_AS": "Paracetamol IV Perf Intermitente<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "16-11-2018 11:49",
                 "STARTDTEVAL": "/Date(2018-11-16T10:49:00.000+00:00)/",
@@ -4713,10 +5357,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1046051896.0,
+                "ORDER_ID": 1046051896,
                 "MEDNAME": "Paracetamol 1 g 100 mL Sol IV",
                 "ORDERED_AS": "Paracetamol IV Perf Intermitente<b> [mg]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "08-12-2018 00:00",
                 "STARTDTEVAL": "/Date(2018-12-07T23:00:00.000+00:00)/",
@@ -4739,10 +5383,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1010608831.0,
+                "ORDER_ID": 1010608831,
                 "MEDNAME": "Paracetamol",
                 "ORDERED_AS": "Paracetamol IV Bolo<b> [g]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "22-10-2018 12:45",
                 "STARTDTEVAL": "/Date(2018-10-22T10:45:00.000+00:00)/",
@@ -4765,10 +5409,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1007798421.0,
+                "ORDER_ID": 1007798421,
                 "MEDNAME": "PLASMALYTE Bolo IV",
                 "ORDERED_AS": "Electrólitos Plasmalyte IV Perf Intermitente<b> [ml]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "17-10-2018 21:11",
                 "STARTDTEVAL": "/Date(2018-10-17T19:11:00.000+00:00)/",
@@ -4791,10 +5435,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1012306656.0,
+                "ORDER_ID": 1012306656,
                 "MEDNAME": "PLASMALYTE Bolo IV",
                 "ORDERED_AS": "Electrólitos Plasmalyte IV Perf Intermitente<b> [ml]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "24-10-2018 00:10",
                 "STARTDTEVAL": "/Date(2018-10-23T22:10:00.000+00:00)/",
@@ -4817,10 +5461,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1014083212.0,
+                "ORDER_ID": 1014083212,
                 "MEDNAME": "PLASMALYTE Bolo IV",
                 "ORDERED_AS": "Electrólitos Plasmalyte IV Perf Intermitente<b> [ml]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "25-10-2018 22:11",
                 "STARTDTEVAL": "/Date(2018-10-25T20:11:00.000+00:00)/",
@@ -4843,10 +5487,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1014943787.0,
+                "ORDER_ID": 1014943787,
                 "MEDNAME": "PLASMALYTE Bolo IV",
                 "ORDERED_AS": "Electrólitos Plasmalyte IV Perf Intermitente<b> [ml]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "26-10-2018 23:48",
                 "STARTDTEVAL": "/Date(2018-10-26T21:48:00.000+00:00)/",
@@ -4869,10 +5513,10 @@
                 "TSKQUAL": []
             },
             {
-                "ORDER_ID": 1045896507.0,
+                "ORDER_ID": 1045896507,
                 "MEDNAME": "Electrólitos Plasmalyte",
                 "ORDERED_AS": "Electrólitos Plasmalyte IV Perf Intermitente<b> [ml]</b>",
-                "NORM_RATE": 0.0,
+                "NORM_RATE": 0,
                 "NORM_RATE_UNIT": "",
                 "STARTDT": "07-12-2018 11:29",
                 "STARTDTEVAL": "/Date(2018-12-07T10:29:00.000+00:00)/",
