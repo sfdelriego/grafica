@@ -339,8 +339,8 @@
                 "DISPENSE_CATEGORY": "_Carro Dosis Unitaria",
                 "ADMQUAL": [
                     {
-                        "ADMINDT": "10/12/2018 09:00",
-                        "ADMINDTEVAL": "/Date(2018-12-10T08:00:00.000+00:00)/",
+                        "ADMINDT": "11/12/2018 09:00",
+                        "ADMINDTEVAL": "/Date(2018-12-11T08:00:00.000+00:00)/",
                         "ADMINDOSE": 60,
                         "ADMINUNIT": "mg",
                         "EVTTAG": "60 mg",
@@ -374,18 +374,7 @@
                 "ROUTE": "SC",
                 "CATEGORY": "R",
                 "DISPENSE_CATEGORY": "_Carro Dosis Unitaria",
-                "ADMQUAL": [
-                    {
-                        "ADMINDT": "10/12/2018 12:00",
-                        "ADMINDTEVAL": "/Date(2018-12-10T11:00:00.000+00:00)/",
-                        "ADMINDOSE": 5000,
-                        "ADMINUNIT": "UI",
-                        "EVTTAG": "5.000 UI",
-                        "MISSED": 0,
-                        "RATE": 0.5,
-                        "RATE_UNIT": "ml"
-                    }
-                ],
+                "ADMQUAL": [],
                 "TSKQUAL": []
             },
             {
@@ -725,18 +714,38 @@
                 "DISPENSE_CATEGORY": "Carro Mezcla IV Cont",
                 "ADMQUAL": [
                     {
-                        "ADMINDT": "10/12/2018 12:00",
-                        "ADMINDTEVAL": "/Date(2018-12-10T11:00:00.000+00:00)/",
+                        "ADMINDT": "11/12/2018 08:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T07:59:00.000+00:00)/",
+                        "ADMINDOSE": 21,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "21 ml",
+                        "MISSED": 0,
+                        "RATE": 20.83,
+                        "RATE_UNIT": "mL/h"
+                    },
+                    {
+                        "ADMINDT": "11/12/2018 08:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T07:59:59.000+00:00)/",
+                        "ADMINDOSE": 21,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "21 ml",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "11/12/2018 09:00",
+                        "ADMINDTEVAL": "/Date(2018-12-11T08:00:00.000+00:00)/",
                         "ADMINDOSE": 0,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "Iniciar bolsa 500 ml",
                         "MISSED": 0,
-                        "RATE": 20.83,
+                        "RATE": 21,
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "10/12/2018 12:00",
-                        "ADMINDTEVAL": "/Date(2018-12-10T11:00:00.000+00:00)/",
+                        "ADMINDT": "11/12/2018 09:00",
+                        "ADMINDTEVAL": "/Date(2018-12-11T08:00:00.000+00:00)/",
                         "ADMINDOSE": 0,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "Iniciar bolsa 500 ml",
@@ -745,18 +754,18 @@
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "10/12/2018 12:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T11:59:00.000+00:00)/",
+                        "ADMINDT": "11/12/2018 09:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T08:59:00.000+00:00)/",
                         "ADMINDOSE": 21,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "21 ml",
                         "MISSED": 0,
-                        "RATE": 20.83,
+                        "RATE": 21,
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "10/12/2018 12:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T11:59:59.000+00:00)/",
+                        "ADMINDT": "11/12/2018 09:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T08:59:59.000+00:00)/",
                         "ADMINDOSE": 21,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "21 ml",
@@ -765,18 +774,18 @@
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "10/12/2018 13:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T12:59:00.000+00:00)/",
+                        "ADMINDT": "11/12/2018 10:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T09:59:00.000+00:00)/",
                         "ADMINDOSE": 21,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "21 ml",
                         "MISSED": 0,
-                        "RATE": 20.83,
+                        "RATE": 21,
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "10/12/2018 13:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T12:59:59.000+00:00)/",
+                        "ADMINDT": "11/12/2018 10:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T09:59:59.000+00:00)/",
                         "ADMINDOSE": 21,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "21 ml",
@@ -785,18 +794,18 @@
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "10/12/2018 14:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T13:59:00.000+00:00)/",
+                        "ADMINDT": "11/12/2018 11:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T10:59:00.000+00:00)/",
                         "ADMINDOSE": 21,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "21 ml",
                         "MISSED": 0,
-                        "RATE": 20.83,
+                        "RATE": 21,
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "10/12/2018 14:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T13:59:59.000+00:00)/",
+                        "ADMINDT": "11/12/2018 11:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T10:59:59.000+00:00)/",
                         "ADMINDOSE": 21,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "21 ml",
@@ -805,18 +814,18 @@
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "10/12/2018 15:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T14:59:00.000+00:00)/",
+                        "ADMINDT": "11/12/2018 12:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T11:59:00.000+00:00)/",
                         "ADMINDOSE": 21,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "21 ml",
                         "MISSED": 0,
-                        "RATE": 20.83,
+                        "RATE": 21,
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "10/12/2018 15:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T14:59:59.000+00:00)/",
+                        "ADMINDT": "11/12/2018 12:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T11:59:59.000+00:00)/",
                         "ADMINDOSE": 21,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "21 ml",
@@ -825,321 +834,281 @@
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "10/12/2018 16:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T15:59:00.000+00:00)/",
-                        "ADMINDOSE": 21,
+                        "ADMINDT": "11/12/2018 13:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T12:59:00.000+00:00)/",
+                        "ADMINDOSE": 0,
                         "ADMINUNIT": "ml",
-                        "EVTTAG": "21 ml",
+                        "EVTTAG": "0 ml",
                         "MISSED": 0,
-                        "RATE": 20.83,
+                        "RATE": 21,
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "10/12/2018 16:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T15:59:59.000+00:00)/",
-                        "ADMINDOSE": 21,
+                        "ADMINDT": "11/12/2018 13:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T12:59:00.000+00:00)/",
+                        "ADMINDOSE": 0,
                         "ADMINUNIT": "ml",
-                        "EVTTAG": "21 ml",
+                        "EVTTAG": "0 ml",
                         "MISSED": 0,
                         "RATE": 0,
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "10/12/2018 17:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T16:59:00.000+00:00)/",
-                        "ADMINDOSE": 21,
+                        "ADMINDT": "11/12/2018 19:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T18:59:00.000+00:00)/",
+                        "ADMINDOSE": 20,
                         "ADMINUNIT": "ml",
-                        "EVTTAG": "21 ml",
+                        "EVTTAG": "20 ml",
                         "MISSED": 0,
-                        "RATE": 20.83,
+                        "RATE": 21,
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "10/12/2018 17:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T16:59:59.000+00:00)/",
-                        "ADMINDOSE": 21,
+                        "ADMINDT": "11/12/2018 19:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T18:59:59.000+00:00)/",
+                        "ADMINDOSE": 20,
                         "ADMINUNIT": "ml",
-                        "EVTTAG": "21 ml",
+                        "EVTTAG": "20 ml",
                         "MISSED": 0,
                         "RATE": 0,
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "10/12/2018 18:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T17:59:00.000+00:00)/",
-                        "ADMINDOSE": 21,
+                        "ADMINDT": "11/12/2018 20:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T19:59:00.000+00:00)/",
+                        "ADMINDOSE": 20,
                         "ADMINUNIT": "ml",
-                        "EVTTAG": "21 ml",
+                        "EVTTAG": "20 ml",
                         "MISSED": 0,
-                        "RATE": 20.83,
+                        "RATE": 21,
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "10/12/2018 18:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T17:59:59.000+00:00)/",
-                        "ADMINDOSE": 21,
+                        "ADMINDT": "11/12/2018 20:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T19:59:59.000+00:00)/",
+                        "ADMINDOSE": 20,
                         "ADMINUNIT": "ml",
-                        "EVTTAG": "21 ml",
+                        "EVTTAG": "20 ml",
                         "MISSED": 0,
                         "RATE": 0,
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "10/12/2018 19:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T18:59:00.000+00:00)/",
-                        "ADMINDOSE": 21,
+                        "ADMINDT": "11/12/2018 21:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T20:59:00.000+00:00)/",
+                        "ADMINDOSE": 20,
                         "ADMINUNIT": "ml",
-                        "EVTTAG": "21 ml",
+                        "EVTTAG": "20 ml",
                         "MISSED": 0,
-                        "RATE": 20.83,
+                        "RATE": 21,
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "10/12/2018 19:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T18:59:59.000+00:00)/",
-                        "ADMINDOSE": 21,
+                        "ADMINDT": "11/12/2018 21:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T20:59:59.000+00:00)/",
+                        "ADMINDOSE": 20,
                         "ADMINUNIT": "ml",
-                        "EVTTAG": "21 ml",
+                        "EVTTAG": "20 ml",
                         "MISSED": 0,
                         "RATE": 0,
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "10/12/2018 20:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T19:59:00.000+00:00)/",
-                        "ADMINDOSE": 21,
+                        "ADMINDT": "11/12/2018 22:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T21:59:00.000+00:00)/",
+                        "ADMINDOSE": 20,
                         "ADMINUNIT": "ml",
-                        "EVTTAG": "21 ml",
+                        "EVTTAG": "20 ml",
                         "MISSED": 0,
-                        "RATE": 20.83,
+                        "RATE": 21,
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "10/12/2018 20:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T19:59:59.000+00:00)/",
-                        "ADMINDOSE": 21,
+                        "ADMINDT": "11/12/2018 22:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T21:59:59.000+00:00)/",
+                        "ADMINDOSE": 20,
                         "ADMINUNIT": "ml",
-                        "EVTTAG": "21 ml",
+                        "EVTTAG": "20 ml",
                         "MISSED": 0,
                         "RATE": 0,
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "10/12/2018 21:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T20:59:00.000+00:00)/",
-                        "ADMINDOSE": 21,
+                        "ADMINDT": "11/12/2018 23:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T22:59:00.000+00:00)/",
+                        "ADMINDOSE": 20,
                         "ADMINUNIT": "ml",
-                        "EVTTAG": "21 ml",
+                        "EVTTAG": "20 ml",
                         "MISSED": 0,
-                        "RATE": 20.83,
+                        "RATE": 21,
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "10/12/2018 21:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T20:59:59.000+00:00)/",
-                        "ADMINDOSE": 21,
+                        "ADMINDT": "11/12/2018 23:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T22:59:59.000+00:00)/",
+                        "ADMINDOSE": 20,
                         "ADMINUNIT": "ml",
-                        "EVTTAG": "21 ml",
+                        "EVTTAG": "20 ml",
                         "MISSED": 0,
                         "RATE": 0,
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "10/12/2018 22:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T21:59:00.000+00:00)/",
-                        "ADMINDOSE": 21,
+                        "ADMINDT": "12/12/2018 00:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T23:59:00.000+00:00)/",
+                        "ADMINDOSE": 20,
                         "ADMINUNIT": "ml",
-                        "EVTTAG": "21 ml",
+                        "EVTTAG": "20 ml",
                         "MISSED": 0,
-                        "RATE": 20.83,
+                        "RATE": 21,
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "10/12/2018 22:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T21:59:59.000+00:00)/",
-                        "ADMINDOSE": 21,
+                        "ADMINDT": "12/12/2018 00:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T23:59:59.000+00:00)/",
+                        "ADMINDOSE": 20,
                         "ADMINUNIT": "ml",
-                        "EVTTAG": "21 ml",
+                        "EVTTAG": "20 ml",
                         "MISSED": 0,
                         "RATE": 0,
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "10/12/2018 23:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T22:59:00.000+00:00)/",
-                        "ADMINDOSE": 21,
+                        "ADMINDT": "12/12/2018 01:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T00:59:00.000+00:00)/",
+                        "ADMINDOSE": 20,
                         "ADMINUNIT": "ml",
-                        "EVTTAG": "21 ml",
+                        "EVTTAG": "20 ml",
                         "MISSED": 0,
-                        "RATE": 20.83,
+                        "RATE": 21,
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "10/12/2018 23:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T22:59:59.000+00:00)/",
-                        "ADMINDOSE": 21,
+                        "ADMINDT": "12/12/2018 01:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T00:59:59.000+00:00)/",
+                        "ADMINDOSE": 20,
                         "ADMINUNIT": "ml",
-                        "EVTTAG": "21 ml",
+                        "EVTTAG": "20 ml",
                         "MISSED": 0,
                         "RATE": 0,
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "11/12/2018 00:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T23:59:00.000+00:00)/",
-                        "ADMINDOSE": 21,
+                        "ADMINDT": "12/12/2018 02:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T01:59:00.000+00:00)/",
+                        "ADMINDOSE": 20,
                         "ADMINUNIT": "ml",
-                        "EVTTAG": "21 ml",
+                        "EVTTAG": "20 ml",
                         "MISSED": 0,
-                        "RATE": 20.83,
+                        "RATE": 21,
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "11/12/2018 00:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T23:59:59.000+00:00)/",
-                        "ADMINDOSE": 21,
+                        "ADMINDT": "12/12/2018 02:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T01:59:59.000+00:00)/",
+                        "ADMINDOSE": 20,
                         "ADMINUNIT": "ml",
-                        "EVTTAG": "21 ml",
+                        "EVTTAG": "20 ml",
                         "MISSED": 0,
                         "RATE": 0,
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "11/12/2018 01:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T00:59:00.000+00:00)/",
-                        "ADMINDOSE": 21,
+                        "ADMINDT": "12/12/2018 03:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T02:59:00.000+00:00)/",
+                        "ADMINDOSE": 20,
                         "ADMINUNIT": "ml",
-                        "EVTTAG": "21 ml",
+                        "EVTTAG": "20 ml",
                         "MISSED": 0,
-                        "RATE": 20.83,
+                        "RATE": 21,
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "11/12/2018 01:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T00:59:59.000+00:00)/",
-                        "ADMINDOSE": 21,
+                        "ADMINDT": "12/12/2018 03:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T02:59:59.000+00:00)/",
+                        "ADMINDOSE": 20,
                         "ADMINUNIT": "ml",
-                        "EVTTAG": "21 ml",
+                        "EVTTAG": "20 ml",
                         "MISSED": 0,
                         "RATE": 0,
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "11/12/2018 02:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T01:59:00.000+00:00)/",
-                        "ADMINDOSE": 21,
+                        "ADMINDT": "12/12/2018 04:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T03:59:00.000+00:00)/",
+                        "ADMINDOSE": 20,
                         "ADMINUNIT": "ml",
-                        "EVTTAG": "21 ml",
+                        "EVTTAG": "20 ml",
                         "MISSED": 0,
-                        "RATE": 20.83,
+                        "RATE": 21,
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "11/12/2018 02:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T01:59:59.000+00:00)/",
-                        "ADMINDOSE": 21,
+                        "ADMINDT": "12/12/2018 04:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T03:59:59.000+00:00)/",
+                        "ADMINDOSE": 20,
                         "ADMINUNIT": "ml",
-                        "EVTTAG": "21 ml",
+                        "EVTTAG": "20 ml",
                         "MISSED": 0,
                         "RATE": 0,
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "11/12/2018 03:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T02:59:00.000+00:00)/",
-                        "ADMINDOSE": 21,
+                        "ADMINDT": "12/12/2018 05:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T04:59:00.000+00:00)/",
+                        "ADMINDOSE": 20,
                         "ADMINUNIT": "ml",
-                        "EVTTAG": "21 ml",
+                        "EVTTAG": "20 ml",
                         "MISSED": 0,
-                        "RATE": 20.83,
+                        "RATE": 21,
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "11/12/2018 03:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T02:59:59.000+00:00)/",
-                        "ADMINDOSE": 21,
+                        "ADMINDT": "12/12/2018 05:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T04:59:59.000+00:00)/",
+                        "ADMINDOSE": 20,
                         "ADMINUNIT": "ml",
-                        "EVTTAG": "21 ml",
+                        "EVTTAG": "20 ml",
                         "MISSED": 0,
                         "RATE": 0,
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "11/12/2018 04:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T03:59:00.000+00:00)/",
-                        "ADMINDOSE": 21,
+                        "ADMINDT": "12/12/2018 06:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T05:59:00.000+00:00)/",
+                        "ADMINDOSE": 20,
                         "ADMINUNIT": "ml",
-                        "EVTTAG": "21 ml",
+                        "EVTTAG": "20 ml",
                         "MISSED": 0,
-                        "RATE": 20.83,
+                        "RATE": 21,
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "11/12/2018 04:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T03:59:59.000+00:00)/",
-                        "ADMINDOSE": 21,
+                        "ADMINDT": "12/12/2018 06:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T05:59:59.000+00:00)/",
+                        "ADMINDOSE": 20,
                         "ADMINUNIT": "ml",
-                        "EVTTAG": "21 ml",
+                        "EVTTAG": "20 ml",
                         "MISSED": 0,
                         "RATE": 0,
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "11/12/2018 05:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T04:59:00.000+00:00)/",
-                        "ADMINDOSE": 21,
+                        "ADMINDT": "12/12/2018 07:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T06:59:00.000+00:00)/",
+                        "ADMINDOSE": 20,
                         "ADMINUNIT": "ml",
-                        "EVTTAG": "21 ml",
+                        "EVTTAG": "20 ml",
                         "MISSED": 0,
-                        "RATE": 20.83,
+                        "RATE": 21,
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "11/12/2018 05:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T04:59:59.000+00:00)/",
-                        "ADMINDOSE": 21,
+                        "ADMINDT": "12/12/2018 07:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T06:59:59.000+00:00)/",
+                        "ADMINDOSE": 20,
                         "ADMINUNIT": "ml",
-                        "EVTTAG": "21 ml",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "11/12/2018 06:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T05:59:00.000+00:00)/",
-                        "ADMINDOSE": 21,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "21 ml",
-                        "MISSED": 0,
-                        "RATE": 20.83,
-                        "RATE_UNIT": "mL/h"
-                    },
-                    {
-                        "ADMINDT": "11/12/2018 06:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T05:59:59.000+00:00)/",
-                        "ADMINDOSE": 21,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "21 ml",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "11/12/2018 07:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T06:59:00.000+00:00)/",
-                        "ADMINDOSE": 21,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "21 ml",
-                        "MISSED": 0,
-                        "RATE": 20.83,
-                        "RATE_UNIT": "mL/h"
-                    },
-                    {
-                        "ADMINDT": "11/12/2018 07:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T06:59:59.000+00:00)/",
-                        "ADMINDOSE": 21,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "21 ml",
+                        "EVTTAG": "20 ml",
                         "MISSED": 0,
                         "RATE": 0,
                         "RATE_UNIT": ""
@@ -1198,548 +1167,8 @@
                 "DISPENSE_CATEGORY": "Carro Mezcla IV Cont",
                 "ADMQUAL": [
                     {
-                        "ADMINDT": "10/12/2018 08:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T07:59:00.000+00:00)/",
-                        "ADMINDOSE": 2,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "2 ml",
-                        "MISSED": 0,
-                        "RATE": 7,
-                        "RATE_UNIT": "mL/h"
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 08:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T07:59:59.000+00:00)/",
-                        "ADMINDOSE": 2,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "2 ml",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 08:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T07:59:59.000+00:00)/",
-                        "ADMINDOSE": 0.32,
-                        "ADMINUNIT": "mg",
-                        "EVTTAG": "0.32 mg",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 09:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T08:59:00.000+00:00)/",
-                        "ADMINDOSE": 3,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "3 ml",
-                        "MISSED": 0,
-                        "RATE": 7,
-                        "RATE_UNIT": "mL/h"
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 09:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T08:59:59.000+00:00)/",
-                        "ADMINDOSE": 3,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "3 ml",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 09:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T08:59:59.000+00:00)/",
-                        "ADMINDOSE": 0.48,
-                        "ADMINUNIT": "mg",
-                        "EVTTAG": "0.48 mg",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 10:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T09:59:00.000+00:00)/",
-                        "ADMINDOSE": 3.5,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "3.5 ml",
-                        "MISSED": 0,
-                        "RATE": 7,
-                        "RATE_UNIT": "mL/h"
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 10:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T09:59:59.000+00:00)/",
-                        "ADMINDOSE": 0.56,
-                        "ADMINUNIT": "mg",
-                        "EVTTAG": "0.56 mg",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 10:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T09:59:59.000+00:00)/",
-                        "ADMINDOSE": 3.5,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "3.5 ml",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 11:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T10:59:00.000+00:00)/",
-                        "ADMINDOSE": 4,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "4 ml",
-                        "MISSED": 0,
-                        "RATE": 7,
-                        "RATE_UNIT": "mL/h"
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 11:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T10:59:59.000+00:00)/",
-                        "ADMINDOSE": 0.64,
-                        "ADMINUNIT": "mg",
-                        "EVTTAG": "0.64 mg",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 11:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T10:59:59.000+00:00)/",
-                        "ADMINDOSE": 4,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "4 ml",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 12:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T11:59:00.000+00:00)/",
-                        "ADMINDOSE": 3,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "3 ml",
-                        "MISSED": 0,
-                        "RATE": 7,
-                        "RATE_UNIT": "mL/h"
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 12:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T11:59:59.000+00:00)/",
-                        "ADMINDOSE": 3,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "3 ml",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 12:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T11:59:59.000+00:00)/",
-                        "ADMINDOSE": 0.48,
-                        "ADMINUNIT": "mg",
-                        "EVTTAG": "0.48 mg",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 13:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T12:59:00.000+00:00)/",
-                        "ADMINDOSE": 3,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "3 ml",
-                        "MISSED": 0,
-                        "RATE": 7,
-                        "RATE_UNIT": "mL/h"
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 13:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T12:59:59.000+00:00)/",
-                        "ADMINDOSE": 0.48,
-                        "ADMINUNIT": "mg",
-                        "EVTTAG": "0.48 mg",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 13:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T12:59:59.000+00:00)/",
-                        "ADMINDOSE": 3,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "3 ml",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 14:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T13:59:00.000+00:00)/",
-                        "ADMINDOSE": 2,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "2 ml",
-                        "MISSED": 0,
-                        "RATE": 7,
-                        "RATE_UNIT": "mL/h"
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 14:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T13:59:59.000+00:00)/",
-                        "ADMINDOSE": 0.32,
-                        "ADMINUNIT": "mg",
-                        "EVTTAG": "0.32 mg",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 14:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T13:59:59.000+00:00)/",
-                        "ADMINDOSE": 2,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "2 ml",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 15:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T14:59:00.000+00:00)/",
-                        "ADMINDOSE": 2,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "2 ml",
-                        "MISSED": 0,
-                        "RATE": 7,
-                        "RATE_UNIT": "mL/h"
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 15:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T14:59:59.000+00:00)/",
-                        "ADMINDOSE": 2,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "2 ml",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 15:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T14:59:59.000+00:00)/",
-                        "ADMINDOSE": 0.32,
-                        "ADMINUNIT": "mg",
-                        "EVTTAG": "0.32 mg",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 16:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T15:59:00.000+00:00)/",
-                        "ADMINDOSE": 2,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "2 ml",
-                        "MISSED": 0,
-                        "RATE": 7,
-                        "RATE_UNIT": "mL/h"
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 16:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T15:59:59.000+00:00)/",
-                        "ADMINDOSE": 2,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "2 ml",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 16:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T15:59:59.000+00:00)/",
-                        "ADMINDOSE": 0.32,
-                        "ADMINUNIT": "mg",
-                        "EVTTAG": "0.32 mg",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 17:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T16:59:00.000+00:00)/",
-                        "ADMINDOSE": 2,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "2 ml",
-                        "MISSED": 0,
-                        "RATE": 7,
-                        "RATE_UNIT": "mL/h"
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 17:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T16:59:59.000+00:00)/",
-                        "ADMINDOSE": 2,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "2 ml",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 17:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T16:59:59.000+00:00)/",
-                        "ADMINDOSE": 0.32,
-                        "ADMINUNIT": "mg",
-                        "EVTTAG": "0.32 mg",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 18:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T17:59:00.000+00:00)/",
-                        "ADMINDOSE": 2,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "2 ml",
-                        "MISSED": 0,
-                        "RATE": 7,
-                        "RATE_UNIT": "mL/h"
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 18:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T17:59:59.000+00:00)/",
-                        "ADMINDOSE": 2,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "2 ml",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 18:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T17:59:59.000+00:00)/",
-                        "ADMINDOSE": 0.32,
-                        "ADMINUNIT": "mg",
-                        "EVTTAG": "0.32 mg",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 19:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T18:59:00.000+00:00)/",
-                        "ADMINDOSE": 1,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "1 ml",
-                        "MISSED": 0,
-                        "RATE": 7,
-                        "RATE_UNIT": "mL/h"
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 19:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T18:59:59.000+00:00)/",
-                        "ADMINDOSE": 1,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "1 ml",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 19:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T18:59:59.000+00:00)/",
-                        "ADMINDOSE": 0.16,
-                        "ADMINUNIT": "mg",
-                        "EVTTAG": "0.16 mg",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 20:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T19:59:00.000+00:00)/",
-                        "ADMINDOSE": 1,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "1 ml",
-                        "MISSED": 0,
-                        "RATE": 7,
-                        "RATE_UNIT": "mL/h"
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 20:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T19:59:59.000+00:00)/",
-                        "ADMINDOSE": 1,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "1 ml",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 20:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T19:59:59.000+00:00)/",
-                        "ADMINDOSE": 0.16,
-                        "ADMINUNIT": "mg",
-                        "EVTTAG": "0.16 mg",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 21:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T20:59:00.000+00:00)/",
-                        "ADMINDOSE": 1,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "1 ml",
-                        "MISSED": 0,
-                        "RATE": 7,
-                        "RATE_UNIT": "mL/h"
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 21:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T20:59:59.000+00:00)/",
-                        "ADMINDOSE": 1,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "1 ml",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 21:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T20:59:59.000+00:00)/",
-                        "ADMINDOSE": 0.16,
-                        "ADMINUNIT": "mg",
-                        "EVTTAG": "0.16 mg",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 22:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T21:59:00.000+00:00)/",
-                        "ADMINDOSE": 1,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "1 ml",
-                        "MISSED": 0,
-                        "RATE": 7,
-                        "RATE_UNIT": "mL/h"
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 22:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T21:59:59.000+00:00)/",
-                        "ADMINDOSE": 1,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "1 ml",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 22:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T21:59:59.000+00:00)/",
-                        "ADMINDOSE": 0.16,
-                        "ADMINUNIT": "mg",
-                        "EVTTAG": "0.16 mg",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 23:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T22:59:00.000+00:00)/",
-                        "ADMINDOSE": 1,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "1 ml",
-                        "MISSED": 0,
-                        "RATE": 7,
-                        "RATE_UNIT": "mL/h"
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 23:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T22:59:59.000+00:00)/",
-                        "ADMINDOSE": 1,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "1 ml",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 23:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T22:59:59.000+00:00)/",
-                        "ADMINDOSE": 0.16,
-                        "ADMINUNIT": "mg",
-                        "EVTTAG": "0.16 mg",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "11/12/2018 00:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T23:59:00.000+00:00)/",
-                        "ADMINDOSE": 1,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "1 ml",
-                        "MISSED": 0,
-                        "RATE": 7,
-                        "RATE_UNIT": "mL/h"
-                    },
-                    {
-                        "ADMINDT": "11/12/2018 00:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T23:59:59.000+00:00)/",
-                        "ADMINDOSE": 1,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "1 ml",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "11/12/2018 00:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T23:59:59.000+00:00)/",
-                        "ADMINDOSE": 0.16,
-                        "ADMINUNIT": "mg",
-                        "EVTTAG": "0.16 mg",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "11/12/2018 01:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T00:59:00.000+00:00)/",
-                        "ADMINDOSE": 1,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "1 ml",
-                        "MISSED": 0,
-                        "RATE": 7,
-                        "RATE_UNIT": "mL/h"
-                    },
-                    {
-                        "ADMINDT": "11/12/2018 01:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T00:59:59.000+00:00)/",
-                        "ADMINDOSE": 1,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "1 ml",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "11/12/2018 01:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T00:59:59.000+00:00)/",
-                        "ADMINDOSE": 0.16,
-                        "ADMINUNIT": "mg",
-                        "EVTTAG": "0.16 mg",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "11/12/2018 02:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T01:59:00.000+00:00)/",
+                        "ADMINDT": "11/12/2018 08:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T07:59:00.000+00:00)/",
                         "ADMINDOSE": 1.5,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "1.5 ml",
@@ -1748,8 +1177,8 @@
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "11/12/2018 02:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T01:59:59.000+00:00)/",
+                        "ADMINDT": "11/12/2018 08:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T07:59:59.000+00:00)/",
                         "ADMINDOSE": 1.5,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "1.5 ml",
@@ -1758,8 +1187,8 @@
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "11/12/2018 02:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T01:59:59.000+00:00)/",
+                        "ADMINDT": "11/12/2018 08:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T07:59:59.000+00:00)/",
                         "ADMINDOSE": 0.24,
                         "ADMINUNIT": "mg",
                         "EVTTAG": "0.24 mg",
@@ -1768,8 +1197,8 @@
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "11/12/2018 03:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T02:59:00.000+00:00)/",
+                        "ADMINDT": "11/12/2018 09:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T08:59:00.000+00:00)/",
                         "ADMINDOSE": 1.5,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "1.5 ml",
@@ -1778,18 +1207,8 @@
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "11/12/2018 03:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T02:59:59.000+00:00)/",
-                        "ADMINDOSE": 1.5,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "1.5 ml",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "11/12/2018 03:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T02:59:59.000+00:00)/",
+                        "ADMINDT": "11/12/2018 09:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T08:59:59.000+00:00)/",
                         "ADMINDOSE": 0.24,
                         "ADMINUNIT": "mg",
                         "EVTTAG": "0.24 mg",
@@ -1798,8 +1217,18 @@
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "11/12/2018 04:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T03:59:00.000+00:00)/",
+                        "ADMINDT": "11/12/2018 09:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T08:59:59.000+00:00)/",
+                        "ADMINDOSE": 1.5,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "1.5 ml",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "11/12/2018 10:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T09:59:00.000+00:00)/",
                         "ADMINDOSE": 1.5,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "1.5 ml",
@@ -1808,18 +1237,8 @@
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "11/12/2018 04:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T03:59:59.000+00:00)/",
-                        "ADMINDOSE": 1.5,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "1.5 ml",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "11/12/2018 04:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T03:59:59.000+00:00)/",
+                        "ADMINDT": "11/12/2018 10:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T09:59:59.000+00:00)/",
                         "ADMINDOSE": 0.24,
                         "ADMINUNIT": "mg",
                         "EVTTAG": "0.24 mg",
@@ -1828,8 +1247,18 @@
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "11/12/2018 05:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T04:59:00.000+00:00)/",
+                        "ADMINDT": "11/12/2018 10:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T09:59:59.000+00:00)/",
+                        "ADMINDOSE": 1.5,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "1.5 ml",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "11/12/2018 11:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T10:59:00.000+00:00)/",
                         "ADMINDOSE": 1.5,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "1.5 ml",
@@ -1838,18 +1267,8 @@
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "11/12/2018 05:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T04:59:59.000+00:00)/",
-                        "ADMINDOSE": 1.5,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "1.5 ml",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "11/12/2018 05:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T04:59:59.000+00:00)/",
+                        "ADMINDT": "11/12/2018 11:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T10:59:59.000+00:00)/",
                         "ADMINDOSE": 0.24,
                         "ADMINUNIT": "mg",
                         "EVTTAG": "0.24 mg",
@@ -1858,61 +1277,521 @@
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "11/12/2018 06:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T05:59:00.000+00:00)/",
+                        "ADMINDT": "11/12/2018 11:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T10:59:59.000+00:00)/",
                         "ADMINDOSE": 1.5,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "1.5 ml",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "11/12/2018 15:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T14:59:00.000+00:00)/",
+                        "ADMINDOSE": 1,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "1 ml",
                         "MISSED": 0,
                         "RATE": 7,
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "11/12/2018 06:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T05:59:59.000+00:00)/",
-                        "ADMINDOSE": 1.5,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "1.5 ml",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "11/12/2018 06:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T05:59:59.000+00:00)/",
-                        "ADMINDOSE": 0.24,
+                        "ADMINDT": "11/12/2018 15:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T14:59:59.000+00:00)/",
+                        "ADMINDOSE": 0.16,
                         "ADMINUNIT": "mg",
-                        "EVTTAG": "0.24 mg",
+                        "EVTTAG": "0.16 mg",
                         "MISSED": 0,
                         "RATE": 0,
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "11/12/2018 07:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T06:59:00.000+00:00)/",
-                        "ADMINDOSE": 1.5,
+                        "ADMINDT": "11/12/2018 15:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T14:59:59.000+00:00)/",
+                        "ADMINDOSE": 1,
                         "ADMINUNIT": "ml",
-                        "EVTTAG": "1.5 ml",
+                        "EVTTAG": "1 ml",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "11/12/2018 16:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T15:59:00.000+00:00)/",
+                        "ADMINDOSE": 1,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "1 ml",
                         "MISSED": 0,
                         "RATE": 7,
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "11/12/2018 07:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T06:59:59.000+00:00)/",
-                        "ADMINDOSE": 1.5,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "1.5 ml",
+                        "ADMINDT": "11/12/2018 16:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T15:59:59.000+00:00)/",
+                        "ADMINDOSE": 0.16,
+                        "ADMINUNIT": "mg",
+                        "EVTTAG": "0.16 mg",
                         "MISSED": 0,
                         "RATE": 0,
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "11/12/2018 07:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T06:59:59.000+00:00)/",
-                        "ADMINDOSE": 0.24,
+                        "ADMINDT": "11/12/2018 16:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T15:59:59.000+00:00)/",
+                        "ADMINDOSE": 1,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "1 ml",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "11/12/2018 17:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T16:59:00.000+00:00)/",
+                        "ADMINDOSE": 1,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "1 ml",
+                        "MISSED": 0,
+                        "RATE": 7,
+                        "RATE_UNIT": "mL/h"
+                    },
+                    {
+                        "ADMINDT": "11/12/2018 17:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T16:59:59.000+00:00)/",
+                        "ADMINDOSE": 0.16,
                         "ADMINUNIT": "mg",
-                        "EVTTAG": "0.24 mg",
+                        "EVTTAG": "0.16 mg",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "11/12/2018 17:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T16:59:59.000+00:00)/",
+                        "ADMINDOSE": 1,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "1 ml",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "11/12/2018 18:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T17:59:00.000+00:00)/",
+                        "ADMINDOSE": 1,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "1 ml",
+                        "MISSED": 0,
+                        "RATE": 7,
+                        "RATE_UNIT": "mL/h"
+                    },
+                    {
+                        "ADMINDT": "11/12/2018 18:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T17:59:59.000+00:00)/",
+                        "ADMINDOSE": 0.16,
+                        "ADMINUNIT": "mg",
+                        "EVTTAG": "0.16 mg",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "11/12/2018 18:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T17:59:59.000+00:00)/",
+                        "ADMINDOSE": 1,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "1 ml",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "11/12/2018 19:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T18:59:00.000+00:00)/",
+                        "ADMINDOSE": 1,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "1 ml",
+                        "MISSED": 0,
+                        "RATE": 7,
+                        "RATE_UNIT": "mL/h"
+                    },
+                    {
+                        "ADMINDT": "11/12/2018 19:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T18:59:59.000+00:00)/",
+                        "ADMINDOSE": 0.16,
+                        "ADMINUNIT": "mg",
+                        "EVTTAG": "0.16 mg",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "11/12/2018 19:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T18:59:59.000+00:00)/",
+                        "ADMINDOSE": 1,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "1 ml",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "11/12/2018 20:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T19:59:00.000+00:00)/",
+                        "ADMINDOSE": 1,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "1 ml",
+                        "MISSED": 0,
+                        "RATE": 7,
+                        "RATE_UNIT": "mL/h"
+                    },
+                    {
+                        "ADMINDT": "11/12/2018 20:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T19:59:59.000+00:00)/",
+                        "ADMINDOSE": 0.16,
+                        "ADMINUNIT": "mg",
+                        "EVTTAG": "0.16 mg",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "11/12/2018 20:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T19:59:59.000+00:00)/",
+                        "ADMINDOSE": 1,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "1 ml",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "11/12/2018 21:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T20:59:00.000+00:00)/",
+                        "ADMINDOSE": 1,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "1 ml",
+                        "MISSED": 0,
+                        "RATE": 7,
+                        "RATE_UNIT": "mL/h"
+                    },
+                    {
+                        "ADMINDT": "11/12/2018 21:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T20:59:59.000+00:00)/",
+                        "ADMINDOSE": 0.16,
+                        "ADMINUNIT": "mg",
+                        "EVTTAG": "0.16 mg",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "11/12/2018 21:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T20:59:59.000+00:00)/",
+                        "ADMINDOSE": 1,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "1 ml",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "11/12/2018 22:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T21:59:00.000+00:00)/",
+                        "ADMINDOSE": 1,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "1 ml",
+                        "MISSED": 0,
+                        "RATE": 7,
+                        "RATE_UNIT": "mL/h"
+                    },
+                    {
+                        "ADMINDT": "11/12/2018 22:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T21:59:59.000+00:00)/",
+                        "ADMINDOSE": 0.16,
+                        "ADMINUNIT": "mg",
+                        "EVTTAG": "0.16 mg",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "11/12/2018 22:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T21:59:59.000+00:00)/",
+                        "ADMINDOSE": 1,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "1 ml",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "11/12/2018 23:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T22:59:00.000+00:00)/",
+                        "ADMINDOSE": 1,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "1 ml",
+                        "MISSED": 0,
+                        "RATE": 7,
+                        "RATE_UNIT": "mL/h"
+                    },
+                    {
+                        "ADMINDT": "11/12/2018 23:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T22:59:59.000+00:00)/",
+                        "ADMINDOSE": 0.16,
+                        "ADMINUNIT": "mg",
+                        "EVTTAG": "0.16 mg",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "11/12/2018 23:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T22:59:59.000+00:00)/",
+                        "ADMINDOSE": 1,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "1 ml",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "12/12/2018 00:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T23:59:00.000+00:00)/",
+                        "ADMINDOSE": 1,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "1 ml",
+                        "MISSED": 0,
+                        "RATE": 7,
+                        "RATE_UNIT": "mL/h"
+                    },
+                    {
+                        "ADMINDT": "12/12/2018 00:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T23:59:59.000+00:00)/",
+                        "ADMINDOSE": 0.16,
+                        "ADMINUNIT": "mg",
+                        "EVTTAG": "0.16 mg",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "12/12/2018 00:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T23:59:59.000+00:00)/",
+                        "ADMINDOSE": 1,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "1 ml",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "12/12/2018 01:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T00:59:00.000+00:00)/",
+                        "ADMINDOSE": 1,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "1 ml",
+                        "MISSED": 0,
+                        "RATE": 7,
+                        "RATE_UNIT": "mL/h"
+                    },
+                    {
+                        "ADMINDT": "12/12/2018 01:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T00:59:59.000+00:00)/",
+                        "ADMINDOSE": 0.16,
+                        "ADMINUNIT": "mg",
+                        "EVTTAG": "0.16 mg",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "12/12/2018 01:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T00:59:59.000+00:00)/",
+                        "ADMINDOSE": 1,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "1 ml",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "12/12/2018 02:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T01:59:00.000+00:00)/",
+                        "ADMINDOSE": 1,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "1 ml",
+                        "MISSED": 0,
+                        "RATE": 7,
+                        "RATE_UNIT": "mL/h"
+                    },
+                    {
+                        "ADMINDT": "12/12/2018 02:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T01:59:59.000+00:00)/",
+                        "ADMINDOSE": 0.16,
+                        "ADMINUNIT": "mg",
+                        "EVTTAG": "0.16 mg",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "12/12/2018 02:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T01:59:59.000+00:00)/",
+                        "ADMINDOSE": 1,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "1 ml",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "12/12/2018 03:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T02:59:00.000+00:00)/",
+                        "ADMINDOSE": 1,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "1 ml",
+                        "MISSED": 0,
+                        "RATE": 7,
+                        "RATE_UNIT": "mL/h"
+                    },
+                    {
+                        "ADMINDT": "12/12/2018 03:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T02:59:59.000+00:00)/",
+                        "ADMINDOSE": 0.16,
+                        "ADMINUNIT": "mg",
+                        "EVTTAG": "0.16 mg",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "12/12/2018 03:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T02:59:59.000+00:00)/",
+                        "ADMINDOSE": 1,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "1 ml",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "12/12/2018 04:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T03:59:00.000+00:00)/",
+                        "ADMINDOSE": 1,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "1 ml",
+                        "MISSED": 0,
+                        "RATE": 7,
+                        "RATE_UNIT": "mL/h"
+                    },
+                    {
+                        "ADMINDT": "12/12/2018 04:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T03:59:59.000+00:00)/",
+                        "ADMINDOSE": 0.16,
+                        "ADMINUNIT": "mg",
+                        "EVTTAG": "0.16 mg",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "12/12/2018 04:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T03:59:59.000+00:00)/",
+                        "ADMINDOSE": 1,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "1 ml",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "12/12/2018 05:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T04:59:00.000+00:00)/",
+                        "ADMINDOSE": 1,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "1 ml",
+                        "MISSED": 0,
+                        "RATE": 7,
+                        "RATE_UNIT": "mL/h"
+                    },
+                    {
+                        "ADMINDT": "12/12/2018 05:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T04:59:59.000+00:00)/",
+                        "ADMINDOSE": 0.16,
+                        "ADMINUNIT": "mg",
+                        "EVTTAG": "0.16 mg",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "12/12/2018 05:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T04:59:59.000+00:00)/",
+                        "ADMINDOSE": 1,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "1 ml",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "12/12/2018 06:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T05:59:00.000+00:00)/",
+                        "ADMINDOSE": 1,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "1 ml",
+                        "MISSED": 0,
+                        "RATE": 7,
+                        "RATE_UNIT": "mL/h"
+                    },
+                    {
+                        "ADMINDT": "12/12/2018 06:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T05:59:59.000+00:00)/",
+                        "ADMINDOSE": 0.16,
+                        "ADMINUNIT": "mg",
+                        "EVTTAG": "0.16 mg",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "12/12/2018 06:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T05:59:59.000+00:00)/",
+                        "ADMINDOSE": 1,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "1 ml",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "12/12/2018 07:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T06:59:00.000+00:00)/",
+                        "ADMINDOSE": 1,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "1 ml",
+                        "MISSED": 0,
+                        "RATE": 7,
+                        "RATE_UNIT": "mL/h"
+                    },
+                    {
+                        "ADMINDT": "12/12/2018 07:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T06:59:59.000+00:00)/",
+                        "ADMINDOSE": 0.16,
+                        "ADMINUNIT": "mg",
+                        "EVTTAG": "0.16 mg",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "12/12/2018 07:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T06:59:59.000+00:00)/",
+                        "ADMINDOSE": 1,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "1 ml",
                         "MISSED": 0,
                         "RATE": 0,
                         "RATE_UNIT": ""
@@ -1943,278 +1822,7 @@
                 "ROUTE": "IV Perf Continua",
                 "CATEGORY": "Sin orden de visualización pre-establecido",
                 "DISPENSE_CATEGORY": "Carro Mezcla IV Cont",
-                "ADMQUAL": [
-                    {
-                        "ADMINDT": "10/12/2018 08:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T07:59:00.000+00:00)/",
-                        "ADMINDOSE": 5,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "5 ml",
-                        "MISSED": 0,
-                        "RATE": 10,
-                        "RATE_UNIT": "mL/h"
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 08:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T07:59:59.000+00:00)/",
-                        "ADMINDOSE": 50,
-                        "ADMINUNIT": "mg",
-                        "EVTTAG": "50 mg",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 08:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T07:59:59.000+00:00)/",
-                        "ADMINDOSE": 5,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "5 ml",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 09:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T08:59:00.000+00:00)/",
-                        "ADMINDOSE": 5,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "5 ml",
-                        "MISSED": 0,
-                        "RATE": 10,
-                        "RATE_UNIT": "mL/h"
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 09:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T08:59:59.000+00:00)/",
-                        "ADMINDOSE": 50,
-                        "ADMINUNIT": "mg",
-                        "EVTTAG": "50 mg",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 09:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T08:59:59.000+00:00)/",
-                        "ADMINDOSE": 5,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "5 ml",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 10:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T09:59:00.000+00:00)/",
-                        "ADMINDOSE": 5,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "5 ml",
-                        "MISSED": 0,
-                        "RATE": 10,
-                        "RATE_UNIT": "mL/h"
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 10:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T09:59:59.000+00:00)/",
-                        "ADMINDOSE": 50,
-                        "ADMINUNIT": "mg",
-                        "EVTTAG": "50 mg",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 10:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T09:59:59.000+00:00)/",
-                        "ADMINDOSE": 5,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "5 ml",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 11:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T10:59:00.000+00:00)/",
-                        "ADMINDOSE": 5,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "5 ml",
-                        "MISSED": 0,
-                        "RATE": 10,
-                        "RATE_UNIT": "mL/h"
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 11:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T10:59:59.000+00:00)/",
-                        "ADMINDOSE": 50,
-                        "ADMINUNIT": "mg",
-                        "EVTTAG": "50 mg",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 11:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T10:59:59.000+00:00)/",
-                        "ADMINDOSE": 5,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "5 ml",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 12:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T11:59:00.000+00:00)/",
-                        "ADMINDOSE": 5,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "5 ml",
-                        "MISSED": 0,
-                        "RATE": 10,
-                        "RATE_UNIT": "mL/h"
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 12:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T11:59:59.000+00:00)/",
-                        "ADMINDOSE": 50,
-                        "ADMINUNIT": "mg",
-                        "EVTTAG": "50 mg",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 12:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T11:59:59.000+00:00)/",
-                        "ADMINDOSE": 5,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "5 ml",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 13:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T12:59:00.000+00:00)/",
-                        "ADMINDOSE": 5,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "5 ml",
-                        "MISSED": 0,
-                        "RATE": 10,
-                        "RATE_UNIT": "mL/h"
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 13:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T12:59:59.000+00:00)/",
-                        "ADMINDOSE": 50,
-                        "ADMINUNIT": "mg",
-                        "EVTTAG": "50 mg",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 13:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T12:59:59.000+00:00)/",
-                        "ADMINDOSE": 5,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "5 ml",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 14:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T13:59:00.000+00:00)/",
-                        "ADMINDOSE": 0,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "0 ml",
-                        "MISSED": 0,
-                        "RATE": 10,
-                        "RATE_UNIT": "mL/h"
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 14:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T13:59:59.000+00:00)/",
-                        "ADMINDOSE": 0,
-                        "ADMINUNIT": "mg",
-                        "EVTTAG": "Zero mg",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 14:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T13:59:59.000+00:00)/",
-                        "ADMINDOSE": 0,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "Zero ml",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 15:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T14:59:00.000+00:00)/",
-                        "ADMINDOSE": 0,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "0 ml",
-                        "MISSED": 0,
-                        "RATE": 10,
-                        "RATE_UNIT": "mL/h"
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 15:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T14:59:59.000+00:00)/",
-                        "ADMINDOSE": 0,
-                        "ADMINUNIT": "mg",
-                        "EVTTAG": "Zero mg",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 15:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T14:59:59.000+00:00)/",
-                        "ADMINDOSE": 0,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "Zero ml",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 16:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T15:59:00.000+00:00)/",
-                        "ADMINDOSE": 0,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "0 ml",
-                        "MISSED": 0,
-                        "RATE": 10,
-                        "RATE_UNIT": "mL/h"
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 16:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T15:59:59.000+00:00)/",
-                        "ADMINDOSE": 0,
-                        "ADMINUNIT": "mg",
-                        "EVTTAG": "Zero mg",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 16:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T15:59:59.000+00:00)/",
-                        "ADMINDOSE": 0,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "Zero ml",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    }
-                ],
+                "ADMQUAL": [],
                 "TSKQUAL": []
             },
             {
@@ -2294,8 +1902,8 @@
                 "DISPENSE_CATEGORY": "Carro Mezcla IV Cont",
                 "ADMQUAL": [
                     {
-                        "ADMINDT": "10/12/2018 08:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T07:59:00.000+00:00)/",
+                        "ADMINDT": "11/12/2018 08:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T07:59:00.000+00:00)/",
                         "ADMINDOSE": 35,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "35 ml",
@@ -2304,8 +1912,8 @@
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "10/12/2018 08:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T07:59:59.000+00:00)/",
+                        "ADMINDT": "11/12/2018 08:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T07:59:59.000+00:00)/",
                         "ADMINDOSE": 0.023697,
                         "ADMINUNIT": "unidad",
                         "EVTTAG": "0.023697 unidad",
@@ -2314,8 +1922,8 @@
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "10/12/2018 08:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T07:59:59.000+00:00)/",
+                        "ADMINDT": "11/12/2018 08:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T07:59:59.000+00:00)/",
                         "ADMINDOSE": 35,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "35 ml",
@@ -2324,8 +1932,8 @@
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "10/12/2018 09:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T08:59:00.000+00:00)/",
+                        "ADMINDT": "11/12/2018 09:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T08:59:00.000+00:00)/",
                         "ADMINDOSE": 35,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "35 ml",
@@ -2334,18 +1942,8 @@
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "10/12/2018 09:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T08:59:59.000+00:00)/",
-                        "ADMINDOSE": 0.023697,
-                        "ADMINUNIT": "unidad",
-                        "EVTTAG": "0.023697 unidad",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 09:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T08:59:59.000+00:00)/",
+                        "ADMINDT": "11/12/2018 09:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T08:59:59.000+00:00)/",
                         "ADMINDOSE": 35,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "35 ml",
@@ -2354,8 +1952,18 @@
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "10/12/2018 10:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T09:59:00.000+00:00)/",
+                        "ADMINDT": "11/12/2018 09:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T08:59:59.000+00:00)/",
+                        "ADMINDOSE": 0.023697,
+                        "ADMINUNIT": "unidad",
+                        "EVTTAG": "0.023697 unidad",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "11/12/2018 10:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T09:59:00.000+00:00)/",
                         "ADMINDOSE": 35,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "35 ml",
@@ -2364,18 +1972,8 @@
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "10/12/2018 10:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T09:59:59.000+00:00)/",
-                        "ADMINDOSE": 0.023697,
-                        "ADMINUNIT": "unidad",
-                        "EVTTAG": "0.023697 unidad",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 10:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T09:59:59.000+00:00)/",
+                        "ADMINDT": "11/12/2018 10:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T09:59:59.000+00:00)/",
                         "ADMINDOSE": 35,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "35 ml",
@@ -2384,8 +1982,18 @@
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "10/12/2018 11:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T10:59:00.000+00:00)/",
+                        "ADMINDT": "11/12/2018 10:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T09:59:59.000+00:00)/",
+                        "ADMINDOSE": 0.023697,
+                        "ADMINUNIT": "unidad",
+                        "EVTTAG": "0.023697 unidad",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "11/12/2018 11:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T10:59:00.000+00:00)/",
                         "ADMINDOSE": 35,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "35 ml",
@@ -2394,18 +2002,8 @@
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "10/12/2018 11:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T10:59:59.000+00:00)/",
-                        "ADMINDOSE": 0.023697,
-                        "ADMINUNIT": "unidad",
-                        "EVTTAG": "0.023697 unidad",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 11:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T10:59:59.000+00:00)/",
+                        "ADMINDT": "11/12/2018 11:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T10:59:59.000+00:00)/",
                         "ADMINDOSE": 35,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "35 ml",
@@ -2414,8 +2012,18 @@
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "10/12/2018 12:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T11:59:00.000+00:00)/",
+                        "ADMINDT": "11/12/2018 11:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T10:59:59.000+00:00)/",
+                        "ADMINDOSE": 0.023697,
+                        "ADMINUNIT": "unidad",
+                        "EVTTAG": "0.023697 unidad",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "11/12/2018 12:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T11:59:00.000+00:00)/",
                         "ADMINDOSE": 35,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "35 ml",
@@ -2424,18 +2032,8 @@
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "10/12/2018 12:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T11:59:59.000+00:00)/",
-                        "ADMINDOSE": 0.023697,
-                        "ADMINUNIT": "unidad",
-                        "EVTTAG": "0.023697 unidad",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 12:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T11:59:59.000+00:00)/",
+                        "ADMINDT": "11/12/2018 12:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T11:59:59.000+00:00)/",
                         "ADMINDOSE": 35,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "35 ml",
@@ -2444,8 +2042,18 @@
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "10/12/2018 13:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T12:59:00.000+00:00)/",
+                        "ADMINDT": "11/12/2018 12:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T11:59:59.000+00:00)/",
+                        "ADMINDOSE": 0.023697,
+                        "ADMINUNIT": "unidad",
+                        "EVTTAG": "0.023697 unidad",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "11/12/2018 13:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T12:59:00.000+00:00)/",
                         "ADMINDOSE": 35,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "35 ml",
@@ -2454,18 +2062,8 @@
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "10/12/2018 13:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T12:59:59.000+00:00)/",
-                        "ADMINDOSE": 0.023697,
-                        "ADMINUNIT": "unidad",
-                        "EVTTAG": "0.023697 unidad",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 13:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T12:59:59.000+00:00)/",
+                        "ADMINDT": "11/12/2018 13:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T12:59:59.000+00:00)/",
                         "ADMINDOSE": 35,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "35 ml",
@@ -2474,8 +2072,18 @@
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "10/12/2018 14:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T13:59:00.000+00:00)/",
+                        "ADMINDT": "11/12/2018 13:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T12:59:59.000+00:00)/",
+                        "ADMINDOSE": 0.023697,
+                        "ADMINUNIT": "unidad",
+                        "EVTTAG": "0.023697 unidad",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "11/12/2018 14:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T13:59:00.000+00:00)/",
                         "ADMINDOSE": 35,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "35 ml",
@@ -2484,18 +2092,8 @@
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "10/12/2018 14:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T13:59:59.000+00:00)/",
-                        "ADMINDOSE": 0.023697,
-                        "ADMINUNIT": "unidad",
-                        "EVTTAG": "0.023697 unidad",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 14:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T13:59:59.000+00:00)/",
+                        "ADMINDT": "11/12/2018 14:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T13:59:59.000+00:00)/",
                         "ADMINDOSE": 35,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "35 ml",
@@ -2504,8 +2102,18 @@
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "10/12/2018 15:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T14:59:00.000+00:00)/",
+                        "ADMINDT": "11/12/2018 14:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T13:59:59.000+00:00)/",
+                        "ADMINDOSE": 0.023697,
+                        "ADMINUNIT": "unidad",
+                        "EVTTAG": "0.023697 unidad",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "11/12/2018 15:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T14:59:00.000+00:00)/",
                         "ADMINDOSE": 35,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "35 ml",
@@ -2514,18 +2122,8 @@
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "10/12/2018 15:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T14:59:59.000+00:00)/",
-                        "ADMINDOSE": 0.023697,
-                        "ADMINUNIT": "unidad",
-                        "EVTTAG": "0.023697 unidad",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 15:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T14:59:59.000+00:00)/",
+                        "ADMINDT": "11/12/2018 15:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T14:59:59.000+00:00)/",
                         "ADMINDOSE": 35,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "35 ml",
@@ -2534,8 +2132,18 @@
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "10/12/2018 16:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T15:59:00.000+00:00)/",
+                        "ADMINDT": "11/12/2018 15:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T14:59:59.000+00:00)/",
+                        "ADMINDOSE": 0.023697,
+                        "ADMINUNIT": "unidad",
+                        "EVTTAG": "0.023697 unidad",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "11/12/2018 16:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T15:59:00.000+00:00)/",
                         "ADMINDOSE": 35,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "35 ml",
@@ -2544,18 +2152,8 @@
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "10/12/2018 16:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T15:59:59.000+00:00)/",
-                        "ADMINDOSE": 0.023697,
-                        "ADMINUNIT": "unidad",
-                        "EVTTAG": "0.023697 unidad",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 16:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T15:59:59.000+00:00)/",
+                        "ADMINDT": "11/12/2018 16:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T15:59:59.000+00:00)/",
                         "ADMINDOSE": 35,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "35 ml",
@@ -2564,8 +2162,18 @@
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "10/12/2018 17:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T16:59:00.000+00:00)/",
+                        "ADMINDT": "11/12/2018 16:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T15:59:59.000+00:00)/",
+                        "ADMINDOSE": 0.023697,
+                        "ADMINUNIT": "unidad",
+                        "EVTTAG": "0.023697 unidad",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "11/12/2018 17:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T16:59:00.000+00:00)/",
                         "ADMINDOSE": 35,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "35 ml",
@@ -2574,18 +2182,8 @@
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "10/12/2018 17:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T16:59:59.000+00:00)/",
-                        "ADMINDOSE": 0.023697,
-                        "ADMINUNIT": "unidad",
-                        "EVTTAG": "0.023697 unidad",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 17:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T16:59:59.000+00:00)/",
+                        "ADMINDT": "11/12/2018 17:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T16:59:59.000+00:00)/",
                         "ADMINDOSE": 35,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "35 ml",
@@ -2594,8 +2192,18 @@
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "10/12/2018 18:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T17:59:00.000+00:00)/",
+                        "ADMINDT": "11/12/2018 17:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T16:59:59.000+00:00)/",
+                        "ADMINDOSE": 0.023697,
+                        "ADMINUNIT": "unidad",
+                        "EVTTAG": "0.023697 unidad",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "11/12/2018 18:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T17:59:00.000+00:00)/",
                         "ADMINDOSE": 35,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "35 ml",
@@ -2604,18 +2212,8 @@
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "10/12/2018 18:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T17:59:59.000+00:00)/",
-                        "ADMINDOSE": 0.023697,
-                        "ADMINUNIT": "unidad",
-                        "EVTTAG": "0.023697 unidad",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 18:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T17:59:59.000+00:00)/",
+                        "ADMINDT": "11/12/2018 18:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T17:59:59.000+00:00)/",
                         "ADMINDOSE": 35,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "35 ml",
@@ -2624,8 +2222,18 @@
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "10/12/2018 19:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T18:59:00.000+00:00)/",
+                        "ADMINDT": "11/12/2018 18:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T17:59:59.000+00:00)/",
+                        "ADMINDOSE": 0.023697,
+                        "ADMINUNIT": "unidad",
+                        "EVTTAG": "0.023697 unidad",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "11/12/2018 19:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T18:59:00.000+00:00)/",
                         "ADMINDOSE": 35,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "35 ml",
@@ -2634,18 +2242,8 @@
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "10/12/2018 19:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T18:59:59.000+00:00)/",
-                        "ADMINDOSE": 0.023697,
-                        "ADMINUNIT": "unidad",
-                        "EVTTAG": "0.023697 unidad",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 19:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T18:59:59.000+00:00)/",
+                        "ADMINDT": "11/12/2018 19:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T18:59:59.000+00:00)/",
                         "ADMINDOSE": 35,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "35 ml",
@@ -2654,8 +2252,18 @@
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "10/12/2018 20:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T19:59:00.000+00:00)/",
+                        "ADMINDT": "11/12/2018 19:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T18:59:59.000+00:00)/",
+                        "ADMINDOSE": 0.023697,
+                        "ADMINUNIT": "unidad",
+                        "EVTTAG": "0.023697 unidad",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "11/12/2018 20:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T19:59:00.000+00:00)/",
                         "ADMINDOSE": 35,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "35 ml",
@@ -2664,18 +2272,8 @@
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "10/12/2018 20:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T19:59:59.000+00:00)/",
-                        "ADMINDOSE": 0.023697,
-                        "ADMINUNIT": "unidad",
-                        "EVTTAG": "0.023697 unidad",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 20:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T19:59:59.000+00:00)/",
+                        "ADMINDT": "11/12/2018 20:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T19:59:59.000+00:00)/",
                         "ADMINDOSE": 35,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "35 ml",
@@ -2684,8 +2282,18 @@
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "10/12/2018 21:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T20:59:00.000+00:00)/",
+                        "ADMINDT": "11/12/2018 20:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T19:59:59.000+00:00)/",
+                        "ADMINDOSE": 0.023697,
+                        "ADMINUNIT": "unidad",
+                        "EVTTAG": "0.023697 unidad",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "11/12/2018 21:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T20:59:00.000+00:00)/",
                         "ADMINDOSE": 35,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "35 ml",
@@ -2694,18 +2302,8 @@
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "10/12/2018 21:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T20:59:59.000+00:00)/",
-                        "ADMINDOSE": 0.023697,
-                        "ADMINUNIT": "unidad",
-                        "EVTTAG": "0.023697 unidad",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 21:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T20:59:59.000+00:00)/",
+                        "ADMINDT": "11/12/2018 21:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T20:59:59.000+00:00)/",
                         "ADMINDOSE": 35,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "35 ml",
@@ -2714,8 +2312,18 @@
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "10/12/2018 22:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T21:59:00.000+00:00)/",
+                        "ADMINDT": "11/12/2018 21:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T20:59:59.000+00:00)/",
+                        "ADMINDOSE": 0.023697,
+                        "ADMINUNIT": "unidad",
+                        "EVTTAG": "0.023697 unidad",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "11/12/2018 22:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T21:59:00.000+00:00)/",
                         "ADMINDOSE": 35,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "35 ml",
@@ -2724,18 +2332,8 @@
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "10/12/2018 22:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T21:59:59.000+00:00)/",
-                        "ADMINDOSE": 0.023697,
-                        "ADMINUNIT": "unidad",
-                        "EVTTAG": "0.023697 unidad",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 22:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T21:59:59.000+00:00)/",
+                        "ADMINDT": "11/12/2018 22:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T21:59:59.000+00:00)/",
                         "ADMINDOSE": 35,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "35 ml",
@@ -2744,8 +2342,18 @@
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "10/12/2018 23:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T22:59:00.000+00:00)/",
+                        "ADMINDT": "11/12/2018 22:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T21:59:59.000+00:00)/",
+                        "ADMINDOSE": 0.023697,
+                        "ADMINUNIT": "unidad",
+                        "EVTTAG": "0.023697 unidad",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "11/12/2018 23:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T22:59:00.000+00:00)/",
                         "ADMINDOSE": 35,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "35 ml",
@@ -2754,18 +2362,8 @@
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "10/12/2018 23:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T22:59:59.000+00:00)/",
-                        "ADMINDOSE": 0.023697,
-                        "ADMINUNIT": "unidad",
-                        "EVTTAG": "0.023697 unidad",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 23:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T22:59:59.000+00:00)/",
+                        "ADMINDT": "11/12/2018 23:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T22:59:59.000+00:00)/",
                         "ADMINDOSE": 35,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "35 ml",
@@ -2774,8 +2372,18 @@
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "11/12/2018 00:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T23:59:00.000+00:00)/",
+                        "ADMINDT": "11/12/2018 23:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T22:59:59.000+00:00)/",
+                        "ADMINDOSE": 0.023697,
+                        "ADMINUNIT": "unidad",
+                        "EVTTAG": "0.023697 unidad",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "12/12/2018 00:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T23:59:00.000+00:00)/",
                         "ADMINDOSE": 35,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "35 ml",
@@ -2784,18 +2392,8 @@
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "11/12/2018 00:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T23:59:59.000+00:00)/",
-                        "ADMINDOSE": 0.023697,
-                        "ADMINUNIT": "unidad",
-                        "EVTTAG": "0.023697 unidad",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "11/12/2018 00:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T23:59:59.000+00:00)/",
+                        "ADMINDT": "12/12/2018 00:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T23:59:59.000+00:00)/",
                         "ADMINDOSE": 35,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "35 ml",
@@ -2804,8 +2402,18 @@
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "11/12/2018 01:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T00:59:00.000+00:00)/",
+                        "ADMINDT": "12/12/2018 00:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T23:59:59.000+00:00)/",
+                        "ADMINDOSE": 0.023697,
+                        "ADMINUNIT": "unidad",
+                        "EVTTAG": "0.023697 unidad",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "12/12/2018 01:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T00:59:00.000+00:00)/",
                         "ADMINDOSE": 35,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "35 ml",
@@ -2814,18 +2422,8 @@
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "11/12/2018 01:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T00:59:59.000+00:00)/",
-                        "ADMINDOSE": 0.023697,
-                        "ADMINUNIT": "unidad",
-                        "EVTTAG": "0.023697 unidad",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "11/12/2018 01:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T00:59:59.000+00:00)/",
+                        "ADMINDT": "12/12/2018 01:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T00:59:59.000+00:00)/",
                         "ADMINDOSE": 35,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "35 ml",
@@ -2834,8 +2432,18 @@
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "11/12/2018 02:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T01:59:00.000+00:00)/",
+                        "ADMINDT": "12/12/2018 01:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T00:59:59.000+00:00)/",
+                        "ADMINDOSE": 0.023697,
+                        "ADMINUNIT": "unidad",
+                        "EVTTAG": "0.023697 unidad",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "12/12/2018 02:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T01:59:00.000+00:00)/",
                         "ADMINDOSE": 35,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "35 ml",
@@ -2844,18 +2452,8 @@
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "11/12/2018 02:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T01:59:59.000+00:00)/",
-                        "ADMINDOSE": 0.023697,
-                        "ADMINUNIT": "unidad",
-                        "EVTTAG": "0.023697 unidad",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "11/12/2018 02:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T01:59:59.000+00:00)/",
+                        "ADMINDT": "12/12/2018 02:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T01:59:59.000+00:00)/",
                         "ADMINDOSE": 35,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "35 ml",
@@ -2864,8 +2462,18 @@
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "11/12/2018 03:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T02:59:00.000+00:00)/",
+                        "ADMINDT": "12/12/2018 02:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T01:59:59.000+00:00)/",
+                        "ADMINDOSE": 0.023697,
+                        "ADMINUNIT": "unidad",
+                        "EVTTAG": "0.023697 unidad",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "12/12/2018 03:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T02:59:00.000+00:00)/",
                         "ADMINDOSE": 35,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "35 ml",
@@ -2874,18 +2482,8 @@
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "11/12/2018 03:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T02:59:59.000+00:00)/",
-                        "ADMINDOSE": 0.023697,
-                        "ADMINUNIT": "unidad",
-                        "EVTTAG": "0.023697 unidad",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "11/12/2018 03:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T02:59:59.000+00:00)/",
+                        "ADMINDT": "12/12/2018 03:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T02:59:59.000+00:00)/",
                         "ADMINDOSE": 35,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "35 ml",
@@ -2894,8 +2492,18 @@
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "11/12/2018 04:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T03:59:00.000+00:00)/",
+                        "ADMINDT": "12/12/2018 03:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T02:59:59.000+00:00)/",
+                        "ADMINDOSE": 0.023697,
+                        "ADMINUNIT": "unidad",
+                        "EVTTAG": "0.023697 unidad",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "12/12/2018 04:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T03:59:00.000+00:00)/",
                         "ADMINDOSE": 35,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "35 ml",
@@ -2904,18 +2512,8 @@
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "11/12/2018 04:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T03:59:59.000+00:00)/",
-                        "ADMINDOSE": 0.023697,
-                        "ADMINUNIT": "unidad",
-                        "EVTTAG": "0.023697 unidad",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "11/12/2018 04:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T03:59:59.000+00:00)/",
+                        "ADMINDT": "12/12/2018 04:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T03:59:59.000+00:00)/",
                         "ADMINDOSE": 35,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "35 ml",
@@ -2924,8 +2522,18 @@
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "11/12/2018 05:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T04:59:00.000+00:00)/",
+                        "ADMINDT": "12/12/2018 04:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T03:59:59.000+00:00)/",
+                        "ADMINDOSE": 0.023697,
+                        "ADMINUNIT": "unidad",
+                        "EVTTAG": "0.023697 unidad",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "12/12/2018 05:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T04:59:00.000+00:00)/",
                         "ADMINDOSE": 35,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "35 ml",
@@ -2934,18 +2542,8 @@
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "11/12/2018 05:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T04:59:59.000+00:00)/",
-                        "ADMINDOSE": 0.023697,
-                        "ADMINUNIT": "unidad",
-                        "EVTTAG": "0.023697 unidad",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "11/12/2018 05:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T04:59:59.000+00:00)/",
+                        "ADMINDT": "12/12/2018 05:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T04:59:59.000+00:00)/",
                         "ADMINDOSE": 35,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "35 ml",
@@ -2954,8 +2552,18 @@
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "11/12/2018 06:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T05:59:00.000+00:00)/",
+                        "ADMINDT": "12/12/2018 05:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T04:59:59.000+00:00)/",
+                        "ADMINDOSE": 0.023697,
+                        "ADMINUNIT": "unidad",
+                        "EVTTAG": "0.023697 unidad",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "12/12/2018 06:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T05:59:00.000+00:00)/",
                         "ADMINDOSE": 35,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "35 ml",
@@ -2964,18 +2572,8 @@
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "11/12/2018 06:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T05:59:59.000+00:00)/",
-                        "ADMINDOSE": 0.023697,
-                        "ADMINUNIT": "unidad",
-                        "EVTTAG": "0.023697 unidad",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "11/12/2018 06:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T05:59:59.000+00:00)/",
+                        "ADMINDT": "12/12/2018 06:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T05:59:59.000+00:00)/",
                         "ADMINDOSE": 35,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "35 ml",
@@ -2984,8 +2582,18 @@
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "11/12/2018 07:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T06:59:00.000+00:00)/",
+                        "ADMINDT": "12/12/2018 06:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T05:59:59.000+00:00)/",
+                        "ADMINDOSE": 0.023697,
+                        "ADMINUNIT": "unidad",
+                        "EVTTAG": "0.023697 unidad",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "12/12/2018 07:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T06:59:00.000+00:00)/",
                         "ADMINDOSE": 35,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "35 ml",
@@ -2994,21 +2602,21 @@
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "11/12/2018 07:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T06:59:59.000+00:00)/",
-                        "ADMINDOSE": 0.023697,
-                        "ADMINUNIT": "unidad",
-                        "EVTTAG": "0.023697 unidad",
+                        "ADMINDT": "12/12/2018 07:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T06:59:59.000+00:00)/",
+                        "ADMINDOSE": 35,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "35 ml",
                         "MISSED": 0,
                         "RATE": 0,
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "11/12/2018 07:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T06:59:59.000+00:00)/",
-                        "ADMINDOSE": 35,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "35 ml",
+                        "ADMINDT": "12/12/2018 07:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T06:59:59.000+00:00)/",
+                        "ADMINDOSE": 0.023697,
+                        "ADMINUNIT": "unidad",
+                        "EVTTAG": "0.023697 unidad",
                         "MISSED": 0,
                         "RATE": 0,
                         "RATE_UNIT": ""
@@ -3169,7 +2777,18 @@
                 "ROUTE": "IV Perf Intermitente",
                 "CATEGORY": "Sin orden de visualización pre-establecido",
                 "DISPENSE_CATEGORY": "Carro Mezcla IV Int",
-                "ADMQUAL": [],
+                "ADMQUAL": [
+                    {
+                        "ADMINDT": "11/12/2018 12:00",
+                        "ADMINDTEVAL": "/Date(2018-12-11T11:00:00.000+00:00)/",
+                        "ADMINDOSE": 160,
+                        "ADMINUNIT": "mg",
+                        "EVTTAG": "160 mg",
+                        "MISSED": 0,
+                        "RATE": 160,
+                        "RATE_UNIT": "ml"
+                    }
+                ],
                 "TSKQUAL": []
             },
             {
@@ -3223,18 +2842,18 @@
                 "DISPENSE_CATEGORY": "Carro Mezcla IV Int",
                 "ADMQUAL": [
                     {
-                        "ADMINDT": "10/12/2018 12:00",
-                        "ADMINDTEVAL": "/Date(2018-12-10T11:00:00.000+00:00)/",
-                        "ADMINDOSE": 500,
+                        "ADMINDT": "11/12/2018 12:00",
+                        "ADMINDTEVAL": "/Date(2018-12-11T11:00:00.000+00:00)/",
+                        "ADMINDOSE": 250,
                         "ADMINUNIT": "mg",
-                        "EVTTAG": "500 mg",
+                        "EVTTAG": "250 mg",
                         "MISSED": 0,
-                        "RATE": 20,
+                        "RATE": 50,
                         "RATE_UNIT": "ml"
                     },
                     {
-                        "ADMINDT": "10/12/2018 12:00",
-                        "ADMINDTEVAL": "/Date(2018-12-10T11:00:00.000+00:00)/",
+                        "ADMINDT": "11/12/2018 12:00",
+                        "ADMINDTEVAL": "/Date(2018-12-11T11:00:00.000+00:00)/",
                         "ADMINDOSE": 100,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "100 ml",
@@ -3243,38 +2862,18 @@
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "10/12/2018 20:00",
-                        "ADMINDTEVAL": "/Date(2018-12-10T19:00:00.000+00:00)/",
-                        "ADMINDOSE": 500,
+                        "ADMINDT": "12/12/2018 00:00",
+                        "ADMINDTEVAL": "/Date(2018-12-11T23:00:00.000+00:00)/",
+                        "ADMINDOSE": 250,
                         "ADMINUNIT": "mg",
-                        "EVTTAG": "500 mg",
-                        "MISSED": 0,
-                        "RATE": 20,
-                        "RATE_UNIT": "ml"
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 20:00",
-                        "ADMINDTEVAL": "/Date(2018-12-10T19:00:00.000+00:00)/",
-                        "ADMINDOSE": 100,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "100 ml",
+                        "EVTTAG": "250 mg",
                         "MISSED": 0,
                         "RATE": 0,
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "11/12/2018 03:43",
-                        "ADMINDTEVAL": "/Date(2018-12-11T02:43:00.000+00:00)/",
-                        "ADMINDOSE": 500,
-                        "ADMINUNIT": "mg",
-                        "EVTTAG": "500 mg",
-                        "MISSED": 0,
-                        "RATE": 20,
-                        "RATE_UNIT": "ml"
-                    },
-                    {
-                        "ADMINDT": "11/12/2018 03:43",
-                        "ADMINDTEVAL": "/Date(2018-12-11T02:43:00.000+00:00)/",
+                        "ADMINDT": "12/12/2018 00:00",
+                        "ADMINDTEVAL": "/Date(2018-12-11T23:00:00.000+00:00)/",
                         "ADMINDOSE": 100,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "100 ml",
@@ -3388,8 +2987,8 @@
                 "DISPENSE_CATEGORY": "Carro Mezcla IV Int",
                 "ADMQUAL": [
                     {
-                        "ADMINDT": "10/12/2018 09:00",
-                        "ADMINDTEVAL": "/Date(2018-12-10T08:00:00.000+00:00)/",
+                        "ADMINDT": "11/12/2018 09:00",
+                        "ADMINDTEVAL": "/Date(2018-12-11T08:00:00.000+00:00)/",
                         "ADMINDOSE": 40,
                         "ADMINUNIT": "mg",
                         "EVTTAG": "40 mg",
@@ -3398,8 +2997,8 @@
                         "RATE_UNIT": "ml"
                     },
                     {
-                        "ADMINDT": "10/12/2018 09:00",
-                        "ADMINDTEVAL": "/Date(2018-12-10T08:00:00.000+00:00)/",
+                        "ADMINDT": "11/12/2018 09:00",
+                        "ADMINDTEVAL": "/Date(2018-12-11T08:00:00.000+00:00)/",
                         "ADMINDOSE": 100,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "100 ml",
@@ -3459,28 +3058,7 @@
                 "ROUTE": "IV Perf Intermitente",
                 "CATEGORY": "Sin orden de visualización pre-establecido",
                 "DISPENSE_CATEGORY": "Carro Mezcla IV Int",
-                "ADMQUAL": [
-                    {
-                        "ADMINDT": "10/12/2018 09:00",
-                        "ADMINDTEVAL": "/Date(2018-12-10T08:00:00.000+00:00)/",
-                        "ADMINDOSE": 4,
-                        "ADMINUNIT": "g",
-                        "EVTTAG": "4 g",
-                        "MISSED": 0,
-                        "RATE": 20,
-                        "RATE_UNIT": "ml"
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 09:00",
-                        "ADMINDTEVAL": "/Date(2018-12-10T08:00:00.000+00:00)/",
-                        "ADMINDOSE": 50,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "50 ml",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    }
-                ],
+                "ADMQUAL": [],
                 "TSKQUAL": []
             },
             {
@@ -3612,13 +3190,23 @@
                 "DISPENSE_CATEGORY": "_Multidosis",
                 "ADMQUAL": [
                     {
-                        "ADMINDT": "11/12/2018 00:16",
-                        "ADMINDTEVAL": "/Date(2018-12-10T23:16:00.000+00:00)/",
+                        "ADMINDT": "11/12/2018 19:00",
+                        "ADMINDTEVAL": "/Date(2018-12-11T18:00:00.000+00:00)/",
                         "ADMINDOSE": 9,
                         "ADMINUNIT": "UI",
                         "EVTTAG": "9 UI",
                         "MISSED": 0,
                         "RATE": 0.09,
+                        "RATE_UNIT": "ml"
+                    },
+                    {
+                        "ADMINDT": "12/12/2018 06:13",
+                        "ADMINDTEVAL": "/Date(2018-12-12T05:13:00.000+00:00)/",
+                        "ADMINDOSE": 5,
+                        "ADMINUNIT": "UI",
+                        "EVTTAG": "5 UI",
+                        "MISSED": 0,
+                        "RATE": 0.05,
                         "RATE_UNIT": "ml"
                     }
                 ],
@@ -3649,8 +3237,8 @@
                 "DISPENSE_CATEGORY": "_Multidosis",
                 "ADMQUAL": [
                     {
-                        "ADMINDT": "10/12/2018 13:00",
-                        "ADMINDTEVAL": "/Date(2018-12-10T12:00:00.000+00:00)/",
+                        "ADMINDT": "11/12/2018 13:00",
+                        "ADMINDTEVAL": "/Date(2018-12-11T12:00:00.000+00:00)/",
                         "ADMINDOSE": 10,
                         "ADMINUNIT": "mg",
                         "EVTTAG": "10 mg",
@@ -3659,8 +3247,8 @@
                         "RATE_UNIT": "ml"
                     },
                     {
-                        "ADMINDT": "10/12/2018 19:00",
-                        "ADMINDTEVAL": "/Date(2018-12-10T18:00:00.000+00:00)/",
+                        "ADMINDT": "11/12/2018 19:00",
+                        "ADMINDTEVAL": "/Date(2018-12-11T18:00:00.000+00:00)/",
                         "ADMINDOSE": 10,
                         "ADMINUNIT": "mg",
                         "EVTTAG": "10 mg",
@@ -3669,8 +3257,8 @@
                         "RATE_UNIT": "ml"
                     },
                     {
-                        "ADMINDT": "11/12/2018 00:30",
-                        "ADMINDTEVAL": "/Date(2018-12-10T23:30:00.000+00:00)/",
+                        "ADMINDT": "12/12/2018 01:07",
+                        "ADMINDTEVAL": "/Date(2018-12-12T00:07:00.000+00:00)/",
                         "ADMINDOSE": 10,
                         "ADMINUNIT": "mg",
                         "EVTTAG": "10 mg",
@@ -3679,8 +3267,8 @@
                         "RATE_UNIT": "ml"
                     },
                     {
-                        "ADMINDT": "11/12/2018 06:33",
-                        "ADMINDTEVAL": "/Date(2018-12-11T05:33:00.000+00:00)/",
+                        "ADMINDT": "12/12/2018 06:24",
+                        "ADMINDTEVAL": "/Date(2018-12-12T05:24:00.000+00:00)/",
                         "ADMINDOSE": 10,
                         "ADMINUNIT": "mg",
                         "EVTTAG": "10 mg",
@@ -3794,88 +3382,88 @@
                 "DISPENSE_CATEGORY": "Sueros/NE - Cont",
                 "ADMQUAL": [
                     {
-                        "ADMINDT": "10/12/2018 08:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T07:59:00.000+00:00)/",
-                        "ADMINDOSE": 11,
+                        "ADMINDT": "11/12/2018 08:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T07:59:00.000+00:00)/",
+                        "ADMINDOSE": 31,
                         "ADMINUNIT": "ml",
-                        "EVTTAG": "11 ml",
+                        "EVTTAG": "31 ml",
                         "MISSED": 0,
-                        "RATE": 10.42,
+                        "RATE": 31,
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "10/12/2018 08:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T07:59:59.000+00:00)/",
-                        "ADMINDOSE": 11,
+                        "ADMINDT": "11/12/2018 08:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T07:59:59.000+00:00)/",
+                        "ADMINDOSE": 31,
                         "ADMINUNIT": "ml",
-                        "EVTTAG": "11 ml",
+                        "EVTTAG": "31 ml",
                         "MISSED": 0,
                         "RATE": 0,
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "10/12/2018 09:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T08:59:00.000+00:00)/",
-                        "ADMINDOSE": 11,
+                        "ADMINDT": "11/12/2018 09:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T08:59:00.000+00:00)/",
+                        "ADMINDOSE": 31,
                         "ADMINUNIT": "ml",
-                        "EVTTAG": "11 ml",
+                        "EVTTAG": "31 ml",
                         "MISSED": 0,
-                        "RATE": 10.42,
+                        "RATE": 31,
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "10/12/2018 09:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T08:59:59.000+00:00)/",
-                        "ADMINDOSE": 11,
+                        "ADMINDT": "11/12/2018 09:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T08:59:59.000+00:00)/",
+                        "ADMINDOSE": 31,
                         "ADMINUNIT": "ml",
-                        "EVTTAG": "11 ml",
+                        "EVTTAG": "31 ml",
                         "MISSED": 0,
                         "RATE": 0,
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "10/12/2018 10:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T09:59:00.000+00:00)/",
-                        "ADMINDOSE": 11,
+                        "ADMINDT": "11/12/2018 10:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T09:59:00.000+00:00)/",
+                        "ADMINDOSE": 31,
                         "ADMINUNIT": "ml",
-                        "EVTTAG": "11 ml",
+                        "EVTTAG": "31 ml",
                         "MISSED": 0,
-                        "RATE": 10.42,
+                        "RATE": 31,
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "10/12/2018 10:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T09:59:59.000+00:00)/",
-                        "ADMINDOSE": 11,
+                        "ADMINDT": "11/12/2018 10:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T09:59:59.000+00:00)/",
+                        "ADMINDOSE": 31,
                         "ADMINUNIT": "ml",
-                        "EVTTAG": "11 ml",
+                        "EVTTAG": "31 ml",
                         "MISSED": 0,
                         "RATE": 0,
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "10/12/2018 11:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T10:59:00.000+00:00)/",
-                        "ADMINDOSE": 11,
+                        "ADMINDT": "11/12/2018 11:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T10:59:00.000+00:00)/",
+                        "ADMINDOSE": 31,
                         "ADMINUNIT": "ml",
-                        "EVTTAG": "11 ml",
+                        "EVTTAG": "31 ml",
                         "MISSED": 0,
-                        "RATE": 10.42,
+                        "RATE": 31,
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "10/12/2018 11:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T10:59:59.000+00:00)/",
-                        "ADMINDOSE": 11,
+                        "ADMINDT": "11/12/2018 11:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T10:59:59.000+00:00)/",
+                        "ADMINDOSE": 31,
                         "ADMINUNIT": "ml",
-                        "EVTTAG": "11 ml",
+                        "EVTTAG": "31 ml",
                         "MISSED": 0,
                         "RATE": 0,
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "10/12/2018 12:00",
-                        "ADMINDTEVAL": "/Date(2018-12-10T11:00:00.000+00:00)/",
+                        "ADMINDT": "11/12/2018 12:00",
+                        "ADMINDTEVAL": "/Date(2018-12-11T11:00:00.000+00:00)/",
                         "ADMINDOSE": 0,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "Iniciar bolsa 250 ml",
@@ -3884,8 +3472,8 @@
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "10/12/2018 12:00",
-                        "ADMINDTEVAL": "/Date(2018-12-10T11:00:00.000+00:00)/",
+                        "ADMINDT": "11/12/2018 12:00",
+                        "ADMINDTEVAL": "/Date(2018-12-11T11:00:00.000+00:00)/",
                         "ADMINDOSE": 0,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "Iniciar bolsa 250 ml",
@@ -3894,38 +3482,18 @@
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "10/12/2018 12:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T11:59:00.000+00:00)/",
-                        "ADMINDOSE": 11,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "11 ml",
-                        "MISSED": 0,
-                        "RATE": 10.42,
-                        "RATE_UNIT": "mL/h"
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 12:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T11:59:59.000+00:00)/",
-                        "ADMINDOSE": 11,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "11 ml",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "10/12/2018 13:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T12:59:00.000+00:00)/",
+                        "ADMINDT": "11/12/2018 12:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T11:59:00.000+00:00)/",
                         "ADMINDOSE": 31,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "31 ml",
                         "MISSED": 0,
-                        "RATE": 10.42,
+                        "RATE": 31,
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "10/12/2018 13:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T12:59:59.000+00:00)/",
+                        "ADMINDT": "11/12/2018 12:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T11:59:59.000+00:00)/",
                         "ADMINDOSE": 31,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "31 ml",
@@ -3934,18 +3502,18 @@
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "10/12/2018 14:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T13:59:00.000+00:00)/",
+                        "ADMINDT": "11/12/2018 13:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T12:59:00.000+00:00)/",
                         "ADMINDOSE": 31,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "31 ml",
                         "MISSED": 0,
-                        "RATE": 10.42,
+                        "RATE": 31,
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "10/12/2018 14:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T13:59:59.000+00:00)/",
+                        "ADMINDT": "11/12/2018 13:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T12:59:59.000+00:00)/",
                         "ADMINDOSE": 31,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "31 ml",
@@ -3954,18 +3522,18 @@
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "10/12/2018 15:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T14:59:00.000+00:00)/",
+                        "ADMINDT": "11/12/2018 14:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T13:59:00.000+00:00)/",
                         "ADMINDOSE": 31,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "31 ml",
                         "MISSED": 0,
-                        "RATE": 10.42,
+                        "RATE": 31,
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "10/12/2018 15:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T14:59:59.000+00:00)/",
+                        "ADMINDT": "11/12/2018 14:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T13:59:59.000+00:00)/",
                         "ADMINDOSE": 31,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "31 ml",
@@ -3974,18 +3542,18 @@
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "10/12/2018 16:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T15:59:00.000+00:00)/",
+                        "ADMINDT": "11/12/2018 15:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T14:59:00.000+00:00)/",
                         "ADMINDOSE": 31,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "31 ml",
                         "MISSED": 0,
-                        "RATE": 10.42,
+                        "RATE": 31,
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "10/12/2018 16:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T15:59:59.000+00:00)/",
+                        "ADMINDT": "11/12/2018 15:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T14:59:59.000+00:00)/",
                         "ADMINDOSE": 31,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "31 ml",
@@ -3994,18 +3562,18 @@
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "10/12/2018 17:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T16:59:00.000+00:00)/",
+                        "ADMINDT": "11/12/2018 16:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T15:59:00.000+00:00)/",
                         "ADMINDOSE": 31,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "31 ml",
                         "MISSED": 0,
-                        "RATE": 10.42,
+                        "RATE": 31,
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "10/12/2018 17:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T16:59:59.000+00:00)/",
+                        "ADMINDT": "11/12/2018 16:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T15:59:59.000+00:00)/",
                         "ADMINDOSE": 31,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "31 ml",
@@ -4014,18 +3582,18 @@
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "10/12/2018 18:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T17:59:00.000+00:00)/",
+                        "ADMINDT": "11/12/2018 17:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T16:59:00.000+00:00)/",
                         "ADMINDOSE": 31,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "31 ml",
                         "MISSED": 0,
-                        "RATE": 10.42,
+                        "RATE": 31,
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "10/12/2018 18:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T17:59:59.000+00:00)/",
+                        "ADMINDT": "11/12/2018 17:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T16:59:59.000+00:00)/",
                         "ADMINDOSE": 31,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "31 ml",
@@ -4034,8 +3602,48 @@
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "10/12/2018 19:00",
-                        "ADMINDTEVAL": "/Date(2018-12-10T18:00:00.000+00:00)/",
+                        "ADMINDT": "11/12/2018 18:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T17:59:00.000+00:00)/",
+                        "ADMINDOSE": 31,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "31 ml",
+                        "MISSED": 0,
+                        "RATE": 31,
+                        "RATE_UNIT": "mL/h"
+                    },
+                    {
+                        "ADMINDT": "11/12/2018 18:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T17:59:59.000+00:00)/",
+                        "ADMINDOSE": 31,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "31 ml",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "11/12/2018 19:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T18:59:00.000+00:00)/",
+                        "ADMINDOSE": 31,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "31 ml",
+                        "MISSED": 0,
+                        "RATE": 31,
+                        "RATE_UNIT": "mL/h"
+                    },
+                    {
+                        "ADMINDT": "11/12/2018 19:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T18:59:59.000+00:00)/",
+                        "ADMINDOSE": 31,
+                        "ADMINUNIT": "ml",
+                        "EVTTAG": "31 ml",
+                        "MISSED": 0,
+                        "RATE": 0,
+                        "RATE_UNIT": ""
+                    },
+                    {
+                        "ADMINDT": "11/12/2018 20:00",
+                        "ADMINDTEVAL": "/Date(2018-12-11T19:00:00.000+00:00)/",
                         "ADMINDOSE": 0,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "Iniciar bolsa 250 ml",
@@ -4044,8 +3652,8 @@
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "10/12/2018 19:00",
-                        "ADMINDTEVAL": "/Date(2018-12-10T18:00:00.000+00:00)/",
+                        "ADMINDT": "11/12/2018 20:00",
+                        "ADMINDTEVAL": "/Date(2018-12-11T19:00:00.000+00:00)/",
                         "ADMINDOSE": 0,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "Iniciar bolsa 250 ml",
@@ -4054,8 +3662,8 @@
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "10/12/2018 19:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T18:59:00.000+00:00)/",
+                        "ADMINDT": "11/12/2018 20:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T19:59:00.000+00:00)/",
                         "ADMINDOSE": 31,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "31 ml",
@@ -4064,8 +3672,8 @@
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "10/12/2018 19:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T18:59:59.000+00:00)/",
+                        "ADMINDT": "11/12/2018 20:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T19:59:59.000+00:00)/",
                         "ADMINDOSE": 31,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "31 ml",
@@ -4074,8 +3682,8 @@
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "10/12/2018 20:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T19:59:00.000+00:00)/",
+                        "ADMINDT": "11/12/2018 21:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T20:59:00.000+00:00)/",
                         "ADMINDOSE": 31,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "31 ml",
@@ -4084,8 +3692,8 @@
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "10/12/2018 20:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T19:59:59.000+00:00)/",
+                        "ADMINDT": "11/12/2018 21:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T20:59:59.000+00:00)/",
                         "ADMINDOSE": 31,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "31 ml",
@@ -4094,8 +3702,8 @@
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "10/12/2018 21:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T20:59:00.000+00:00)/",
+                        "ADMINDT": "11/12/2018 22:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T21:59:00.000+00:00)/",
                         "ADMINDOSE": 31,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "31 ml",
@@ -4104,8 +3712,8 @@
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "10/12/2018 21:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T20:59:59.000+00:00)/",
+                        "ADMINDT": "11/12/2018 22:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T21:59:59.000+00:00)/",
                         "ADMINDOSE": 31,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "31 ml",
@@ -4114,8 +3722,8 @@
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "10/12/2018 22:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T21:59:00.000+00:00)/",
+                        "ADMINDT": "11/12/2018 23:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T22:59:00.000+00:00)/",
                         "ADMINDOSE": 31,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "31 ml",
@@ -4124,8 +3732,8 @@
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "10/12/2018 22:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T21:59:59.000+00:00)/",
+                        "ADMINDT": "11/12/2018 23:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T22:59:59.000+00:00)/",
                         "ADMINDOSE": 31,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "31 ml",
@@ -4134,8 +3742,8 @@
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "10/12/2018 23:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T22:59:00.000+00:00)/",
+                        "ADMINDT": "12/12/2018 00:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T23:59:00.000+00:00)/",
                         "ADMINDOSE": 31,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "31 ml",
@@ -4144,8 +3752,8 @@
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "10/12/2018 23:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T22:59:59.000+00:00)/",
+                        "ADMINDT": "12/12/2018 00:59",
+                        "ADMINDTEVAL": "/Date(2018-12-11T23:59:59.000+00:00)/",
                         "ADMINDOSE": 31,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "31 ml",
@@ -4154,8 +3762,8 @@
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "11/12/2018 00:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T23:59:00.000+00:00)/",
+                        "ADMINDT": "12/12/2018 01:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T00:59:00.000+00:00)/",
                         "ADMINDOSE": 31,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "31 ml",
@@ -4164,8 +3772,8 @@
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "11/12/2018 00:59",
-                        "ADMINDTEVAL": "/Date(2018-12-10T23:59:59.000+00:00)/",
+                        "ADMINDT": "12/12/2018 01:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T00:59:59.000+00:00)/",
                         "ADMINDOSE": 31,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "31 ml",
@@ -4174,8 +3782,8 @@
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "11/12/2018 01:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T00:59:00.000+00:00)/",
+                        "ADMINDT": "12/12/2018 02:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T01:59:00.000+00:00)/",
                         "ADMINDOSE": 31,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "31 ml",
@@ -4184,8 +3792,8 @@
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "11/12/2018 01:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T00:59:59.000+00:00)/",
+                        "ADMINDT": "12/12/2018 02:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T01:59:59.000+00:00)/",
                         "ADMINDOSE": 31,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "31 ml",
@@ -4194,8 +3802,8 @@
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "11/12/2018 02:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T01:59:00.000+00:00)/",
+                        "ADMINDT": "12/12/2018 03:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T02:59:00.000+00:00)/",
                         "ADMINDOSE": 31,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "31 ml",
@@ -4204,8 +3812,8 @@
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "11/12/2018 02:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T01:59:59.000+00:00)/",
+                        "ADMINDT": "12/12/2018 03:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T02:59:59.000+00:00)/",
                         "ADMINDOSE": 31,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "31 ml",
@@ -4214,8 +3822,8 @@
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "11/12/2018 03:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T02:59:00.000+00:00)/",
+                        "ADMINDT": "12/12/2018 04:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T03:59:00.000+00:00)/",
                         "ADMINDOSE": 31,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "31 ml",
@@ -4224,8 +3832,8 @@
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "11/12/2018 03:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T02:59:59.000+00:00)/",
+                        "ADMINDT": "12/12/2018 04:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T03:59:59.000+00:00)/",
                         "ADMINDOSE": 31,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "31 ml",
@@ -4234,8 +3842,8 @@
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "11/12/2018 04:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T03:59:00.000+00:00)/",
+                        "ADMINDT": "12/12/2018 05:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T04:59:00.000+00:00)/",
                         "ADMINDOSE": 31,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "31 ml",
@@ -4244,8 +3852,8 @@
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "11/12/2018 04:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T03:59:59.000+00:00)/",
+                        "ADMINDT": "12/12/2018 05:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T04:59:59.000+00:00)/",
                         "ADMINDOSE": 31,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "31 ml",
@@ -4254,8 +3862,8 @@
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "11/12/2018 05:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T04:59:00.000+00:00)/",
+                        "ADMINDT": "12/12/2018 06:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T05:59:00.000+00:00)/",
                         "ADMINDOSE": 31,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "31 ml",
@@ -4264,8 +3872,8 @@
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "11/12/2018 05:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T04:59:59.000+00:00)/",
+                        "ADMINDT": "12/12/2018 06:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T05:59:59.000+00:00)/",
                         "ADMINDOSE": 31,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "31 ml",
@@ -4274,8 +3882,8 @@
                         "RATE_UNIT": ""
                     },
                     {
-                        "ADMINDT": "11/12/2018 06:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T05:59:00.000+00:00)/",
+                        "ADMINDT": "12/12/2018 07:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T06:59:00.000+00:00)/",
                         "ADMINDOSE": 31,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "31 ml",
@@ -4284,28 +3892,8 @@
                         "RATE_UNIT": "mL/h"
                     },
                     {
-                        "ADMINDT": "11/12/2018 06:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T05:59:59.000+00:00)/",
-                        "ADMINDOSE": 31,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "31 ml",
-                        "MISSED": 0,
-                        "RATE": 0,
-                        "RATE_UNIT": ""
-                    },
-                    {
-                        "ADMINDT": "11/12/2018 07:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T06:59:00.000+00:00)/",
-                        "ADMINDOSE": 31,
-                        "ADMINUNIT": "ml",
-                        "EVTTAG": "31 ml",
-                        "MISSED": 0,
-                        "RATE": 31,
-                        "RATE_UNIT": "mL/h"
-                    },
-                    {
-                        "ADMINDT": "11/12/2018 07:59",
-                        "ADMINDTEVAL": "/Date(2018-12-11T06:59:59.000+00:00)/",
+                        "ADMINDT": "12/12/2018 07:59",
+                        "ADMINDTEVAL": "/Date(2018-12-12T06:59:59.000+00:00)/",
                         "ADMINDOSE": 31,
                         "ADMINUNIT": "ml",
                         "EVTTAG": "31 ml",
