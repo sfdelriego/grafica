@@ -425,6 +425,16 @@
             "DISPENSE_CATEGORY": "_Carro Dosis Unitaria",
             "ADMQUAL": [
                 {
+                        "ADMINDT": "10/12/2018 09:00",
+                        "ADMINDTEVAL": "/Date(2018-12-10T08:00:00.000+00:00)/",
+                        "ADMINDOSE": 60.0,
+                        "ADMINUNIT": "mg",
+                        "EVTTAG": "60 mg",
+                        "MISSED": 0,
+                        "RATE": 0.0,
+                        "RATE_UNIT": ""
+                    },
+                {
                     "ADMINDT": "13/12/2018 09:00",
                     "ADMINDTEVAL": "/Date(2018-12-13T08:00:00.000+00:00)/",
                     "ADMINDOSE": 60,
